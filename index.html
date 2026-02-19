@@ -42,7 +42,7 @@ async function main() {
     div.innerHTML = `
       <div class="title"><a href="${it.link}" target="_blank" rel="noopener noreferrer">${escapeHtml(it.title)}</a></div>
       <div class="sub">${escapeHtml(it.source)} · ${escapeHtml(it.published_kst)}</div>
-      <p class="desc">${escapeHtml(it.summary || "")}</p>
+      
     `;
     list.appendChild(div);
   });
