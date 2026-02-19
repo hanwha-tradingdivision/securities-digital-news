@@ -38,9 +38,13 @@ jobs:
           now = datetime.now(tz=KST)
           since = now - timedelta(days=7)
 
+          import feedparser 
+          from urllib.parse import quote_plus
+
           query = "증권 디지털 증권사"
-          rss = f"https://news.google.com/rss/search?q={query}&hl=ko&gl=KR&ceid=KR:ko"
-          d = feedparser.parse(rss)
+          q = quote_plus(query)  # 공백/한글을 URL 안전하게 변환
+          rss = f"https://news.google.com/rss/search?q={q}&hl=ko&gl=KR&ceid=KR:ko"
+          d = feedparser.parse(rss)ㄴㅇ
 
           def pick_source(title: str) -> str:
             if " - " in title:
