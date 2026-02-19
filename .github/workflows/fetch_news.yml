@@ -41,7 +41,7 @@ jobs:
           since = now - timedelta(days=30)
 
           # 검색 키워드 (원하면 여기만 바꾸면 됨)
-          query = "증권 디지털 증권사"
+          query = "증권사 디지털 OR STO OR 토큰증권 OR MTS OR HTS OR 디지털자산"
           q = quote_plus(query)
           rss = f"https://news.google.com/rss/search?q={q}&hl=ko&gl=KR&ceid=KR:ko"
 
@@ -75,9 +75,14 @@ jobs:
               link = (e.get("link") or "").strip()
               if not link or link in seen:
                   continue
-
               t = safe_dt(e)
-              if t is None or t < since:
+
+              # 날짜가 없으면 그냥 현재 시간으로 처리
+              if t is None:
+              t = now
+
+              # 30일 이전만 제외
+              if t < since:
                   continue
 
               title_raw = (e.get("title") or "").strip()
@@ -85,9 +90,6 @@ jobs:
               source = pick_source(title_raw)
               summary = re.sub(r"\s+", " ", (e.get("summary") or "")).strip()
 
-              # 너무 짧은 제목 제외
-              if len(title) < 10:
-                  continue
 
               seen.add(link)
               items.append({
@@ -103,7 +105,7 @@ jobs:
           items.sort(key=lambda x: x["published_ts"], reverse=True)
 
           # ✅ Top 5만 (원하면 20으로 바꿔도 됨)
-          items = items[:5]
+          items = items[:20]
 
           out = {
               "query": query,
