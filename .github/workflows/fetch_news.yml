@@ -38,7 +38,7 @@ jobs:
 
           KST = timezone(timedelta(hours=9))
           now = datetime.now(tz=KST)
-          since = now - timedelta(days=7)
+          since = now - timedelta(days=30)
 
           # 검색 키워드 (원하면 여기만 바꾸면 됨)
           query = "증권 디지털 증권사"
