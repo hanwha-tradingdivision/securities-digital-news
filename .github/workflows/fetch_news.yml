@@ -1,0 +1,120 @@
+name: Fetch Securities+Digital News
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 23 * * *"  # 매일 23:05 UTC = 다음날 08:05 KST 근처
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser python-dateutil
+
+      - name: Fetch RSS and update news.json
+        run: |
+          python - << 'PY'
+          import json
+          import re
+          from datetime import datetime, timedelta, timezone
+          import feedparser
+          from dateutil import parser as dtparser
+
+          KST = timezone(timedelta(hours=9))
+          now = datetime.now(tz=KST)
+          since = now - timedelta(days=7)
+
+          query = "증권 디지털 증권사"
+          rss = f"https://news.google.com/rss/search?q={query}&hl=ko&gl=KR&ceid=KR:ko"
+          d = feedparser.parse(rss)
+
+          def pick_source(title: str) -> str:
+            if " - " in title:
+              return title.rsplit(" - ", 1)[1].strip()
+            return "Unknown"
+
+          def clean_title(title: str) -> str:
+            if " - " in title:
+              return title.rsplit(" - ", 1)[0].strip()
+            return title.strip()
+
+          def safe_dt(entry):
+            for k in ("published", "updated", "pubDate"):
+              v = entry.get(k)
+              if v:
+                try:
+                  return dtparser.parse(v).astimezone(KST)
+                except Exception:
+                  pass
+            return None
+
+          items = []
+          seen = set()
+
+          for e in d.entries:
+            link = (e.get("link") or "").strip()
+            if not link or link in seen:
+              continue
+
+            t = safe_dt(e)
+            if t is None or t < since:
+              continue
+
+            title_raw = (e.get("title") or "").strip()
+            title = clean_title(title_raw)
+            source = pick_source(title_raw)
+            summary = re.sub(r"\s+", " ", (e.get("summary") or "")).strip()
+
+            if len(title) < 10:
+              continue
+
+            seen.add(link)
+            items.append({
+              "title": title,
+              "source": source,
+              "published_kst": t.strftime("%Y-%m-%d %H:%M KST"),
+              "published_ts": int(t.timestamp()),
+              "link": link,
+              "summary": summary[:240]
+            })
+
+          items.sort(key=lambda x: x["published_ts"], reverse=True)
+          items = items[:20]
+
+          out = {
+            "query": query,
+            "generated_kst": now.strftime("%Y-%m-%d %H:%M KST"),
+            "items": items
+          }
+
+          with open("news.json", "w", encoding="utf-8") as f:
+            json.dump(out, f, ensure_ascii=False, indent=2)
+
+          print(f"Saved {len(items)} items")
+          PY
+
+      - name: Commit changes
+        run: |
+          if git status --porcelain | grep -q "news.json"; then
+            git config user.name "github-actions"
+            git config user.email "github-actions@users.noreply.github.com"
+            git add news.json
+            git commit -m "Update news.json"
+            git push
+          else
+            echo "No changes"
+          fi
