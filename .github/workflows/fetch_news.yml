@@ -31,6 +31,8 @@ jobs:
           import json
           import re
           from datetime import datetime, timedelta, timezone
+          from urllib.parse import quote_plus
+
           import feedparser
           from dateutil import parser as dtparser
 
@@ -38,75 +40,79 @@ jobs:
           now = datetime.now(tz=KST)
           since = now - timedelta(days=7)
 
-          import feedparser 
-          from urllib.parse import quote_plus
-
+          # 검색 키워드 (원하면 여기만 바꾸면 됨)
           query = "증권 디지털 증권사"
-          q = quote_plus(query)  # 공백/한글을 URL 안전하게 변환
+          q = quote_plus(query)
           rss = f"https://news.google.com/rss/search?q={q}&hl=ko&gl=KR&ceid=KR:ko"
-          d = feedparser.parse(rss)ㄴㅇ
+
+          d = feedparser.parse(rss)
 
           def pick_source(title: str) -> str:
-            if " - " in title:
-              return title.rsplit(" - ", 1)[1].strip()
-            return "Unknown"
+              # 보통 "기사제목 - 언론사" 형태
+              if " - " in title:
+                  return title.rsplit(" - ", 1)[1].strip()
+              return "Unknown"
 
           def clean_title(title: str) -> str:
-            if " - " in title:
-              return title.rsplit(" - ", 1)[0].strip()
-            return title.strip()
+              if " - " in title:
+                  return title.rsplit(" - ", 1)[0].strip()
+              return title.strip()
 
           def safe_dt(entry):
-            for k in ("published", "updated", "pubDate"):
-              v = entry.get(k)
-              if v:
-                try:
-                  return dtparser.parse(v).astimezone(KST)
-                except Exception:
-                  pass
-            return None
+              for k in ("published", "updated", "pubDate"):
+                  v = entry.get(k)
+                  if v:
+                      try:
+                          return dtparser.parse(v).astimezone(KST)
+                      except Exception:
+                          pass
+              return None
 
           items = []
           seen = set()
 
           for e in d.entries:
-            link = (e.get("link") or "").strip()
-            if not link or link in seen:
-              continue
+              link = (e.get("link") or "").strip()
+              if not link or link in seen:
+                  continue
 
-            t = safe_dt(e)
-            if t is None or t < since:
-              continue
+              t = safe_dt(e)
+              if t is None or t < since:
+                  continue
 
-            title_raw = (e.get("title") or "").strip()
-            title = clean_title(title_raw)
-            source = pick_source(title_raw)
-            summary = re.sub(r"\s+", " ", (e.get("summary") or "")).strip()
+              title_raw = (e.get("title") or "").strip()
+              title = clean_title(title_raw)
+              source = pick_source(title_raw)
+              summary = re.sub(r"\s+", " ", (e.get("summary") or "")).strip()
 
-            if len(title) < 10:
-              continue
+              # 너무 짧은 제목 제외
+              if len(title) < 10:
+                  continue
 
-            seen.add(link)
-            items.append({
-              "title": title,
-              "source": source,
-              "published_kst": t.strftime("%Y-%m-%d %H:%M KST"),
-              "published_ts": int(t.timestamp()),
-              "link": link,
-              "summary": summary[:240]
-            })
+              seen.add(link)
+              items.append({
+                  "title": title,
+                  "source": source,
+                  "published_kst": t.strftime("%Y-%m-%d %H:%M KST"),
+                  "published_ts": int(t.timestamp()),
+                  "link": link,
+                  "summary": summary[:240]
+              })
 
+          # 최신순
           items.sort(key=lambda x: x["published_ts"], reverse=True)
-          items = items[:20]
+
+          # ✅ Top 5만 (원하면 20으로 바꿔도 됨)
+          items = items[:5]
 
           out = {
-            "query": query,
-            "generated_kst": now.strftime("%Y-%m-%d %H:%M KST"),
-            "items": items
+              "query": query,
+              "generated_kst": now.strftime("%Y-%m-%d %H:%M KST"),
+              "items": items
           }
 
           with open("news.json", "w", encoding="utf-8") as f:
-            json.dump(out, f, ensure_ascii=False, indent=2)
+              json.dump(out, f, ensure_ascii=False, indent=2)
 
           print(f"Saved {len(items)} items")
           PY
