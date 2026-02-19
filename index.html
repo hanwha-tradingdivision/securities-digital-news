@@ -1,180 +1,167 @@
 <!doctype html>
 <html lang="ko">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <meta name="robots" content="noindex,nofollow" />
-  <title>증권·디지털 뉴스 허브</title>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<title>증권·디지털 뉴스 허브</title>
 
-  <style>
-    :root{
-      --bg:#0b1220;
-      --card:#0f1a33;
-      --card2:#0c1630;
-      --text:#e8eefc;
-      --muted:#a9b6d3;
-      --line:rgba(255,255,255,.10);
-      --accent:#6aa6ff;
-      --accent2:#7c5cff;
-      --chip:rgba(106,166,255,.12);
-    }
-    *{box-sizing:border-box}
-    body{
-      margin:0;
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
-      color:var(--text);
-      background: radial-gradient(1200px 600px at 20% 0%, rgba(124,92,255,.25), transparent 60%),
-                  radial-gradient(900px 500px at 90% 10%, rgba(106,166,255,.25), transparent 55%),
-                  var(--bg);
-    }
-    a{color:inherit; text-decoration:none}
-    a:hover{text-decoration:underline}
-    .wrap{max-width:980px; margin:0 auto; padding:28px 18px 56px;}
-    .header{
-      display:flex; gap:16px; align-items:flex-end; justify-content:space-between;
-      margin-bottom:18px;
-    }
-    .title h1{
-      margin:0;
-      font-size:28px;
-      letter-spacing:-.3px;
-      line-height:1.2;
-    }
-    .title p{
-      margin:10px 0 0;
-      color:var(--muted);
-      font-size:13px;
-    }
-    .badge{
-      display:inline-flex;
-      align-items:center;
-      gap:8px;
-      padding:10px 12px;
-      border:1px solid var(--line);
-      border-radius:14px;
-      background:rgba(255,255,255,.04);
-      color:var(--muted);
-      font-size:12px;
-      white-space:nowrap;
-    }
-    .badge strong{color:var(--text); font-weight:650}
-    .controls{
-      display:flex; gap:10px; flex-wrap:wrap;
-      margin:14px 0 18px;
-    }
-    .chip{
-      padding:8px 10px;
-      border-radius:999px;
-      border:1px solid var(--line);
-      background:var(--chip);
-      color:var(--text);
-      font-size:12px;
-    }
-    .grid{
-      display:grid;
-      grid-template-columns: 1fr;
-      gap:12px;
-    }
-    .card{
-      border:1px solid var(--line);
-      border-radius:18px;
-      padding:14px 14px;
-      background:linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.03));
-      box-shadow: 0 10px 30px rgba(0,0,0,.25);
-      transition: transform .08s ease, border-color .08s ease;
-    }
-    .card:hover{
-      transform: translateY(-1px);
-      border-color: rgba(106,166,255,.35);
-    }
-    .row{
-      display:flex; gap:12px;
-      align-items:flex-start;
-    }
-    .favicon{
-      width:22px; height:22px;
-      border-radius:6px;
-      background:rgba(255,255,255,.08);
-      border:1px solid var(--line);
-      flex:0 0 auto;
-    }
-    .main{flex:1 1 auto; min-width:0;}
-    .headline{
-      margin:0;
-      font-size:16px;
-      line-height:1.35;
-      font-weight:750;
-      letter-spacing:-.2px;
-    }
-    .meta{
-      margin-top:8px;
-      display:flex;
-      gap:10px;
-      flex-wrap:wrap;
-      color:var(--muted);
-      font-size:12px;
-      align-items:center;
-    }
-    .pill{
-      padding:4px 8px;
-      border-radius:999px;
-      background:rgba(124,92,255,.18);
-      border:1px solid rgba(124,92,255,.25);
-      color:#d6ceff;
-      font-size:11px;
-    }
-    .source{
-      display:inline-flex;
-      align-items:center;
-      gap:6px;
-    }
-    .dot{
-      width:6px; height:6px;
-      border-radius:999px;
-      background:linear-gradient(90deg, var(--accent), var(--accent2));
-      display:inline-block;
-    }
-    .footer{
-      margin-top:22px;
-      color:rgba(169,182,211,.8);
-      font-size:12px;
-    }
+<style>
+:root{
+  --bg:#0b1220;
+  --text:#e8eefc;
+  --muted:#a9b6d3;
+  --line:rgba(255,255,255,.10);
+  --accent:#6aa6ff;
+  --accent2:#7c5cff;
+}
 
-    @media (min-width: 860px){
-      .title h1{font-size:32px}
-      .card{padding:16px 18px}
-      .headline{font-size:17px}
-    }
-  </style>
+*{box-sizing:border-box}
+
+body{
+  margin:0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  color:var(--text);
+  background: radial-gradient(1200px 600px at 20% 0%, rgba(124,92,255,.25), transparent 60%),
+              radial-gradient(900px 500px at 90% 10%, rgba(106,166,255,.25), transparent 55%),
+              var(--bg);
+}
+
+.wrap{
+  max-width:960px;
+  margin:0 auto;
+  padding:28px 18px 60px;
+}
+
+.title h1{
+  margin:0;
+  font-size:30px;
+  line-height:1.25;
+  word-break:keep-all; /* 한글 강제 줄바꿈 방지 */
+}
+
+.title span{
+  font-size:18px;
+  opacity:.7;
+}
+
+.badge{
+  margin-top:14px;
+  display:inline-block;
+  padding:10px 14px;
+  border-radius:14px;
+  border:1px solid var(--line);
+  background:rgba(255,255,255,.06);
+  color:var(--muted);
+  font-size:13px;
+}
+
+.controls{
+  margin-top:16px;
+  display:flex;
+  gap:10px;
+  flex-wrap:wrap;
+}
+
+.chip{
+  padding:8px 12px;
+  border-radius:999px;
+  border:1px solid var(--line);
+  background:rgba(106,166,255,.15);
+  font-size:12px;
+}
+
+.grid{
+  margin-top:20px;
+  display:grid;
+  gap:14px;
+}
+
+.card{
+  border-radius:18px;
+  padding:16px;
+  border:1px solid var(--line);
+  background:rgba(255,255,255,.05);
+  transition:.15s ease;
+}
+
+.card:hover{
+  border-color:rgba(106,166,255,.5);
+}
+
+.headline{
+  font-size:17px;
+  font-weight:700;
+  line-height:1.4;
+  margin:0 0 10px 0;
+  word-break:keep-all;
+}
+
+.meta{
+  font-size:12px;
+  color:var(--muted);
+  display:flex;
+  gap:10px;
+  align-items:center;
+  flex-wrap:wrap;
+}
+
+.dot{
+  width:6px;
+  height:6px;
+  border-radius:50%;
+  background:linear-gradient(90deg,var(--accent),var(--accent2));
+  display:inline-block;
+}
+
+a{
+  color:inherit;
+  text-decoration:none;
+}
+
+a:hover{
+  text-decoration:underline;
+}
+
+/* 📱 모바일 최적화 */
+@media (max-width:600px){
+  .title h1{
+    font-size:22px;
+  }
+  .headline{
+    font-size:15px;
+  }
+}
+</style>
 </head>
 
 <body>
-  <div class="wrap">
-    <div class="header">
-      <div class="title">
-        <h1>증권 · 디지털 뉴스 허브 (최근 30일)</h1>
-        <p>키워드 기반 자동 수집 · 링크 공유용 페이지</p>
-      </div>
-      <div class="badge" id="updated">업데이트 확인 중...</div>
-    </div>
+<div class="wrap">
 
-    <div class="controls" id="chips"></div>
-    <div class="grid" id="list"></div>
-
-    <div class="footer">
-      ※ 이 페이지는 기사 원문을 재배포하지 않고, 제목/출처/발행시각/링크만 제공합니다.
-    </div>
+  <div class="title">
+    <h1>
+      증권 · 디지털 뉴스 허브<br>
+      <span>(최근 30일)</span>
+    </h1>
   </div>
 
+  <div class="badge" id="updated">
+    업데이트 확인 중...
+  </div>
+
+  <div class="controls" id="chips"></div>
+  <div class="grid" id="list"></div>
+
+</div>
+
 <script>
-async function main() {
-  const res = await fetch("./news.json?ts=" + Date.now());
+async function main(){
+  const res = await fetch("./news.json?ts="+Date.now());
   const data = await res.json();
 
   document.getElementById("updated").innerHTML =
-    `마지막 업데이트 <strong>${escapeHtml(data.generated_kst)}</strong>`;
+    "마지막 업데이트: <strong>"+escapeHtml(data.generated_kst)+"</strong>";
 
-  // 상단 칩
   const chips = document.getElementById("chips");
   chips.innerHTML = `
     <div class="chip">키워드: ${escapeHtml(data.query)}</div>
@@ -182,46 +169,37 @@ async function main() {
   `;
 
   const list = document.getElementById("list");
-  list.innerHTML = "";
+  list.innerHTML="";
 
-  data.items.forEach((it) => {
-    const card = document.createElement("div");
-    card.className = "card";
+  data.items.forEach(it=>{
+    const card=document.createElement("div");
+    card.className="card";
 
-    const domain = guessDomain(it.link);
-    const faviconUrl = domain ? `https://www.google.com/s2/favicons?domain=${encodeURIComponent(domain)}&sz=64` : "";
-
-    card.innerHTML = `
-      <div class="row">
-        <img class="favicon" src="${faviconUrl}" alt="" onerror="this.style.display='none'"/>
-        <div class="main">
-          <p class="headline">
-            <a href="${it.link}" target="_blank" rel="noopener noreferrer">${escapeHtml(it.title)}</a>
-          </p>
-          <div class="meta">
-            <span class="source"><span class="dot"></span>${escapeHtml(it.source || "Unknown")}</span>
-            <span class="pill">${escapeHtml(it.published_kst || "")}</span>
-          </div>
-        </div>
+    card.innerHTML=`
+      <div class="headline">
+        <a href="${it.link}" target="_blank" rel="noopener">
+          ${escapeHtml(it.title)}
+        </a>
+      </div>
+      <div class="meta">
+        <span><span class="dot"></span> ${escapeHtml(it.source)}</span>
+        <span>${escapeHtml(it.published_kst)}</span>
       </div>
     `;
     list.appendChild(card);
   });
 }
 
-function guessDomain(url) {
-  try { return new URL(url).hostname; } catch(e) { return ""; }
-}
-
-function escapeHtml(s) {
-  return (s ?? "").replace(/[&<>"']/g, (m) => ({
-    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
+function escapeHtml(s){
+  return (s ?? "").replace(/[&<>"']/g, m => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",
+    '"':"&quot;","'":"&#039;"
   }[m]));
 }
 
-main().catch(err => {
-  document.getElementById("updated").textContent = "로딩 실패: " + err;
-});
+main();
 </script>
+
 </body>
 </html>
+
