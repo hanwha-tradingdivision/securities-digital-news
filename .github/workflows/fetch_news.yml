@@ -79,7 +79,7 @@ jobs:
 
               # 날짜가 없으면 그냥 현재 시간으로 처리
               if t is None:
-              t = now
+                  t = now
 
               # 30일 이전만 제외
               if t < since:
