@@ -1,6 +1,6 @@
 {
   "query": "증권사 디지털 OR STO OR 토큰증권 OR 디지털자산",
-  "generated_kst": "2026-02-19 17:31 KST",
+  "generated_kst": "2026-02-20 08:58 KST",
   "items": [
     {
       "title": "STO 시장 열린다…증권사들 앞다퉈 인프라 선점 경쟁",
@@ -59,6 +59,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5SQTFXaUpLZFhhVnpXLWFybjA2dzVkMkN3VVFBSUxlUzFDa0ZmZzdKQmI2YlpyTFhaLVhpdUV1Zi1VZ2dUMGpPVUtCdlRKR1hMVEI3YWRhdEw5TjdrbVkzeTM4bk5NLTZTeFQxatIBcEFVX3lxTE0tQjVQSkhRX2FDN1NxT0J2QVhTZTRYd2"
     },
     {
+      "title": "[증권사 먹거리 설계④] 앱 아닌 '파이프라인'…AI·데이터·플랫폼 이동 수익구조 새 판",
+      "source": "뉴스투데이",
+      "published_kst": "2026-02-05 08:08 KST",
+      "published_ts": 1770246480,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yMnFxZjViVk8wUFRWYXNIUk5YcGdBbEo2ZV9Cd29KNHRTM3pIZjF3TUhTa1JuM3Jjd2JBdDRaQmtxZW1wcGRIN282cHNleXFqSXJ2S0tITXJJNnZZY3c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yMnFxZjViVk8wUFRWYXNIUk5YcGdBbEo2ZV9Cd29KNHRTM3pIZjF3TUhTa1JuM3Jjd2JBdDRaQmtxZW1wcGRIN282cHNleXFqSXJ2S0tITXJJNnZZY3c?oc=5\" target=\"_blank\">[증권사 먹거리 설계④] 앱 아닌 '파이프라인'…AI·데이터·플랫폼 이동"
+    },
+    {
       "title": "[증권사 먹거리 설계③] STO 카운트다운…‘성장축’ 노리는 증권가, 인가 진통 속 선점 경쟁",
       "source": "뉴스투데이",
       "published_kst": "2026-02-04 17:00 KST",
@@ -107,12 +115,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqQURfOTBpQ2dOdlAwUGlObG5GdlBwU1BOVHhjV0lXWEQ2ZzBRaWgxcDFwU2RUSFdHZVppZVlzUDQ4ckN3OXlhWWREUEotWWJ5bkRyanBQMHQtSEc2VFdQQ9IBf0FVX3lxTE1xQjhMa1lwTVNQRUh1Y2k4VWFPYWhlekM0TXN4QmZWcWdfWG"
     },
     {
-      "title": "토큰증권·디지털화폐 인프라, IT업계 새 먹거리로 부상",
-      "source": "IT조선",
-      "published_kst": "2026-01-27 17:00 KST",
-      "published_ts": 1769500800,
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zdUk1ajV6QnJ2aFRjcjRYUHdaRWEzTjNmdVhDOHJ4aVhkWDZSM1lxcjc0RXp1SDgzYldNb19aU1pxVFFsRkhZZkt4cElVbnNMR2NackRuOEJ6aks3TnBCUTdjTFNGc1Z2Q2s1RHktWjXSAXRBVV95cUxNbE51X1JVRXRsWDR3S0ZXWTBJeGZOQ1RXQ2UwcXJmUW9XREVmZFl5TURRRUVPaVRtS0F4ZlNjSms2MnhUb0lUa3RfTkFUWno5dkI3amxGdTZWUkdhWGUyT3dwZkpjbk8yUUpsZlc4UWRkdW5ZSg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5zdUk1ajV6QnJ2aFRjcjRYUHdaRWEzTjNmdVhDOHJ4aVhkWDZSM1lxcjc0RXp1SDgzYldNb19aU1pxVFFsRkhZZkt4cElVbnNMR2NackRuOEJ6aks3TnBCUTdjTFNGc1Z2Q2s1RHktWjXSAXRBVV95cUxNbE51X1JVRXRsWDR3S0ZXWTBJeG"
+      "title": "[강세 토픽] 증권사 테마, 한국금융지주 +6.42%, 키움증권 +6.20% - 조선비즈",
+      "source": "Chosunbiz",
+      "published_kst": "2026-01-29 17:00 KST",
+      "published_ts": 1769673600,
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNThmWEdvNzVrWXYtWTFmNUwtR2VHTHVZS2VCQkgyOUFUb2RWaHQzcTF1aU95RG55dEZpcEJxOTdqdWd2NEs4dHgyUTA4aG5QWjdzckZSZjREV3doeE15aWlESlI3amRoRE9KaWozc0x0QmdhRFhkd0ZUQUpnRTExRmJpONIBlwFBVV95cUxNdVVWYjdyY25aR1Y4ZnF3LXY4WHVfOG1zTnVQNzM1VE5ERVN1QXNlb0NicXJoWVVSV2JxOXh1YzFRdVp6X2VjMnlFd2NDcklyMjJuZFl2dEkyc1JxRkVKWWltX3hxdHhvRDZWNlNhQjFQX2k1TnYzQTVCSG5mckxIQXZuMXB1bnZoRkp0T184T0xHaEJZb0VR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNThmWEdvNzVrWXYtWTFmNUwtR2VHTHVZS2VCQkgyOUFUb2RWaHQzcTF1aU95RG55dEZpcEJxOTdqdWd2NEs4dHgyUTA4aG5QWjdzckZSZjREV3doeE15aWlESlI3amRoRE9KaWozc0x0QmdhRFhkd0ZUQUpnRTExRmJpONIBlwFBVV95cU"
     },
     {
       "title": "두나무 지분 가진 한화證, 디지털 자산 증권사 도약할까",
@@ -153,14 +161,6 @@
       "published_ts": 1769068800,
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XU1dSUXdpc2doMVRuUWFMS1d6RnFyQVhES3FHM3AtcGhKNG1EMTlDU2l5Rmh0U1ZTbDdObDZEN25lLVZ6X2JQdlJBd2Y3STBldldaOQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XU1dSUXdpc2doMVRuUWFMS1d6RnFyQVhES3FHM3AtcGhKNG1EMTlDU2l5Rmh0U1ZTbDdObDZEN25lLVZ6X2JQdlJBd2Y3STBldldaOQ?oc=5\" target=\"_blank\">KB증권, '디지털 개인연금자산' 3조 돌파...증권사 중심 '머니 무브'</a>&nbsp;&n"
-    },
-    {
-      "title": "토큰증권 시장 임박, '날 벼리는' 증권사들",
-      "source": "뷰어스",
-      "published_kst": "2026-01-21 17:00 KST",
-      "published_ts": 1768982400,
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94ME10ZVV4LTRjOFRrVkc1NFloci1XU3ZfN2FqRC1lSFkxUHZ2Sy1BREkzbk1ITG1DZ1BROE1xRDB3Y2k4eVl2V0YxdHg1SC1LRnREOGFKaWM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE94ME10ZVV4LTRjOFRrVkc1NFloci1XU3ZfN2FqRC1lSFkxUHZ2Sy1BREkzbk1ITG1DZ1BROE1xRDB3Y2k4eVl2V0YxdHg1SC1LRnREOGFKaWM?oc=5\" target=\"_blank\">토큰증권 시장 임박, '날 벼리는' 증권사들</a>&nbsp;&nbsp;<font co"
     }
   ]
 }
