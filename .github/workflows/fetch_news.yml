@@ -41,7 +41,7 @@ jobs:
           since = now - timedelta(days=30)
 
           # 검색 키워드 (원하면 여기만 바꾸면 됨)
-          query = "증권 디지털 OR STO OR 토큰증권 OR 디지털자산 OR 토큰화"
+          query = "증권 디지털 OR STO OR 토큰증권 OR 토큰화 OR 디지털자산 OR 디지털채권"
           q = quote_plus(query)
           rss = f"https://news.google.com/rss/search?q={q}&hl=ko&gl=KR&ceid=KR:ko"
 
