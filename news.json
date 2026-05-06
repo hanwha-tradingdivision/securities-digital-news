@@ -1,406 +1,406 @@
 {
   "query": "증권 디지털 OR STO OR 토큰증권 OR 토큰화 OR 디지털자산 OR 디지털채권",
-  "generated_kst": "2026-05-06 08:58 KST",
+  "generated_kst": "2026-05-07 08:59 KST",
   "items": [
     {
-      "title": "삼성SDS, 예탁원 '토큰증권 플랫폼' 구축 사업 수주",
-      "source": "핀포인트뉴스",
-      "published_kst": "2026-05-06 08:35 KST",
-      "published_ts": 1778024121,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnRnphU3A4U25HOEdWdC1JVXcwaGdDTi1kdnpTOWduR2doZE8wdXpNU1BmZWZrX2M1ZXdsalE1b3ZHZHJNQXdwX1gyM2hMNGJ4LXBzNVB3T0VtU2R5eGxrQWFTaGFDRnctMGZVOHpnVXo0dVHSAXdBVV95cUxPVXhtWTFoamN5THI1QU1kMEliY2I1ZmhrV09SZXk3SWU0RXlKWjNDM1lEeld2Q3lIbk40T1oxNzZ5TXFXZGNpVkxXNXZpSldCNEoySlpDd2FDYnl4Yy0tNmlwRDhLM0g2dWV3RnJnTC1fbWxaaWQzRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBnRnphU3A4U25HOEdWdC1JVXcwaGdDTi1kdnpTOWduR2doZE8wdXpNU1BmZWZrX2M1ZXdsalE1b3ZHZHJNQXdwX1gyM2hMNGJ4LXBzNVB3T0VtU2R5eGxrQWFTaGFDRnctMGZVOHpnVXo0dVHSAXdBVV95cUxPVXhtWTFoamN5THI1QU1kME"
+      "title": "블록체인 장부와 전자증권 연동… 삼성SDS, 예탁원 STO 인프라 수주로 디지털 금융 거점 확보",
+      "source": "한국데이터경제신문",
+      "published_kst": "2026-05-07 06:53 KST",
+      "published_ts": 1778104380,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqNUpNWjJNajZaT1ZoWlg2MzdKOUpzZ0dUOVRtVGljeW1TYkpDM2lHbFQ0SWJXbWdITkp5SmsyeXdNQ21sRDZ2YUpPZzBZZzc5MGtleFlxa1lpRGhLeXE3OXZYaE5xc3FvLUxJeHRVOEo?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBqNUpNWjJNajZaT1ZoWlg2MzdKOUpzZ0dUOVRtVGljeW1TYkpDM2lHbFQ0SWJXbWdITkp5SmsyeXdNQ21sRDZ2YUpPZzBZZzc5MGtleFlxa1lpRGhLeXE3OXZYaE5xc3FvLUxJeHRVOEo?oc=5\" target=\"_blank\">블록체인 장부와 전자증권 연동"
+    },
+    {
+      "title": "삼성SDS, 예탁결제원의 토큰증권 플랫폼 사업 수주",
+      "source": "동아일보",
+      "published_kst": "2026-05-07 00:30 KST",
+      "published_ts": 1778081400,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FemZ5UEJZSzN2b0xuOUplZWVqekRFU2JHX3h6MjE3enFGSFJkYWlsYkpxMDJvSnNDdS01OHVkcW9tUlQzb1BUQkk0enNFTldHc1JhSzZoSjh4ZmNYYURIVTliSEh0Q3lINGVTMHJTNnpGbU9LQkHSAWZBVV95cUxNWHE4cWJ0THpnbGhaUU1RQVFlYnlwc3c1VzVBdl9vTS1nT2NpcHllOE4xT2lZSWZtSVF2b0xvdDlVel9hdnZrNDVRVzlITkk5dnluU0lzTHl6MzFzNWNxdzFRNWcxb3c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1FemZ5UEJZSzN2b0xuOUplZWVqekRFU2JHX3h6MjE3enFGSFJkYWlsYkpxMDJvSnNDdS01OHVkcW9tUlQzb1BUQkk0enNFTldHc1JhSzZoSjh4ZmNYYURIVTliSEh0Q3lINGVTMHJTNnpGbU9LQkHSAWZBVV95cUxNWHE4cWJ0THpnbGhaUU"
+    },
+    {
+      "title": "오픈월드와 피규어 테크놀로지 솔루션스, 피규어의 OPEN 네트워크 내 오픈월드 증권 토큰화 추진",
+      "source": "유스연합",
+      "published_kst": "2026-05-06 22:03 KST",
+      "published_ts": 1778072620,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NVk9kRmtLMHdZd2hqQjYwbThESkxicmZKMi04U2s4OTRzRVJZT24xd19mRGlPM3ZiOFpjT1pTSms3eWx4YnZlSVJSUGVHX2pNdUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NVk9kRmtLMHdZd2hqQjYwbThESkxicmZKMi04U2s4OTRzRVJZT24xd19mRGlPM3ZiOFpjT1pTSms3eWx4YnZlSVJSUGVHX2pNdUE?oc=5\" target=\"_blank\">오픈월드와 피규어 테크놀로지 솔루션스, 피규어의 OPEN 네트워크 내 오픈월드 증권 토큰화 추진</a"
+    },
+    {
+      "title": "삼성SDS, 예탁원 '토큰증권 플랫폼 운영 구축' 사업 따냈다",
+      "source": "네이트",
+      "published_kst": "2026-05-06 18:33 KST",
+      "published_ts": 1778059980,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GNlZENnpNS2JiTGl0SXdJSUFkdGwyOVYyZ0tnbVlOT3FVWmJCeVVYelI5WHY3ZEU2d0d0UVh1dzdqRkpjVTRCakE1TXIzVGVnUFBj?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GNlZENnpNS2JiTGl0SXdJSUFkdGwyOVYyZ0tnbVlOT3FVWmJCeVVYelI5WHY3ZEU2d0d0UVh1dzdqRkpjVTRCakE1TXIzVGVnUFBj?oc=5\" target=\"_blank\">삼성SDS, 예탁원 '토큰증권 플랫폼 운영 구축' 사업 따냈다</a>&nbsp;&nbsp;<font"
+    },
+    {
+      "title": "美 예탁결제원, 7월 토큰화 증권 서비스 시작",
+      "source": "파이낸셜뉴스",
+      "published_kst": "2026-05-06 18:24 KST",
+      "published_ts": 1778059457,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FdWhDWU9nMnE2VnJOTVNMbzZXQkRnYUF2N3YxZ1RzZnAyUGN5QU96X0ZNTXV4NEp3a3I4OTBGcVVSSUxIQkNKNkZBc09wX3lTZldOQTNxVEFuQdIBXkFVX3lxTE1WN3FiQU5LcHhNUE1oOTR5MmxyZFQ5dnA5TEdxS2NmcEVhWHFsWGI5M1dYQ2pLX3p2T3pnOEN2czNkX2VBWnU3RFZXUVZmZmdrREJhdlBpNXlPWVdHd1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FdWhDWU9nMnE2VnJOTVNMbzZXQkRnYUF2N3YxZ1RzZnAyUGN5QU96X0ZNTXV4NEp3a3I4OTBGcVVSSUxIQkNKNkZBc09wX3lTZldOQTNxVEFuQdIBXkFVX3lxTE1WN3FiQU5LcHhNUE1oOTR5MmxyZFQ5dnA5TEdxS2NmcEVhWHFsWGI5M1"
+    },
+    {
+      "title": "삼성SDS, 한국예탁결제원 '토큰증권 플랫폼' 사업 수주",
+      "source": "뉴스락",
+      "published_kst": "2026-05-06 18:10 KST",
+      "published_ts": 1778058648,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPQmI4dFBYQWlBWVItRFIzaTNTV1Rycmg5dzBaY2hVbzdRQnJxVUM4X3VRTEY5TFlmTjZxcGh3alZjVUZydkNDejNOU3lVOUJEa0ljcnB3dU5fb2ZzaDgwQzkzMGpGTTRXdFlVYg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBPQmI4dFBYQWlBWVItRFIzaTNTV1Rycmg5dzBaY2hVbzdRQnJxVUM4X3VRTEY5TFlmTjZxcGh3alZjVUZydkNDejNOU3lVOUJEa0ljcnB3dU5fb2ZzaDgwQzkzMGpGTTRXdFlVYg?oc=5\" target=\"_blank\">삼성SDS, 한국예탁결제원 '토큰증권 "
+    },
+    {
+      "title": "내년 2월 '토큰증권 플랫폼' 완성된다…그림 소액 투자 가능해지나",
+      "source": "네이트",
+      "published_kst": "2026-05-06 18:00 KST",
+      "published_ts": 1778058000,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Pa1FRZENSUlExVU1GU1dGeHVmUHBJNTRPSHpuNV9EN1JkRDlMaUJRMFFxME5vdHBlaGV0aUVKSThCWDJVUkM3OFBYelJPSW0xWlNN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Pa1FRZENSUlExVU1GU1dGeHVmUHBJNTRPSHpuNV9EN1JkRDlMaUJRMFFxME5vdHBlaGV0aUVKSThCWDJVUkM3OFBYelJPSW0xWlNN?oc=5\" target=\"_blank\">내년 2월 '토큰증권 플랫폼' 완성된다…그림 소액 투자 가능해지나</a>&nbsp;&nbsp;<fo"
+    },
+    {
+      "title": "타우루스, 키프로스서 라이센스 획득…\"EU 토큰증권 시장 진출\"",
+      "source": "블루밍비트",
+      "published_kst": "2026-05-06 17:54 KST",
+      "published_ts": 1778057648,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xbGwxWWlPVGZWWnBVNzY2bkUzZ01hX1RXdUxWR0M4Z1RfUVEyTkU0OFY3bzJBanJZelZaRU85aE90RTE1S2ptOTFjVml2NHV3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xbGwxWWlPVGZWWnBVNzY2bkUzZ01hX1RXdUxWR0M4Z1RfUVEyTkU0OFY3bzJBanJZelZaRU85aE90RTE1S2ptOTFjVml2NHV3?oc=5\" target=\"_blank\">타우루스, 키프로스서 라이센스 획득…\"EU 토큰증권 시장 진출\"</a>&nbsp;&nbsp;<font co"
+    },
+    {
+      "title": "[#클라우드 월드] 삼성SDS '토큰증권 플랫폼' 수주·보난자랩 'OCI 전환' 효과·구글클라우드-위버스 '대화형 AI' 도입·일레븐랩스-스푼랩스 'AI 오디오 콘텐츠' 협력",
+      "source": "뉴스웍스",
+      "published_kst": "2026-05-06 17:31 KST",
+      "published_ts": 1778056281,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuQVQwcnEyYkVHb1JHVFo5SlNaU3JNVGlMY1VHYUVHVXVabVU2VC1DSlZydjNvOWRPVk0tWDROaExqd0VwMVQycHlodmY4Y3dNMXR0UHRQQVpwS3BQXzI0NG9HQkdHTjlfSjhRVlhQUdIBc0FVX3lxTE5QUUJYQ1FqaUdCUHh3al9nUHM4ZGx5R3hMX2p6TXdxNHRVZFFpVExST1Z1T3A0SWpXNWo0STU1aEQwV19wN2ZwRmp1a09KODM1cVRudVhsX09jMFA2X09FMGZITjMzNGRkNnNSMjdxS095ZmM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBuQVQwcnEyYkVHb1JHVFo5SlNaU3JNVGlMY1VHYUVHVXVabVU2VC1DSlZydjNvOWRPVk0tWDROaExqd0VwMVQycHlodmY4Y3dNMXR0UHRQQVpwS3BQXzI0NG9HQkdHTjlfSjhRVlhQUdIBc0FVX3lxTE5QUUJYQ1FqaUdCUHh3al9nUHM4ZG"
+    },
+    {
+      "title": "삼성SDS, 한국예탁결제원 토큰증권 플랫폼 구축-디지털 자산 시장 본격 대응",
+      "source": "미디어파인",
+      "published_kst": "2026-05-06 16:35 KST",
+      "published_ts": 1778052906,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TYmxNUDZKOFd1RTBZSF91Q1ZvNVBBSnk4aFBidXRXZDRHZkszTlVuTF9HS0xsYVFnUy1lTmZZOVYwc2V2SWNDTDZlWTBGZFVCNkl6WFZrN3JIaVlXUVhpN0lqREdaWHlPUTltOHhR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1TYmxNUDZKOFd1RTBZSF91Q1ZvNVBBSnk4aFBidXRXZDRHZkszTlVuTF9HS0xsYVFnUy1lTmZZOVYwc2V2SWNDTDZlWTBGZFVCNkl6WFZrN3JIaVlXUVhpN0lqREdaWHlPUTltOHhR?oc=5\" target=\"_blank\">삼성SDS, 한국예탁결제원 토큰증권"
+    },
+    {
+      "title": "\"증권시장도 블록체인으로 간다\"…삼성SDS, 디지털 자산 인프라 선점",
+      "source": "폴리뉴스 Polinews",
+      "published_kst": "2026-05-06 15:42 KST",
+      "published_ts": 1778049720,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54c25tbnNUSTZvRnFaRWlPbzBQODR2enNkdHdQMEdmbkxHYlZoMlFiUUQ3OWZ1LTdRXzg1eHBUTFJNNjRiQlV6WElYS1FoMWlaVVJRTzJ0ZlhWZWJTVjNLQUVIcDJuMnlXcWlGUENB0gFyQVVfeXFMTzN5X09YV0ZwMmg5NG1DbndFUjkyblJwdUg3TEg1Um5YTkJieG5BWDFGS1hmRUQ3OTdBODQwNVh2aHlFWmVUdERvNkFhRXZPTDVqbWg0Y1g2d3ZUWU1STnBoa0pNaWtnNXRuVklCaTZ3Qy1n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE54c25tbnNUSTZvRnFaRWlPbzBQODR2enNkdHdQMEdmbkxHYlZoMlFiUUQ3OWZ1LTdRXzg1eHBUTFJNNjRiQlV6WElYS1FoMWlaVVJRTzJ0ZlhWZWJTVjNLQUVIcDJuMnlXcWlGUENB0gFyQVVfeXFMTzN5X09YV0ZwMmg5NG1DbndFUjkybl"
+    },
+    {
+      "title": "[기업소식] 삼성SDS, 예탁원 '토큰증권 플랫폼 운영 구축' 사업 수주",
+      "source": "연합인포맥스",
+      "published_kst": "2026-05-06 15:26 KST",
+      "published_ts": 1778048793,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFbDlnbHNWRGZmN2I1MG9CcnFXSFpnUTdQWXp0eGpXZDFPbWJMZHIwY2hmLXF2MHFzV1FuenZiZkJZY1RYQ2psRTN2ektDbEpGdUJpUjFZckdseXJrSTlMSHhaejRFTG84c3hhNzV0anY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBFbDlnbHNWRGZmN2I1MG9CcnFXSFpnUTdQWXp0eGpXZDFPbWJMZHIwY2hmLXF2MHFzV1FuenZiZkJZY1RYQ2psRTN2ektDbEpGdUJpUjFZckdseXJrSTlMSHhaejRFTG84c3hhNzV0anY?oc=5\" target=\"_blank\">[기업소식] 삼성SDS, 예탁"
+    },
+    {
+      "title": "\"분산원장과 전자증권의 전격 결합\"…삼성SDS, 토큰증권 플랫폼 구축 '수주'",
+      "source": "파이낸셜포스트",
+      "published_kst": "2026-05-06 15:20 KST",
+      "published_ts": 1778048432,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5Q1owQWltU3hfalE0YjRHNWlzX2dKZno2SXYtLWYtTXhGa0RPNWZCWlk1Nml2TEthR3NsM19UZDBzRWw3aVp6T2JpWlZ6VXc5NS1VTWdvSTZqSEVWV0lrMG9IdlRTUktIdzFRbmxDZmdWOVJi?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA5Q1owQWltU3hfalE0YjRHNWlzX2dKZno2SXYtLWYtTXhGa0RPNWZCWlk1Nml2TEthR3NsM19UZDBzRWw3aVp6T2JpWlZ6VXc5NS1VTWdvSTZqSEVWV0lrMG9IdlRTUktIdzFRbmxDZmdWOVJi?oc=5\" target=\"_blank\">\"분산원장과 전자증권"
+    },
+    {
+      "title": "삼성SDS, 예탁결제원 토큰증권 플랫폼 구축 수주…디지털 자산 시장 선점",
+      "source": "CNB뉴스",
+      "published_kst": "2026-05-06 15:16 KST",
+      "published_ts": 1778048175,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HbVF5SmpOVU9HUGtTSUZmME0tWDR5MFlkZmVCV0NweHJESHhIZXJRUzB5bHotNjRqSXlhZXlUbDgtMVJpVFlsU0JIOGx5VDlUdVZtbTd2WU1kWkV3Rno2bWJWSDVEWXlCdFVV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5HbVF5SmpOVU9HUGtTSUZmME0tWDR5MFlkZmVCV0NweHJESHhIZXJRUzB5bHotNjRqSXlhZXlUbDgtMVJpVFlsU0JIOGx5VDlUdVZtbTd2WU1kWkV3Rno2bWJWSDVEWXlCdFVV?oc=5\" target=\"_blank\">삼성SDS, 예탁결제원 토큰증권 플랫폼 구"
+    },
+    {
+      "title": "삼성SDS, 한국예탁결제원 토큰증권 플랫폼 구축·운영 수주",
+      "source": "비즈니스포스트",
+      "published_kst": "2026-05-06 15:08 KST",
+      "published_ts": 1778047681,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBacW8tU0c0aG13M0lkSVlyZklDaUhCa0J5dm12cmFzMWM2cGRlVkpENDJQVlU4eHNqVk5EemNTSjRfNHl6VW9DMnlpUTIzX0toSC1nNDJrT05DYUZrU1hsUzdIX09lVzNzVTdRMWVXSTFUcG8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBacW8tU0c0aG13M0lkSVlyZklDaUhCa0J5dm12cmFzMWM2cGRlVkpENDJQVlU4eHNqVk5EemNTSjRfNHl6VW9DMnlpUTIzX0toSC1nNDJrT05DYUZrU1hsUzdIX09lVzNzVTdRMWVXSTFUcG8?oc=5\" target=\"_blank\">삼성SDS, 한국예탁결"
+    },
+    {
+      "title": "삼성SDS, 토큰증권 시장에 '성큼'…예탁원 플랫폼 사업 수주",
+      "source": "네이트",
+      "published_kst": "2026-05-06 14:02 KST",
+      "published_ts": 1778043720,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4TDdYMTlJVnZQLWdDRFU0b29ETlZpNmJvYUYtYlVRTTY4amFQVlRia1ZkVExTRHY4S2R2RkYtZE5OU0JFMUFjMzJncGp3R19uaHU4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4TDdYMTlJVnZQLWdDRFU0b29ETlZpNmJvYUYtYlVRTTY4amFQVlRia1ZkVExTRHY4S2R2RkYtZE5OU0JFMUFjMzJncGp3R19uaHU4?oc=5\" target=\"_blank\">삼성SDS, 토큰증권 시장에 '성큼'…예탁원 플랫폼 사업 수주</a>&nbsp;&nbsp;<font"
+    },
+    {
+      "title": "삼성SDS, 토큰증권 시장 선점 나섰다…예탁결제원 사업 수주",
+      "source": "디지틀조선TV",
+      "published_kst": "2026-05-06 13:46 KST",
+      "published_ts": 1778042760,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uMVNfUi0xVEYyOXlpVmZqd1JvZjY2bzhuRXBvSERuYjJ0RjFWYllCQzNIcTE4S0dWenpsMDZjRGF6Nnl2NVVjNTI4ZWQ5TkJTaXdkWFZxRnd4VG9QMlhhZEVBazNLbVphOGdLd0JkaTU1aXFFc2RXc0hVUzc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5uMVNfUi0xVEYyOXlpVmZqd1JvZjY2bzhuRXBvSERuYjJ0RjFWYllCQzNIcTE4S0dWenpsMDZjRGF6Nnl2NVVjNTI4ZWQ5TkJTaXdkWFZxRnd4VG9QMlhhZEVBazNLbVphOGdLd0JkaTU1aXFFc2RXc0hVUzc?oc=5\" target=\"_blank\">"
+    },
+    {
+      "title": "[크립토Now] 삼성SDS, 예탁결제원 토큰증권 플랫폼 구축 사업 수주",
+      "source": "매일경제TV",
+      "published_kst": "2026-05-06 13:46 KST",
+      "published_ts": 1778042760,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SRUdJV2dwdXVlNnlreUh4WVFhY3BxQ3hPNERBY0pFOVh1azI0NlBvckxrN0JkMS1wVzhWZHJqRVg0YkZKZTE1UnZBdTBIM0FmWnJTbThuNFdpR1dfTDlUa2NmVjdwc2FB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SRUdJV2dwdXVlNnlreUh4WVFhY3BxQ3hPNERBY0pFOVh1azI0NlBvckxrN0JkMS1wVzhWZHJqRVg0YkZKZTE1UnZBdTBIM0FmWnJTbThuNFdpR1dfTDlUa2NmVjdwc2FB?oc=5\" target=\"_blank\">[크립토Now] 삼성SDS, 예탁결제원 토큰증권 "
+    },
+    {
+      "title": "삼성SDS, 예탁원 ‘토큰증권 정식 플랫폼’ 구축 사업 수주",
+      "source": "매일일보",
+      "published_kst": "2026-05-06 13:06 KST",
+      "published_ts": 1778040410,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mRkZ0RG5MaHZfSzdCRndnaGhxLWlyaFFMSXdnc0xzZko3OEh2VF9RaEN0b2VCSjBDUWZHREJWd0ZPNDZxNUtrb0Z6VHFpM05XTFBXWDZFWTRYUnBKOV9YdENtbmI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mRkZ0RG5MaHZfSzdCRndnaGhxLWlyaFFMSXdnc0xzZko3OEh2VF9RaEN0b2VCSjBDUWZHREJWd0ZPNDZxNUtrb0Z6VHFpM05XTFBXWDZFWTRYUnBKOV9YdENtbmI?oc=5\" target=\"_blank\">삼성SDS, 예탁원 ‘토큰증권 정식 플랫폼’ 구축 사업 수"
+    },
+    {
+      "title": "삼성SDS, 예결원 ‘토큰증권 플랫폼 운영 구축’ 사업 수주",
+      "source": "dt.co.kr",
+      "published_kst": "2026-05-06 12:47 KST",
+      "published_ts": 1778039226,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRUWJ3TDl6QTlsdlA3MGlDR2tWSlNxSGpnY29QYXJIdWZ4RkktSzk5WWl0dS13UlZRZ1lVZmZBSzBiYVNyLS1RaTQzd0JWdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRUWJ3TDl6QTlsdlA3MGlDR2tWSlNxSGpnY29QYXJIdWZ4RkktSzk5WWl0dS13UlZRZ1lVZmZBSzBiYVNyLS1RaTQzd0JWdw?oc=5\" target=\"_blank\">삼성SDS, 예결원 ‘토큰증권 플랫폼 운영 구축’ 사업 수주</a>&nbsp;&nbsp;<font color="
+    },
+    {
+      "title": "삼성SDS, 한국예탁결제원 토큰증권 플랫폼 구축 사업 수주",
+      "source": "웹이코노미",
+      "published_kst": "2026-05-06 12:27 KST",
+      "published_ts": 1778038020,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92N2ltLTFvVnBVY0U1Y3lfaWxyWVctQ0pUeWh5S3NFQlFTRmZsSkc0WmxxbERtbXdyY2o5RllETDVDSzlYejZQM3I5V09NY0lmdHFhbzI3NVo3YURiSkV6bHdUOVhiY2wyUlIxX0o5QWdFZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE92N2ltLTFvVnBVY0U1Y3lfaWxyWVctQ0pUeWh5S3NFQlFTRmZsSkc0WmxxbERtbXdyY2o5RllETDVDSzlYejZQM3I5V09NY0lmdHFhbzI3NVo3YURiSkV6bHdUOVhiY2wyUlIxX0o5QWdFZw?oc=5\" target=\"_blank\">삼성SDS, 한국예탁결제"
+    },
+    {
+      "title": "삼성SDS, 토큰증권 인프라 선점…디지털 자산 체질전환 속도",
+      "source": "포쓰저널",
+      "published_kst": "2026-05-06 12:15 KST",
+      "published_ts": 1778037326,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfVXlhdE8tdzVKQlh0cGtNOE5OdWlKYWJLMW5hcXhyTzVHVWhBZVFKWFRpNnJmSWlVVHcwM1BHLWNzZkRja3NIVjZNY2c0Rm1XcmIwSm0wSUw0aFp2V1Y1TmVZNWg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfVXlhdE8tdzVKQlh0cGtNOE5OdWlKYWJLMW5hcXhyTzVHVWhBZVFKWFRpNnJmSWlVVHcwM1BHLWNzZkRja3NIVjZNY2c0Rm1XcmIwSm0wSUw0aFp2V1Y1TmVZNWg?oc=5\" target=\"_blank\">삼성SDS, 토큰증권 인프라 선점…디지털 자산 체질전환 속"
+    },
+    {
+      "title": "삼성SDS, 예탁결제원 '토큰증권 플랫폼' 수주…디지털 자산 시장 공략",
+      "source": "뷰어스",
+      "published_kst": "2026-05-06 11:28 KST",
+      "published_ts": 1778034510,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zZXZ2T2w4WXdVOGJPMkM5Y09oUkFJSFlkcDhVNXlvdjRsaEkyU3FJdERvdElNTTRBbFZ6RXJJSHllX1M4WDRVWkpiZkNEaklrMC15T0JxOHI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zZXZ2T2w4WXdVOGJPMkM5Y09oUkFJSFlkcDhVNXlvdjRsaEkyU3FJdERvdElNTTRBbFZ6RXJJSHllX1M4WDRVWkpiZkNEaklrMC15T0JxOHI?oc=5\" target=\"_blank\">삼성SDS, 예탁결제원 '토큰증권 플랫폼' 수주…디지털 자산 시장 공략</a>&nbsp"
+    },
+    {
+      "title": "삼성SDS, 한국예탁결제원 '토큰증권 플랫폼' 구축 사업 수주",
+      "source": "데일리안",
+      "published_kst": "2026-05-06 11:18 KST",
+      "published_ts": 1778033880,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IMkt1ZWw5Yk5ENmJ0LWZWZlNnOVVqTkRnZ2pZLXMtYUM0ZUFvSjZRWW13b21DRXBZUVFLRzYwcjdqVmF3aEJqanMwQzNMMUR6Z2NlSnNwY9IBkAJBVV95cUxOMUcyVE1adXNQYnhaSGpEVlU2UFdYYkY4MmlfT2R6UTE2dkJVRmh6S18tUER2WkZJME50SGZRNk0ydzBiRURfaUpyTUJ4a0hLS1g0ZVNJZHUtY29yemI1TS00QlNGSUo1eWZkRmV3b2ZZRTZWeC1iZHFlUWVjemIyMHpfTkpCR0l3V2d6RHlsX1pkcTRYNEs5ZlVuRDUxZkNSVFVYQXBUTTJtZXlKeWZYb2VTZlNpbV85T1U5NzctNE1MSVEzRzNzR2xKYWhBMDNkMUI5dnZXUGZxRF9sWU9EZlNPYUFUTDk4eU5Cakp5WEhLRHpMM05neFh2dUozM1g2Rzd1WVFIWFktRkI4alZmRg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IMkt1ZWw5Yk5ENmJ0LWZWZlNnOVVqTkRnZ2pZLXMtYUM0ZUFvSjZRWW13b21DRXBZUVFLRzYwcjdqVmF3aEJqanMwQzNMMUR6Z2NlSnNwY9IBkAJBVV95cUxOMUcyVE1adXNQYnhaSGpEVlU2UFdYYkY4MmlfT2R6UTE2dkJVRmh6S18tUE"
+    },
+    {
+      "title": "삼성SDS, 예탁결제원 토큰증권 플랫폼 사업 수주",
+      "source": "fetv.co.kr",
+      "published_kst": "2026-05-06 10:54 KST",
+      "published_ts": 1778032463,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11UkZabkxBZklWb19rMHF4R3lLRmNzUjNEcVZLN2QzMFhSSGlRTjZ3b2hZS3hzUFJtWVl5R0Z2Vm1jaWFsNHRYQ3lxTUxBY1pWRUNwd3piTnBZRnB4a3FoZDMtenVTWWlF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE11UkZabkxBZklWb19rMHF4R3lLRmNzUjNEcVZLN2QzMFhSSGlRTjZ3b2hZS3hzUFJtWVl5R0Z2Vm1jaWFsNHRYQ3lxTUxBY1pWRUNwd3piTnBZRnB4a3FoZDMtenVTWWlF?oc=5\" target=\"_blank\">삼성SDS, 예탁결제원 토큰증권 플랫폼 사업 수주"
+    },
+    {
+      "title": "삼성SDS, 한국예탁결제원 토큰증권 플랫폼 수주…디지털 자산 인프라 본격 구축",
+      "source": "테크월드",
+      "published_kst": "2026-05-06 10:47 KST",
+      "published_ts": 1778032039,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jY3BQbVM4YzYxY2Q4NklZMGJzOFFQUVl1clNFdHZveklLQXBwSXFkalR0b1paRU4tM0xGTG5HWUhPRFFTQzVhN2luTlBlSlhZcVBrVFlRcHIyTFJwODNwR3pTUE85TlV1?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jY3BQbVM4YzYxY2Q4NklZMGJzOFFQUVl1clNFdHZveklLQXBwSXFkalR0b1paRU4tM0xGTG5HWUhPRFFTQzVhN2luTlBlSlhZcVBrVFlRcHIyTFJwODNwR3pTUE85TlV1?oc=5\" target=\"_blank\">삼성SDS, 한국예탁결제원 토큰증권 플랫폼 수주…"
+    },
+    {
+      "title": "삼성SDS, 예탁결제원 STO 플랫폼 구축 수주…\"토큰증권 인프라 강화\"",
+      "source": "블루밍비트",
+      "published_kst": "2026-05-06 10:37 KST",
+      "published_ts": 1778031462,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PeUxnelNfeWxrdFlJWnRJSnVRQWt6WUVLVkZmcHhTYThuclRDTEtYMVB4UmNETFd3bWtTY1FLOFduRUF2elduVVJkT3oteUpr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PeUxnelNfeWxrdFlJWnRJSnVRQWt6WUVLVkZmcHhTYThuclRDTEtYMVB4UmNETFd3bWtTY1FLOFduRUF2elduVVJkT3oteUpr?oc=5\" target=\"_blank\">삼성SDS, 예탁결제원 STO 플랫폼 구축 수주…\"토큰증권 인프라 강화\"</a>&nbsp;&nbsp;<fo"
+    },
+    {
+      "title": "삼성SDS, 한국예탁결제원 '토큰증권 플랫폼 운영 구축' 사업 수주",
+      "source": "굿모닝경제",
+      "published_kst": "2026-05-06 10:37 KST",
+      "published_ts": 1778031451,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TWnU3WWs0cEFwVmNBQXByLWpsUUJuNjFpbzlzNHZQY3FFcUtVQm9pb2FwSEVwNllqLWNPamNzcW5uSUtodXdzMlpGcC1hdV83RnFHYkZVZGJLWGlCbURaMUFYMkp6YUpQMmRRZg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1TWnU3WWs0cEFwVmNBQXByLWpsUUJuNjFpbzlzNHZQY3FFcUtVQm9pb2FwSEVwNllqLWNPamNzcW5uSUtodXdzMlpGcC1hdV83RnFHYkZVZGJLWGlCbURaMUFYMkp6YUpQMmRRZg?oc=5\" target=\"_blank\">삼성SDS, 한국예탁결제원 '토큰증권 "
+    },
+    {
+      "title": "삼성SDS, 공공 AI 협업·토큰증권 플랫폼 사업 잇달아 수주",
+      "source": "네이트",
+      "published_kst": "2026-05-06 10:34 KST",
+      "published_ts": 1778031240,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4dDJRTkl5cUNJYndZeGthbU1PWVdKSDI0dmJleGQweE93SHdqRXkxeDN1cEhtRFJVVlRWWnFoZllXT3d0Nkt5OFhQMHVGcU5OZWhz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4dDJRTkl5cUNJYndZeGthbU1PWVdKSDI0dmJleGQweE93SHdqRXkxeDN1cEhtRFJVVlRWWnFoZllXT3d0Nkt5OFhQMHVGcU5OZWhz?oc=5\" target=\"_blank\">삼성SDS, 공공 AI 협업·토큰증권 플랫폼 사업 잇달아 수주</a>&nbsp;&nbsp;<font"
+    },
+    {
+      "title": "삼성SDS, 한국예탁결제원 ‘토큰증권 플랫폼 운영 구축’ 사업 수주",
+      "source": "직썰",
+      "published_kst": "2026-05-06 10:22 KST",
+      "published_ts": 1778030550,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3ekN0c1l0Umh0c3FTcGVuYTYtSndSdlFLMHcxNnVOWWhCVk9uS0huUDZTTkJ4MVdhOUxtaW15cmZVWTVBUFpaOUQyd2xDQkRvcUNhZG9ZUVVYcGlzMVNkQ3ZyNGhPTmUw0gFsQVVfeXFMT0liRzV0dklKZTB5YTZhYVEzeHVuRFdWdjBwNWZBNkFRSUxTUW9CTlZuelJzcmhTclQwYklQSmk5OUZQUHlpbUlFbk81Tm04Z0ZabmozX3h6bV94eXZJODRjaWRtUGdORWJkeXh0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3ekN0c1l0Umh0c3FTcGVuYTYtSndSdlFLMHcxNnVOWWhCVk9uS0huUDZTTkJ4MVdhOUxtaW15cmZVWTVBUFpaOUQyd2xDQkRvcUNhZG9ZUVVYcGlzMVNkQ3ZyNGhPTmUw0gFsQVVfeXFMT0liRzV0dklKZTB5YTZhYVEzeHVuRFdWdjBwNW"
+    },
+    {
+      "title": "예탁원 토큰증권 플랫폼, 삼성SDS가 구축한다",
+      "source": "뉴스1",
+      "published_kst": "2026-05-06 10:19 KST",
+      "published_ts": 1778030385,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibUFzdWJfNFRBOF9RRExtc3FUamJZMjVjVTZ4dWNCNWV2ZWdITUZJUFJCdjFETWNxekFkY0dwb0xHX1dISkRvcER5dTJVZFBYQU9qQ0NhZUxjY1JXRGxLWVVORDhORVRz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibUFzdWJfNFRBOF9RRExtc3FUamJZMjVjVTZ4dWNCNWV2ZWdITUZJUFJCdjFETWNxekFkY0dwb0xHX1dISkRvcER5dTJVZFBYQU9qQ0NhZUxjY1JXRGxLWVVORDhORVRz?oc=5\" target=\"_blank\">예탁원 토큰증권 플랫폼, 삼성SDS가 구축한다</"
+    },
+    {
+      "title": "삼성SDS, 한국예탁결제원 ‘토큰증권 플랫폼’ 구축 사업 수주",
+      "source": "데이터넷",
+      "published_kst": "2026-05-06 10:17 KST",
+      "published_ts": 1778030220,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Rb1hZZVFMTlE5V0xOTXViLWdrd1FTR2JrR0N2M2pfOXBPUmlGeGlsUkdZVkgyZXRFVEpnZ24zQTctQkstSmt4OWFTQ0pod1d4MmNUVG40RHR5UmFTck9XdDJ3RkNpZ3MxLUxSZA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9Rb1hZZVFMTlE5V0xOTXViLWdrd1FTR2JrR0N2M2pfOXBPUmlGeGlsUkdZVkgyZXRFVEpnZ24zQTctQkstSmt4OWFTQ0pod1d4MmNUVG40RHR5UmFTck9XdDJ3RkNpZ3MxLUxSZA?oc=5\" target=\"_blank\">삼성SDS, 한국예탁결제원 ‘토큰증권 "
+    },
+    {
+      "title": "삼성SDS, 한국예탁결제원 '토큰증권 플랫폼 운영 구축' 사업 수주...내년 2월 완료",
+      "source": "디지털투데이",
+      "published_kst": "2026-05-06 10:09 KST",
+      "published_ts": 1778029751,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2d2t5YnhndEJLa1IyVWNETU43aVVTWC1waTFmbWZPQ202dUFjcW1wSHozdXVYaFlHekE2NGdfX0tTNDFvdzF3RmFucUdfLXhvR1FqRkV6Q1o2bW5oMFNPVUUzd2J4SnNwT1VFN0Etcm9lbFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFB2d2t5YnhndEJLa1IyVWNETU43aVVTWC1waTFmbWZPQ202dUFjcW1wSHozdXVYaFlHekE2NGdfX0tTNDFvdzF3RmFucUdfLXhvR1FqRkV6Q1o2bW5oMFNPVUUzd2J4SnNwT1VFN0Etcm9lbFE?oc=5\" target=\"_blank\">삼성SDS, 한국예탁결"
+    },
+    {
+      "title": "삼성SDS 토큰증권 플랫폼 운영 구축 수주... 2027년 정식 시스템 개발",
+      "source": "마켓잉크",
+      "published_kst": "2026-05-06 10:02 KST",
+      "published_ts": 1778029364,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KVVBSUVU4MHhiX3JMS3BMZ2FsZFo2MlhTeXd2YVBJM2VNM0t6NGMxSnM2YVJCdXZRMTJVMGJCOTZndXF5TEdwN2NwZmJkdnZjS3VxdzluX2taNkVDamdzRk5TbHM5WDBvYXQ3THRR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1KVVBSUVU4MHhiX3JMS3BMZ2FsZFo2MlhTeXd2YVBJM2VNM0t6NGMxSnM2YVJCdXZRMTJVMGJCOTZndXF5TEdwN2NwZmJkdnZjS3VxdzluX2taNkVDamdzRk5TbHM5WDBvYXQ3THRR?oc=5\" target=\"_blank\">삼성SDS 토큰증권 플랫폼 운영 구"
+    },
+    {
+      "title": "[Tech & Now] 삼성SDS, 한국예탁결제원 '토큰증권 플랫폼' 운영 사업 수주 등",
+      "source": "ebn.co.kr",
+      "published_kst": "2026-05-06 10:00 KST",
+      "published_ts": 1778029200,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4XzEyY2ZTWGZLQUVtdXc4LWJyQW4zQkpLZUhCbmthWmxMcnBFdnZZUFcySlZ1UkRhajhLRTZRQUo4Zy1hZHFqZDl5MnZPT0gyYUc3R3ZHNjNIYzBmeVB0eGZwVlg3ZTAt?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4XzEyY2ZTWGZLQUVtdXc4LWJyQW4zQkpLZUhCbmthWmxMcnBFdnZZUFcySlZ1UkRhajhLRTZRQUo4Zy1hZHFqZDl5MnZPT0gyYUc3R3ZHNjNIYzBmeVB0eGZwVlg3ZTAt?oc=5\" target=\"_blank\">[Tech & Now] 삼성SDS, 한국예탁결제원"
+    },
+    {
+      "title": "삼성SDS, 예탁결제원 토큰증권 플랫폼 운영 구축 사업 수주 - 조선비즈",
+      "source": "Chosunbiz",
+      "published_kst": "2026-05-06 09:52 KST",
+      "published_ts": 1778028720,
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWW83U2dERzY5Y0hXTDBENV9tN3RLZUR5S1NHY1VhZGJkcl9IMzlVc3dkU1g2WWV5NDlRMWpHVVk0SnVycjdFWVBFVk1GT0N6czI5eGNlUlFxSkEzLV9qMEdQei1iWWtQaE41UTljU1FQcVBkVHg4RTNUbjFLYVk5ZXpR0gGWAUFVX3lxTFA5UEJzei1iX1BicVVKZWlvTDJERl8yQ3dMVHVwWUFlRmROc0h4UGQ4MnJRY28wdGkzQ250cTJPbm1wd1BHMGI2TjJZTW5IeFB1dzJlb01zV04weFJpMHBYNEdMbEFpU1hFSEdGT1ZwZ1RTWDVUWk5xWVlxNEYwY21QYmRCR2luLXg5bm1CeWM1R0Vvcm1tQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWW83U2dERzY5Y0hXTDBENV9tN3RLZUR5S1NHY1VhZGJkcl9IMzlVc3dkU1g2WWV5NDlRMWpHVVk0SnVycjdFWVBFVk1GT0N6czI5eGNlUlFxSkEzLV9qMEdQei1iWWtQaE41UTljU1FQcVBkVHg4RTNUbjFLYVk5ZXpR0gGWAUFVX3lxTF"
+    },
+    {
+      "title": "삼성SDS, 한국예탁결제원 '토큰증권 플랫폼' 운영 시스템 구축한다",
+      "source": "네이트",
+      "published_kst": "2026-05-06 09:52 KST",
+      "published_ts": 1778028720,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wZDZYVzRqUWphQ2pFUHc4a2JUNHpSQVV4VzctRmFtSS11NWR2eFRCZU9wamc1UmlNRWZ4Q09xc1Y2LWtBLUl3U09RZFBIUHRHUzdJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wZDZYVzRqUWphQ2pFUHc4a2JUNHpSQVV4VzctRmFtSS11NWR2eFRCZU9wamc1UmlNRWZ4Q09xc1Y2LWtBLUl3U09RZFBIUHRHUzdJ?oc=5\" target=\"_blank\">삼성SDS, 한국예탁결제원 '토큰증권 플랫폼' 운영 시스템 구축한다</a>&nbsp;&nbsp;<f"
     },
     {
       "title": "삼성SDS, 예탁결제원 '토큰증권 플랫폼' 구축 사업 수주",
-      "source": "전자신문",
-      "published_kst": "2026-05-06 08:30 KST",
-      "published_ts": 1778023859,
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hN2tnRkRHdXJjcHBJbVFfdm0zOTM1RXZFeXlORU5oZWIwUDZNTUxBU1A5cGNQMkpBU0pGd0F1MEptQUY0SVVmc0hKRG9OUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hN2tnRkRHdXJjcHBJbVFfdm0zOTM1RXZFeXlORU5oZWIwUDZNTUxBU1A5cGNQMkpBU0pGd0F1MEptQUY0SVVmc0hKRG9OUQ?oc=5\" target=\"_blank\">삼성SDS, 예탁결제원 '토큰증권 플랫폼' 구축 사업 수주</a>&nbsp;&nbsp;<font color=\""
-    },
-    {
-      "title": "삼성SDS, 예탁결제원 '토큰증권 플랫폼' 구축 수주…디지털 자산 인프라 선점",
       "source": "네이트",
-      "published_kst": "2026-05-06 08:24 KST",
-      "published_ts": 1778023440,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBicS1PTWkyeklMeTJvUmY5QXJad1BRb01yei1YV1JoYW9DRUd3QjNONEQ4RkVGVURHazk0cHUzWjJzMFJHMDEtWXY5NTJvbTJEc3o4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBicS1PTWkyeklMeTJvUmY5QXJad1BRb01yei1YV1JoYW9DRUd3QjNONEQ4RkVGVURHazk0cHUzWjJzMFJHMDEtWXY5NTJvbTJEc3o4?oc=5\" target=\"_blank\">삼성SDS, 예탁결제원 '토큰증권 플랫폼' 구축 수주…디지털 자산 인프라 선점</a>&nbsp;&n"
+      "published_kst": "2026-05-06 09:51 KST",
+      "published_ts": 1778028660,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54c3hPb2tiNFNIajVRaWcwVlZPVXBZQndfX0ZUa0JaLVJVMWhXT21IUzI4b3dYcUpwNG9XM0pNNWhFT2tuS0x0R0RxUlRBTXJ2ZTlZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE54c3hPb2tiNFNIajVRaWcwVlZPVXBZQndfX0ZUa0JaLVJVMWhXT21IUzI4b3dYcUpwNG9XM0pNNWhFT2tuS0x0R0RxUlRBTXJ2ZTlZ?oc=5\" target=\"_blank\">삼성SDS, 예탁결제원 '토큰증권 플랫폼' 구축 사업 수주</a>&nbsp;&nbsp;<font c"
     },
     {
-      "title": "美예탁결제원, 7월부터 토큰화증권 제한적 거래…10월 플랫폼 공식 출시",
-      "source": "이데일리",
-      "published_kst": "2026-05-05 09:44 KST",
-      "published_ts": 1777941856,
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkJOOXdTYVlzSzdBT3g1SjJLTENoNUNBc1ZoMGV1ZDhWNHZ6UzVZTkEwYnhYQmtzZlpyUmZoMU5ZWXBEd2YyaVRpYVFKaXZPWnJLMjBST0Y0RFRVQWxYd0FBbkNoU0JaOU9uRzZEd0k2bDFlTDI4Rk1PSVZOX0hGTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkJOOXdTYVlzSzdBT3g1SjJLTENoNUNBc1ZoMGV1ZDhWNHZ6UzVZTkEwYnhYQmtzZlpyUmZoMU5ZWXBEd2YyaVRpYVFKaXZPWnJLMjBST0Y0RFRVQWxYd0FBbkNoU0JaOU9uRzZEd0k2bDFlTDI4Rk1PSVZOX0hGTA?oc=5\" target=\"_"
+      "title": "美 가상자산 플랫폼 불리시, '6조' 들여 토큰증권 인프라 사업 진입",
+      "source": "디지털애셋",
+      "published_kst": "2026-05-06 09:45 KST",
+      "published_ts": 1778028300,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvazlSUGNodlctUEdqaEtKV1QzakpuQWpCaUJsZVFyemNMYmVISklxQy02a1o4MFFYUFQ0Y2hzdl9wenM5U0JjQlVJbUJ2VXA5S1FyVHlOQUhEMkhHbndYeVpFa0kwdU9ZcDdlQ3AwcGgzZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBvazlSUGNodlctUEdqaEtKV1QzakpuQWpCaUJsZVFyemNMYmVISklxQy02a1o4MFFYUFQ0Y2hzdl9wenM5U0JjQlVJbUJ2VXA5S1FyVHlOQUhEMkhHbndYeVpFa0kwdU9ZcDdlQ3AwcGgzZw?oc=5\" target=\"_blank\">美 가상자산 플랫폼 불리"
     },
     {
-      "title": "“토큰증권을 신성장 동력으로”···증권사들, 인재 적극 모집",
-      "source": "시사저널e",
-      "published_kst": "2026-05-05 08:26 KST",
-      "published_ts": 1777937201,
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9acjJ3QWFSNDRfUWNPRUthdlJIVGZfZTUwR3pjdjdNRGFqdk9LR3diSWkzMGZBNmNmenB5M0xHdEJuZk5vZVZ0WF9iUUxSOHNINzJJT0kxS2M5Sm5rV1labHIyaHhzOXRiS2hkejBpLTU4NGVKUHfSAXZBVV95cUxPWnIyd0FhUjQ0X1FjT0VLYXZSSFRmX2U1MEd6Y3Y3TURhanZPS0d3YklpMzBmQTZjZnpweTNMR3RCbmZOb2VWdFhfYlFMUjhzSDcySU9JMUtjOUpua1dZWmxyMmh4czl0YktoZHowaS01ODRlSlB3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9acjJ3QWFSNDRfUWNPRUthdlJIVGZfZTUwR3pjdjdNRGFqdk9LR3diSWkzMGZBNmNmenB5M0xHdEJuZk5vZVZ0WF9iUUxSOHNINzJJT0kxS2M5Sm5rV1labHIyaHhzOXRiS2hkejBpLTU4NGVKUHfSAXZBVV95cUxPWnIyd0FhUjQ0X1FjT0"
+      "title": "삼성SDS, 예탁결제원 토큰증권 플랫폼 수주...'디지털 증권 인프라' 구축 본격화",
+      "source": "뉴스락",
+      "published_kst": "2026-05-06 09:40 KST",
+      "published_ts": 1778028045,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wWllZb21RT1pJelZybWpXZml6OGV5LWlQeGROU2pIR2hsS1NNSU4tRHFnOTZmRUhGUU9yVm5HZi0zbGFicF9PMTNzc2RsWm41by1uSUMtMV9NQ0tFTld2QXM2RThGN2xvQWs0Vg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE0wWllZb21RT1pJelZybWpXZml6OGV5LWlQeGROU2pIR2hsS1NNSU4tRHFnOTZmRUhGUU9yVm5HZi0zbGFicF9PMTNzc2RsWm41by1uSUMtMV9NQ0tFTld2QXM2RThGN2xvQWs0Vg?oc=5\" target=\"_blank\">삼성SDS, 예탁결제원 토큰증권 플랫폼"
     },
     {
-      "title": "암호화폐 플랫폼 불리시, 토큰화 증권 인프라 구축 위해 이퀴니티(Equiniti)를 42억 달러에 인수",
-      "source": "CoinDesk",
-      "published_kst": "2026-05-05 06:55 KST",
-      "published_ts": 1777931700,
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZFZyVjNCZGN2U3puajkwNFJ5amJZUmRYdnR6NTZjWDVQWk5YdnhLODFEWnV2LWNJcnR3a2cwX3FHWk5qNFJrRUptRm9MUWw2aEJZU2hoZDRROTU3QzlxdF9sMFE2Qm1BN0FMUENFZVN0aEZRNWJiRUFzSUVnT1U4MXgtM2U5WEY0cVlEZHc1WDRQVkt0QXRIUW9qNHY1NXR6M2FJNy1YRmtwU2JfbkRXZXVaWXZHU2NOQldadTBYTE9iQTNNT3VTYzFIOHpuUXRtRGZFUEpwRUo1ZUl6dlgwWTRxcFAxbkk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZFZyVjNCZGN2U3puajkwNFJ5amJZUmRYdnR6NTZjWDVQWk5YdnhLODFEWnV2LWNJcnR3a2cwX3FHWk5qNFJrRUptRm9MUWw2aEJZU2hoZDRROTU3QzlxdF9sMFE2Qm1BN0FMUENFZVN0aEZRNWJiRUFzSUVnT1U4MXgtM2U5WEY0cVlEZH"
-    },
-    {
-      "title": "DTCC의 토큰화 프로젝트, 실물 증권 테스트에 50개 이상의 기업 참여",
-      "source": "Bitcoin News",
-      "published_kst": "2026-05-05 04:12 KST",
-      "published_ts": 1777921978,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3V2MFZYdzZ5RlhPam9EbFNNZFcxNGpCXzAwaU1SWUktbkl4NF9XS25TckRVU1I1dlh3NXBtWWRtVTU2ZElOV1BzNEQ0dUtsVFg3bzlrSEpmYzFvb0plcEpFUlB6Q2pRM1d5elpMYXRmcDRLeWVmenB1cDlYcllxbzNnXzRFbWlsOUszUkFtQVBwWkduWTdPUzl6LVhQeFZWQ0NjcG1ORDBVQ2l4S2dB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3V2MFZYdzZ5RlhPam9EbFNNZFcxNGpCXzAwaU1SWUktbkl4NF9XS25TckRVU1I1dlh3NXBtWWRtVTU2ZElOV1BzNEQ0dUtsVFg3bzlrSEpmYzFvb0plcEpFUlB6Q2pRM1d5elpMYXRmcDRLeWVmenB1cDlYcllxbzNnXzRFbWlsOUszUk"
-    },
-    {
-      "title": "미 DTCC, 7월 토큰화 증권 거래 시범 운영…10월 정식 출시",
-      "source": "블루밍비트",
-      "published_kst": "2026-05-05 01:12 KST",
-      "published_ts": 1777911177,
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VUjgtaWJ5eEg0S3o4Q3puNEs5ZGxrSGQxdGlSdFp3bDdEVndBU28xeUlJMWswaUlGc0lVb0x2bEFEQlhLNWlZYlgyOHlyWUFh?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VUjgtaWJ5eEg0S3o4Q3puNEs5ZGxrSGQxdGlSdFp3bDdEVndBU28xeUlJMWswaUlGc0lVb0x2bEFEQlhLNWlZYlgyOHlyWUFh?oc=5\" target=\"_blank\">미 DTCC, 7월 토큰화 증권 거래 시범 운영…10월 정식 출시</a>&nbsp;&nbsp;<font c"
-    },
-    {
-      "title": "Securitize, 토큰화 증권 사업 확대를 위한 FINRA 승인 획득",
-      "source": "Bitcoin News",
-      "published_kst": "2026-05-04 22:45 KST",
-      "published_ts": 1777902300,
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSDhZckhiZ2RXWURBNms3d3JnSXBURXZJYWp4a3d1UjBZNTdVeUFJSEN3dU5LaDVsSkR0R1hFTEZHV2pHVTRmM1k3VVNqVDdIR3BMWGtoX2sxcHdocVJMcEhUbmROYl83VWVFd0tld3J0b3FmMEJ6WXllLW5UYmY1c1JQRGY3NWUyQ0ZFR1ZpT2hoa242VVZpSXRNbWRiNFBuUmlsZmdBM0s?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSDhZckhiZ2RXWURBNms3d3JnSXBURXZJYWp4a3d1UjBZNTdVeUFJSEN3dU5LaDVsSkR0R1hFTEZHV2pHVTRmM1k3VVNqVDdIR3BMWGtoX2sxcHdocVJMcEhUbmROYl83VWVFd0tld3J0b3FmMEJ6WXllLW5UYmY1c1JQRGY3NWUyQ0ZFR1"
-    },
-    {
-      "title": "코스피 랠리 속 증권株 급등…삼성증권 27% 상승 [매경 자이앤트]",
-      "source": "v.daum.net",
-      "published_kst": "2026-05-04 13:36 KST",
-      "published_ts": 1777869363,
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FYkRPbEIzYTFIc1NQZkNPb1VFemduWkZRYXZnN1EtWTlxSjdJYTBnWjhQWXc1MklDWFdxYnFTM0tIZHRhaEp1QXkzVjNyTDA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FYkRPbEIzYTFIc1NQZkNPb1VFemduWkZRYXZnN1EtWTlxSjdJYTBnWjhQWXc1MklDWFdxYnFTM0tIZHRhaEp1QXkzVjNyTDA?oc=5\" target=\"_blank\">코스피 랠리 속 증권株 급등…삼성증권 27% 상승 [매경 자이앤트]</a>&nbsp;&nbsp;<font c"
-    },
-    {
-      "title": "DTCC, 월가 블록체인 추진 일환으로 10월 토큰화 증권 플랫폼 출시 예정",
-      "source": "CoinDesk",
-      "published_kst": "2026-05-04 08:16 KST",
-      "published_ts": 1777850160,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUnV1NVZnY3NuM1I0TUNnWDd4MF9WYnlrQWM2Z0Jna0xrRFNlZHBISFl3YXczZ01YU2FPWkVTai1xN0daSEVCbWNDN1BuYmp2Tll5cWpwd1o1RmRGWlB0dWllQU9mcVJuYjJoeUF2NmxHRXZrOXlfMHNyVE95ekllTExOYzBKcE5SRFZMWlEzOFE0TXZWSzM3ZHNFZm5IVHUtVXZ2XzNTTEllMkVYUGhSaHhhUFdEZUhwQVAxNFJJNVB1ZnBrbWJsZDI3M3FJUUU0V0RN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUnV1NVZnY3NuM1I0TUNnWDd4MF9WYnlrQWM2Z0Jna0xrRFNlZHBISFl3YXczZ01YU2FPWkVTai1xN0daSEVCbWNDN1BuYmp2Tll5cWpwd1o1RmRGWlB0dWllQU9mcVJuYjJoeUF2NmxHRXZrOXlfMHNyVE95ekllTExOYzBKcE5SRFZMWl"
-    },
-    {
-      "title": "NYSE, 토큰화 증권 거래 허용 위한 규정 변경안 제출",
-      "source": "블루밍비트",
-      "published_kst": "2026-05-04 07:04 KST",
-      "published_ts": 1777845878,
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hUUZCT1YyQ0IzLWV5RE5CZlZ1Y0stTF9BZUtLcXpVeVN5R1BON01nOTN6Y3RPdUdYNGU1UFo0cjFKNHhFMURJOWhGVVdXM09h?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hUUZCT1YyQ0IzLWV5RE5CZlZ1Y0stTF9BZUtLcXpVeVN5R1BON01nOTN6Y3RPdUdYNGU1UFo0cjFKNHhFMURJOWhGVVdXM09h?oc=5\" target=\"_blank\">NYSE, 토큰화 증권 거래 허용 위한 규정 변경안 제출</a>&nbsp;&nbsp;<font color="
-    },
-    {
-      "title": "KB증권, '동반 성장' WM 앞세워 디지털 투자 플랫폼 가속 [증권사, 새 금맥 리테일 캔다 (6)]",
-      "source": "한국금융신문",
-      "published_kst": "2026-05-04 00:00 KST",
-      "published_ts": 1777820400,
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wd2hhTlFVTHh1LWt2d3dEb3Y0ZlppWk96cTRGN21ZMDhacGlncHF2UXRMRkdfVDMwZ3hkRlY1am4wZ09ibDhjNFNuU2NhWXRaY3pKbzVNM0wyZnBJYmNtNVQ0aFdRV2dZYW4xZ3Y2WGpzcjF0VjNZX1JjTkg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5wd2hhTlFVTHh1LWt2d3dEb3Y0ZlppWk96cTRGN21ZMDhacGlncHF2UXRMRkdfVDMwZ3hkRlY1am4wZ09ibDhjNFNuU2NhWXRaY3pKbzVNM0wyZnBJYmNtNVQ0aFdRV2dZYW4xZ3Y2WGpzcjF0VjNZX1JjTkg?oc=5\" target=\"_blank\">"
-    },
-    {
-      "title": "\"AI로 판 바꾼다\" 미래·키움·KB증권, '육각형' 테크수장 배치 [금융권 AI 人포그래픽]",
-      "source": "한국금융신문",
-      "published_kst": "2026-05-04 00:00 KST",
-      "published_ts": 1777820400,
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMeU5BNzY1c0hjLWFURW9zRmZHUFZ2Y3VRM1BzMm1BTmF4ZERWZTgwRjdnNnhqWGFQX0cwaFRnN2d0dEVOTmE2dFZST2MyQlMwYTlNYlpDTFVKa3lYT0hqZEJib3NWVkNabWRkTkdIRGRsSUY0cm81Q3h0c3k?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBMeU5BNzY1c0hjLWFURW9zRmZHUFZ2Y3VRM1BzMm1BTmF4ZERWZTgwRjdnNnhqWGFQX0cwaFRnN2d0dEVOTmE2dFZST2MyQlMwYTlNYlpDTFVKa3lYT0hqZEJib3NWVkNabWRkTkdIRGRsSUY0cm81Q3h0c3k?oc=5\" target=\"_blank\">"
-    },
-    {
-      "title": "[정유신의 핀테크스토리]토큰 증권, 발행은 되는데 거래는 왜 활성화되지 않나",
-      "source": "전자신문",
-      "published_kst": "2026-05-03 16:00 KST",
-      "published_ts": 1777791600,
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91OGRMX1IzQ18yNks3SWw1aGdCZnU3NmZJUHhkSDVnNWVHanBpLVZEOHlkN2ZRUGc1aVQwc3dtcWFTbDc0R2hkWERWNjBkdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE91OGRMX1IzQ18yNks3SWw1aGdCZnU3NmZJUHhkSDVnNWVHanBpLVZEOHlkN2ZRUGc1aVQwc3dtcWFTbDc0R2hkWERWNjBkdw?oc=5\" target=\"_blank\">[정유신의 핀테크스토리]토큰 증권, 발행은 되는데 거래는 왜 활성화되지 않나</a>&nbsp;&nbsp;<fo"
-    },
-    {
-      "title": "탄소배출권도 블록체인으로···토큰증권 새 먹거리 되나",
-      "source": "뉴스웨이",
-      "published_kst": "2026-05-02 14:03 KST",
-      "published_ts": 1777698180,
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzM2ZpOENhczlYWnI3MWRySkl6RDBpcGkxWUViTEFkcVc3ejV0WGM5RmtqQktNWXo4MWNOQm9iOW85Q3hzZGtYTjRvRUdCbThFR2d2VEpCUkpaSmE5S0M0WndnZ1R3eXI3dFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBzM2ZpOENhczlYWnI3MWRySkl6RDBpcGkxWUViTEFkcVc3ejV0WGM5RmtqQktNWXo4MWNOQm9iOW85Q3hzZGtYTjRvRUdCbThFR2d2VEpCUkpaSmE5S0M0WndnZ1R3eXI3dFE?oc=5\" target=\"_blank\">탄소배출권도 블록체인으로···토큰증권 새 먹"
-    },
-    {
-      "title": "'내년 과세' 국세청, 해외 코인거래 감시망 토큰증권까지 확대",
-      "source": "마켓인",
-      "published_kst": "2026-04-30 19:17 KST",
-      "published_ts": 1777544228,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEa3RGUEFkLWZrRExQRjlNVTVyN1hDamNtRU5qbDJxSkRBbTR6NzBjd29wSk1GZDU1a2JId2MweUhOVWNPSjVkWTkydHJILTBFTE1UWmstMGNaUU1LQmRpRlVtU3d6SEZNUVc5WFI3RE5jOEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBEa3RGUEFkLWZrRExQRjlNVTVyN1hDamNtRU5qbDJxSkRBbTR6NzBjd29wSk1GZDU1a2JId2MweUhOVWNPSjVkWTkydHJILTBFTE1UWmstMGNaUU1LQmRpRlVtU3d6SEZNUVc5WFI3RE5jOEE?oc=5\" target=\"_blank\">'내년 과세' 국세청,"
-    },
-    {
-      "title": "[퇴직연금투자상품] 삼성증권, '디지털∙사람' 앞세워 시장경쟁력 강화",
+      "title": "삼성SDS, 예탁결제원 토큰증권 플랫폼 운영 사업 수주",
       "source": "주간한국",
-      "published_kst": "2026-04-30 17:47 KST",
-      "published_ts": 1777538870,
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HcncxNlhTcjY4NEJtTi1oTm15WTFzSVQ5T29aTHpaOUhRVUs4YVZHX1djQTU5TzV4SjJoTERZaXNfR0xrUnV1aGdsd3FyNE1hd1hjY3ppMmZMUkxDd1BjbDI3YVBMVUJoajI5MHloYmjSAXRBVV95cUxNLUlad09nWlBLcmJpZXo5TVNBWnhyempWeUU4SXZ1TXNDQXI3cTd3a3lxZnpRU05HUEpCYWdLWUY2ejdHWHJxTGczM1NzX3gwQUg1dXlZY3RrWUFlQzVHYUxZYkY5OVl1REwxT2NtMUdjWmlwZA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5HcncxNlhTcjY4NEJtTi1oTm15WTFzSVQ5T29aTHpaOUhRVUs4YVZHX1djQTU5TzV4SjJoTERZaXNfR0xrUnV1aGdsd3FyNE1hd1hjY3ppMmZMUkxDd1BjbDI3YVBMVUJoajI5MHloYmjSAXRBVV95cUxNLUlad09nWlBLcmJpZXo5TVNBWn"
+      "published_kst": "2026-05-06 09:35 KST",
+      "published_ts": 1778027736,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnZW1vRURxXy01aFAzNFNuTnVNd0ZhQlFLZ3FwRUNuN284T21Vd3ZYZ2N5d1BYekJKb3NSZ2ZibzJFOFdYMEhJLWw2cDBZcjZKNlZwY0xDWnhBN19sVmhyOUJJb3U3M1hNZmJKS2VCbzjSAXRBVV95cUxQUGpPRTh2VmliaTJUcEZveFNyLXpKTWlTZ3MwbWhaOG12eTE3YWptRUxWWHNOcjRFX1NiYkxXMnh4WDVaUmw3MGl4aXpLUlg4RnVlMWtwYzFBRFhuMEgyMVluQmhuZDBMWWl6NUNMeGhneG5OMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBnZW1vRURxXy01aFAzNFNuTnVNd0ZhQlFLZ3FwRUNuN284T21Vd3ZYZ2N5d1BYekJKb3NSZ2ZibzJFOFdYMEhJLWw2cDBZcjZKNlZwY0xDWnhBN19sVmhyOUJJb3U3M1hNZmJKS2VCbzjSAXRBVV95cUxQUGpPRTh2VmliaTJUcEZveFNyLX"
     },
     {
-      "title": "증권사도 기업도 디지털채권 발행…블록체인發 '국경 없는 자본조달'",
-      "source": "인베스트조선",
-      "published_kst": "2026-04-30 07:01 KST",
-      "published_ts": 1777500081,
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdXVnZ0dqVVRxSmZsa096S3E2NnJZSWNqX3A3U1pLM3JmdEVCUHJVSGFWREU1LWpMQ2w0Q2NvSXFHeGxnVm9Kc3JEN2JLamRLS01nWm1rN3RWLUZTODNWY1ZVYkE1LUFtZEtNNktkeVpVQ0Q3XzNvdmdJNnQzRklkTS1PQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOdXVnZ0dqVVRxSmZsa096S3E2NnJZSWNqX3A3U1pLM3JmdEVCUHJVSGFWREU1LWpMQ2w0Q2NvSXFHeGxnVm9Kc3JEN2JLamRLS01nWm1rN3RWLUZTODNWY1ZVYkE1LUFtZEtNNktkeVpVQ0Q3XzNvdmdJNnQzRklkTS1PQQ?oc=5\" targe"
+      "title": "삼성SDS, 예탁결제원 토큰증권 플랫폼 사업 수주",
+      "source": "디일렉",
+      "published_kst": "2026-05-06 09:34 KST",
+      "published_ts": 1778027663,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHdnJvWWZGNWJsa3d4ejQ0LVlQa2ZlZC04Rlp0NVRIQVNzbmtMcEs0dnNhZTVMZUhBc0Y0MmNQbkp2Tm0tVWdQTldOeDdTTHRXQjVhRF9OenFWdFBRMEk0TTFCZVc1UQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHdnJvWWZGNWJsa3d4ejQ0LVlQa2ZlZC04Rlp0NVRIQVNzbmtMcEs0dnNhZTVMZUhBc0Y0MmNQbkp2Tm0tVWdQTldOeDdTTHRXQjVhRF9OenFWdFBRMEk0TTFCZVc1UQ?oc=5\" target=\"_blank\">삼성SDS, 예탁결제원 토큰증권 플랫폼 사업 수주</"
     },
     {
-      "title": "기대감 커진 토큰증권···부동산 영역까지 도전장",
-      "source": "뉴스웨이",
-      "published_kst": "2026-04-28 16:38 KST",
-      "published_ts": 1777361894,
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MbHNhRlgtT0s3ZHlCcWxXZGh1dnZiblduc29XNnZVWDFyVjVmZ0V2UlpkeURISWdmeHhvLXp6Mk54bTZTUkU1bWJQUTZmUDJhQVJnejFNd0NmODlmMFFmLUNpbTZMYk9yeUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1MbHNhRlgtT0s3ZHlCcWxXZGh1dnZiblduc29XNnZVWDFyVjVmZ0V2UlpkeURISWdmeHhvLXp6Mk54bTZTUkU1bWJQUTZmUDJhQVJnejFNd0NmODlmMFFmLUNpbTZMYk9yeUE?oc=5\" target=\"_blank\">기대감 커진 토큰증권···부동산 영역까지 도"
+      "title": "삼성SDS, 예탁결제원 '토큰증권 플랫폼' 구축 사업 수주",
+      "source": "네이트",
+      "published_kst": "2026-05-06 09:30 KST",
+      "published_ts": 1778027400,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmYnpsbkZTZ1JFQkRyMmQtVzR5WFh6WXoxc2lvNTZ2Ulc0V0c1Y25oZXNUVWdNbTYxQzNNX1FWVnZKQ1VyNXlIU2JXRlNfalUzQUsw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmYnpsbkZTZ1JFQkRyMmQtVzR5WFh6WXoxc2lvNTZ2Ulc0V0c1Y25oZXNUVWdNbTYxQzNNX1FWVnZKQ1VyNXlIU2JXRlNfalUzQUsw?oc=5\" target=\"_blank\">삼성SDS, 예탁결제원 '토큰증권 플랫폼' 구축 사업 수주</a>&nbsp;&nbsp;<font c"
     },
     {
-      "title": "日토큰증권, 지방채·공공사업으로 영토 확장 [크립토브리핑]",
-      "source": "v.daum.net",
-      "published_kst": "2026-04-28 15:37 KST",
-      "published_ts": 1777358267,
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hU1gzbFdfNldtMC1CYWpIREdlbjd4ZkJmaWxVUzlkR19DdE1pRDFLZmtQZUw4Q0ZneWRZcXJUemVEdFFUcC11eVNKVHZSSWs?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hU1gzbFdfNldtMC1CYWpIREdlbjd4ZkJmaWxVUzlkR19DdE1pRDFLZmtQZUw4Q0ZneWRZcXJUemVEdFFUcC11eVNKVHZSSWs?oc=5\" target=\"_blank\">日토큰증권, 지방채·공공사업으로 영토 확장 [크립토브리핑]</a>&nbsp;&nbsp;<font color="
+      "title": "삼성SDS, 예탁원 ‘STO 발행 플랫폼’ 구축한다",
+      "source": "서울경제TV",
+      "published_kst": "2026-05-06 09:29 KST",
+      "published_ts": 1778027344,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZOEVTLTEyR2JpWHJQV09vakptU2Y0MmxYb1laUzlmbFNqTFRxZ2gwU3FRRi05VVNiZ0pXVTZvSjdZZ3B1SmQtNXNqaVYyU1dXakNjaWxIV3I0ZlM2czA4MkFkTHI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZOEVTLTEyR2JpWHJQV09vakptU2Y0MmxYb1laUzlmbFNqTFRxZ2gwU3FRRi05VVNiZ0pXVTZvSjdZZ3B1SmQtNXNqaVYyU1dXakNjaWxIV3I0ZlM2czA4MkFkTHI?oc=5\" target=\"_blank\">삼성SDS, 예탁원 ‘STO 발행 플랫폼’ 구축한다</a>"
     },
     {
-      "title": "김종현 핀산협 회장 “토큰증권은 혁신…전세대출에 적용”",
-      "source": "마켓인",
-      "published_kst": "2026-04-28 15:26 KST",
-      "published_ts": 1777357562,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuQnFJWmVFTDZtYkxRUEJXOXJnMGQtS19vUlVucUtSTVktblprUE5zbEotdWVtN0hkZ1RGQjljWUxSZGZveXZrTTd1NXlZMW8tamloUExVZjUwbVZ2WFh0bTZ5RGtoMnFUeWJZb2dIRDVJTG8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBuQnFJWmVFTDZtYkxRUEJXOXJnMGQtS19vUlVucUtSTVktblprUE5zbEotdWVtN0hkZ1RGQjljWUxSZGZveXZrTTd1NXlZMW8tamloUExVZjUwbVZ2WFh0bTZ5RGtoMnFUeWJZb2dIRDVJTG8?oc=5\" target=\"_blank\">김종현 핀산협 회장 “"
+      "title": "‘효율’ ‘보안’ 다 잡는다…삼성SDS-예탁결제원, ‘토큰증권 플랫폼’ 구축 박차",
+      "source": "헤럴드경제",
+      "published_kst": "2026-05-06 09:28 KST",
+      "published_ts": 1778027323,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MU1VHOHFEcGFDOHhYQW1IY2NYRDNWZEVtUjhVZmQ5VFc5N2p5MXRQOGNYMGNqS09YUklUUi12dEZTNzhnNTZLSjdpdHd2bGkwY25fSE9B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MU1VHOHFEcGFDOHhYQW1IY2NYRDNWZEVtUjhVZmQ5VFc5N2p5MXRQOGNYMGNqS09YUklUUi12dEZTNzhnNTZLSjdpdHd2bGkwY25fSE9B?oc=5\" target=\"_blank\">‘효율’ ‘보안’ 다 잡는다…삼성SDS-예탁결제원, ‘토큰증권 플랫폼’ 구축 박차</a>&n"
     },
     {
-      "title": "교보증권, STO 사업 ‘착착’…디지털자산 입법 겨냥 준비 한창",
-      "source": "인사이트코리아",
-      "published_kst": "2026-04-27 17:01 KST",
-      "published_ts": 1777276863,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45aUV2OHRLZVM5TE93dHFLb0taX2d3RS0zTUVIZENkeVRnc1hvbzBUSEs4Q1cwdjdxdkJZUVN3S3M2QXZYSjlfWkhGUUl5Um40NFlMNS1lb1pCcm43NFZrenJyc1FZWlB5alpqcXBNVWNmRXfSAXdBVV95cUxNeTQ0NmEzbC05WEdMMnZWY1RrRjRXSHhiRDZzRi1LN3pvVGpVaHBaNEduTWxoZXNoQmMxVFdySmtBZDJQT0VuOVExWmhCVTI2eF9EdWxGcW5leUJjTW9VSmNyMzloMWFRbWtBU0hMZ180bEppMUZwWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE45aUV2OHRLZVM5TE93dHFLb0taX2d3RS0zTUVIZENkeVRnc1hvbzBUSEs4Q1cwdjdxdkJZUVN3S3M2QXZYSjlfWkhGUUl5Um40NFlMNS1lb1pCcm43NFZrenJyc1FZWlB5alpqcXBNVWNmRXfSAXdBVV95cUxNeTQ0NmEzbC05WEdMMnZWY1"
+      "title": "특징주, 우리기술투자-STO(토큰증권 발행) 테마 상승세에 3.02% ↑",
+      "source": "매일경제 마켓",
+      "published_kst": "2026-05-06 09:27 KST",
+      "published_ts": 1778027238,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RV1ROUHJRNVU2Q1BZNG0zYk9GWmxkSXF4TEplcjJpbTZ0MTNvbU1MM3I2XzE2cGtMd3I2aXpVYVp5UE1KYk12bnpmNnpVYkI1elE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RV1ROUHJRNVU2Q1BZNG0zYk9GWmxkSXF4TEplcjJpbTZ0MTNvbU1MM3I2XzE2cGtMd3I2aXpVYVp5UE1KYk12bnpmNnpVYkI1elE?oc=5\" target=\"_blank\">특징주, 우리기술투자-STO(토큰증권 발행) 테마 상승세에 3.02% ↑</a>&nbsp;&nbsp;"
     },
     {
-      "title": "DB증권, 디지털 전용 특판 'DLB' 출시",
-      "source": "뉴시스",
-      "published_kst": "2026-04-27 16:00 KST",
-      "published_ts": 1777273200,
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91bUNWbGFMdmZIWWJlMllBcW5ndWxOUm9rX0FHMU1pNmhMeGZuYVRGUGQtTXNTS1JJbTBfTjdjRmRzZ2FYY1ZNS3pCblZhOXQ3VUFlVjAwNFRXRndJNW5FadIBeEFVX3lxTFBDYWJlZlJkODZCcG5Tek5LNExsUWh1YnBZTHNXSjdTQzJjYVotb2Y0emdzcFljQlNaT1dPV2VYdXdpcW9ua3c1T1NFTUQxcnNXVXluejZrdXFzTmsyUHZWRmZpZGFnU1lkUC1jb0FVS1dldmM0VVJBYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE91bUNWbGFMdmZIWWJlMllBcW5ndWxOUm9rX0FHMU1pNmhMeGZuYVRGUGQtTXNTS1JJbTBfTjdjRmRzZ2FYY1ZNS3pCblZhOXQ3VUFlVjAwNFRXRndJNW5FadIBeEFVX3lxTFBDYWJlZlJkODZCcG5Tek5LNExsUWh1YnBZTHNXSjdTQzJjYV"
+      "title": "삼성SDS, 토큰증권 플랫폼 정식 구축 수주 \"3년 연속 한국예탁결제원 사업 꿰찼다\"",
+      "source": "ER 이코노믹리뷰",
+      "published_kst": "2026-05-06 09:23 KST",
+      "published_ts": 1778026987,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tQXdiSUl0Z0RYbHJXMlFmUEd4RlpOeEV6VUppVHNVOHpqV3RtV1h5SEZLTng4SkJWTUkwZVRTR2gyTi1PZlVseGkyMG5xMnBKVXpWTGp5SEFMTjRhdGVhSEczR1ROdFZaN1BUZQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8tQXdiSUl0Z0RYbHJXMlFmUEd4RlpOeEV6VUppVHNVOHpqV3RtV1h5SEZLTng4SkJWTUkwZVRTR2gyTi1PZlVseGkyMG5xMnBKVXpWTGp5SEFMTjRhdGVhSEczR1ROdFZaN1BUZQ?oc=5\" target=\"_blank\">삼성SDS, 토큰증권 플랫폼 정식 구축"
     },
     {
-      "title": "금융보안원-하나증권, 토큰증권 생태계 조성 협력",
-      "source": "보안뉴스",
-      "published_kst": "2026-04-27 13:29 KST",
-      "published_ts": 1777264140,
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93Rzh2TnQwRFJCeUdrcGZBSWlfVjRRbFpPLWxsLUZxY0V6NWNkQ2x1TVQyNzN1T29BUEd5RDRncUszd1FQWjhueTBkb09MaTU3dE9sSE1WS0NJS1FjZl9fMzZGT3J0MXhxMHpkNjNR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE93Rzh2TnQwRFJCeUdrcGZBSWlfVjRRbFpPLWxsLUZxY0V6NWNkQ2x1TVQyNzN1T29BUEd5RDRncUszd1FQWjhueTBkb09MaTU3dE9sSE1WS0NJS1FjZl9fMzZGT3J0MXhxMHpkNjNR?oc=5\" target=\"_blank\">금융보안원-하나증권, 토큰증권 생태"
+      "title": "삼성SDS, 예탁결제원 '토큰증권 플랫폼 운영 구축' 사업 수주",
+      "source": "데일리한국",
+      "published_kst": "2026-05-06 09:19 KST",
+      "published_ts": 1778026755,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZaUlDVDBod001TW4xSHowNklFbDhCRzdYWlRjNHlwOVlmLVZINWRGamR2TnNMUUlZVTFNTjlsd3VtZVI2NjhEUG14VS1uSDlRS214QWNTelN3T2c1OXV2bnNNNVNrdHVhMDhSQ2dPUdIBc0FVX3lxTE83SnVYLVdOU3BhS25tb0gtZm1fM2xVREt1d3dzMTBqUmx5V2xBLUlEZE1STVBleV81LXY5VGhpQ1NHSVQ0a01Zem1hcE52dnFQRXBIM0F4cEJ0NzY5NkFMelpZbGVKYUVVR0VtaWVSakpvbUk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBZaUlDVDBod001TW4xSHowNklFbDhCRzdYWlRjNHlwOVlmLVZINWRGamR2TnNMUUlZVTFNTjlsd3VtZVI2NjhEUG14VS1uSDlRS214QWNTelN3T2c1OXV2bnNNNVNrdHVhMDhSQ2dPUdIBc0FVX3lxTE83SnVYLVdOU3BhS25tb0gtZm1fM2"
     },
     {
-      "title": "DB증권, 디지털 전용 특판 DLB 출시..최고 연 6.01%",
-      "source": "스마트투데이",
-      "published_kst": "2026-04-27 10:46 KST",
-      "published_ts": 1777254386,
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LMzc0YXFDd255RmR6Z0pKelpEOW9XbTNIbHJzQ09fT3pZNVNSclFBZThMaWZwdlc1dnVfT0tjUlBYUjRTNVQ5TTJldTUyWXZDSjlhSnRmT0NGZkRkLWFB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LMzc0YXFDd255RmR6Z0pKelpEOW9XbTNIbHJzQ09fT3pZNVNSclFBZThMaWZwdlc1dnVfT0tjUlBYUjRTNVQ5TTJldTUyWXZDSjlhSnRmT0NGZkRkLWFB?oc=5\" target=\"_blank\">DB증권, 디지털 전용 특판 DLB 출시..최고 연 6.01%</a>&"
+      "title": "삼성SDS, 한국예탁결제원 토큰증권 플랫폼 구축",
+      "source": "뉴스핌",
+      "published_kst": "2026-05-06 09:13 KST",
+      "published_ts": 1778026380,
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WQXNfak9HdXJkODFud0N6Zy1CWXR3dTdmVTl5bERCLXpzLVMyWVZrU2ExZHdDV1ZQSm9MRWUtQkgxUWQzX2lfMmlzRFhWTmRsQTBVN01SZENFYVEx?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WQXNfak9HdXJkODFud0N6Zy1CWXR3dTdmVTl5bERCLXpzLVMyWVZrU2ExZHdDV1ZQSm9MRWUtQkgxUWQzX2lfMmlzRFhWTmRsQTBVN01SZENFYVEx?oc=5\" target=\"_blank\">삼성SDS, 한국예탁결제원 토큰증권 플랫폼 구축</a>&nbsp;&nbsp;<"
     },
     {
-      "title": "DB증권, 디지털 전용 DLB 특판…최고 연 6% 금리",
-      "source": "한국경제",
-      "published_kst": "2026-04-27 10:14 KST",
-      "published_ts": 1777252450,
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41elE1ZFhXYjkxZnB4Z1c5MnZKUnJtU2RhVjVPNlFKaUI4a3JuUG11QTB5VVFzYUtFUWFIYVRXRERYVXVXTlFPT2J0OXF2eGpyYjZFTHhiTWlvUdIBVEFVX3lxTE13TVBBbG10S2w3Q1NFLVBsMmg4U1E2c3VRS0h4SFhGaGdTYlh0Tl90cE5nTUU4a2plUlFTeEtlc01Tc21VcTBoSWpBeFBVeW5PTVRfSw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE41elE1ZFhXYjkxZnB4Z1c5MnZKUnJtU2RhVjVPNlFKaUI4a3JuUG11QTB5VVFzYUtFUWFIYVRXRERYVXVXTlFPT2J0OXF2eGpyYjZFTHhiTWlvUdIBVEFVX3lxTE13TVBBbG10S2w3Q1NFLVBsMmg4U1E2c3VRS0h4SFhGaGdTYlh0Tl90cE"
-    },
-    {
-      "title": "DB증권, 디지털 전용 특판 DLB 출시",
-      "source": "브릿지경제",
-      "published_kst": "2026-04-27 10:11 KST",
-      "published_ts": 1777252260,
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tT0NLNHdySkFYekYzcFEwU2VIald4WkxVekotMDVKUWZSMkZFdWppN3JwanFadkN0UUx5MjJGMUpTNWVndTZVNlJ1c196QTYtQ3k5dG05R3M4dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tT0NLNHdySkFYekYzcFEwU2VIald4WkxVekotMDVKUWZSMkZFdWppN3JwanFadkN0UUx5MjJGMUpTNWVndTZVNlJ1c196QTYtQ3k5dG05R3M4dw?oc=5\" target=\"_blank\">DB증권, 디지털 전용 특판 DLB 출시</a>&nbsp;&nbsp;<font c"
-    },
-    {
-      "title": "DB증권, 디지털 전용 특판 DLB 출시",
-      "source": "마켓인",
-      "published_kst": "2026-04-27 09:49 KST",
-      "published_ts": 1777250960,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mWUM4a3hobmkzTHp6dTJfaVJpc0RoNUpHTDBTSUprcFRnWnVTbms4WVhwSU9oVi1PZ2VGaXVOVlp0TjlXSEl4TjFScjlNbUY1Z2l0WTh3NElNNmJ3WFEyUUVMVzI3UmJOaEVFLUpoLU91c1U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9mWUM4a3hobmkzTHp6dTJfaVJpc0RoNUpHTDBTSUprcFRnWnVTbms4WVhwSU9oVi1PZ2VGaXVOVlp0TjlXSEl4TjFScjlNbUY1Z2l0WTh3NElNNmJ3WFEyUUVMVzI3UmJOaEVFLUpoLU91c1U?oc=5\" target=\"_blank\">DB증권, 디지털 전용"
-    },
-    {
-      "title": "바이셀스탠다드, 베트남 핀테크기업과 '토큰증권' 업무협약",
-      "source": "연합뉴스",
-      "published_kst": "2026-04-24 16:00 KST",
-      "published_ts": 1777014000,
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2UWNGNjBTcUpMQ2RGeHMzNmlhdEo0VTNtNkhGZElxR0E4eG5neWFrb0hnY3Y2QUUxOXBoQnUtV21pMDU2M2RlalNRLXEwYkhlYkpSTV9JbFQ1c3fSAWBBVV95cUxNdmV2Q3FqNTFfVlNINXF4WGVheU5LR0QyekNHTHNERlczV3U2aHBNNGhMbzI0ckZURlhIWnZ3OUlta1pDeEJkU0hScFNVcmVadFlMSHVhYWdyU1NlZE4xS2U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2UWNGNjBTcUpMQ2RGeHMzNmlhdEo0VTNtNkhGZElxR0E4eG5neWFrb0hnY3Y2QUUxOXBoQnUtV21pMDU2M2RlalNRLXEwYkhlYkpSTV9JbFQ1c3fSAWBBVV95cUxNdmV2Q3FqNTFfVlNINXF4WGVheU5LR0QyekNHTHNERlczV3U2aHBNNG"
-    },
-    {
-      "title": "코스닥 시총 절반 넘는 ‘367조 토큰증권 시장’ 열린다[자본이 이끄는 금융혁신 시대]",
-      "source": "문화일보",
-      "published_kst": "2026-04-24 16:00 KST",
-      "published_ts": 1777014000,
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiUkVsNGJZOFlDZXhHbGdNdTRoSHltTDVDMFYtOG1NN3N5Z1NYeXVvQmpzSDlrbEg4Mkw1Q1NULWpOaGt2NWNERUcyVnNBMXZj?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiUkVsNGJZOFlDZXhHbGdNdTRoSHltTDVDMFYtOG1NN3N5Z1NYeXVvQmpzSDlrbEg4Mkw1Q1NULWpOaGt2NWNERUcyVnNBMXZj?oc=5\" target=\"_blank\">코스닥 시총 절반 넘는 ‘367조 토큰증권 시장’ 열린다[자본이 이끄는 금융혁신 시대]</a>&nbsp;&"
-    },
-    {
-      "title": "교보證 \"토큰화, 기본형 MMF->수익형 전력구매->초과수익형 와인·IP\"",
-      "source": "마켓인",
-      "published_kst": "2026-04-23 17:02 KST",
-      "published_ts": 1776931368,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JSmFKdXZBdldoamRCTkN6WVZOTklyU1VKbjNqRF80VDZSUktCcE1vbTRTZzdIbUgwT0NHWUtGNE9PT2Q0N1pkbEVSZlgxSEZVSzZCR1hMTDVITEIxSVJ4SVhHZEJBcXBRTUFaUVJKem1PNkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9JSmFKdXZBdldoamRCTkN6WVZOTklyU1VKbjNqRF80VDZSUktCcE1vbTRTZzdIbUgwT0NHWUtGNE9PT2Q0N1pkbEVSZlgxSEZVSzZCR1hMTDVITEIxSVJ4SVhHZEJBcXBRTUFaUVJKem1PNkE?oc=5\" target=\"_blank\">교보證 \"토큰화, 기본"
-    },
-    {
-      "title": "“토큰증권, 법적 기반 마련됐지만…‘결제·인프라’ 과제 남아”",
-      "source": "법률신문",
-      "published_kst": "2026-04-21 16:00 KST",
-      "published_ts": 1776754800,
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VYVFMRTBEcTZqSUxpMzZNR05aSHY2eUZHQzdBaGlVV3pWcWN0UDdZMkFoMGFFS2xET09UUE44a0xfWnlMTFJwOE1HRnBPVDd6aHFTcG05RW55cl9WUk9pSnFfSnN4NmRVWGxmV0VB0gFyQVVfeXFMTmJNWGJJQ3BHNjdPcDQ5VEQzU184RkR2X0todFR6ZUhHQnQ1UkFRODJQX1I4TFB4TVJvODVrLVVDOXIwUGdVMTNJSXV2NUlldEFSSldYOEFzcldBaTZLWHRCTmdQdkljeVVUcGdRLWJtOHRB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1VYVFMRTBEcTZqSUxpMzZNR05aSHY2eUZHQzdBaGlVV3pWcWN0UDdZMkFoMGFFS2xET09UUE44a0xfWnlMTFJwOE1HRnBPVDd6aHFTcG05RW55cl9WUk9pSnFfSnN4NmRVWGxmV0VB0gFyQVVfeXFMTmJNWGJJQ3BHNjdPcDQ5VEQzU184Rk"
-    },
-    {
-      "title": "“뻔하지 않은 STO로 승부”…유안타증권, 틈새시장 공략",
-      "source": "마켓인",
-      "published_kst": "2026-04-21 16:00 KST",
-      "published_ts": 1776754800,
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05b2VJb0FJSHRmUTJhUTYtbjRZX1V4TWp4SV9RZGNVZFZXSEJNYjN1NnVxZXlKejBSYXBoLURIWGxVeHRjekxPX0djOFJEOWU1aThBRjNkbzFJclVSenduZENLekZqc2tkTXBtRXhETVpJUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE05b2VJb0FJSHRmUTJhUTYtbjRZX1V4TWp4SV9RZGNVZFZXSEJNYjN1NnVxZXlKejBSYXBoLURIWGxVeHRjekxPX0djOFJEOWU1aThBRjNkbzFJclVSenduZENLekZqc2tkTXBtRXhETVpJUQ?oc=5\" target=\"_blank\">“뻔하지 않은 STO로 "
-    },
-    {
-      "title": "법무법인 바른, 토큰증권 세미나 성료…“단계별 법무 전략 필수”",
-      "source": "이투데이",
-      "published_kst": "2026-04-21 16:00 KST",
-      "published_ts": 1776754800,
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lTUpmZ04yQkQwX1NPUjAyUVRlSFRndk1MSEc0TlRNN3RpcGNHaDRPbXJfRHVOWnNjb3dkdGV3Tkw1S2tOMkF4c2plRFlxT3VjZHNoZQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lTUpmZ04yQkQwX1NPUjAyUVRlSFRndk1MSEc0TlRNN3RpcGNHaDRPbXJfRHVOWnNjb3dkdGV3Tkw1S2tOMkF4c2plRFlxT3VjZHNoZQ?oc=5\" target=\"_blank\">법무법인 바른, 토큰증권 세미나 성료…“단계별 법무 전략 필수”</a>&nbsp;&nbsp;<f"
-    },
-    {
-      "title": "한화투자증권, 디지털에셋과 협력…글로벌 블록체인 '캔톤' 참여",
-      "source": "뉴시스",
-      "published_kst": "2026-04-20 16:00 KST",
-      "published_ts": 1776668400,
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nWFlrczZ3ODgxcV9FMm45S1Z6VlgwVXIxc1lQUmxodGlqMXRfeUFJdTZ0WlZTc05EUFBNczdycmFqSnpoYWozRGNmMEJyQnNnMW1mWlhLRU5henhhdkJjNlc5LWFQVzlPdUhST3lacDhadWZXUkZXM9IBeEFVX3lxTE9nWFlrczZ3ODgxcV9FMm45S1Z6VlgwVXIxc1lQUmxodGlqMXRfeUFJdTZ0WlZTc05EUFBNczdycmFqSnpoYWozRGNmMEJyQnNnMW1mWlhLRU5henhhdkJjNlc5LWFQVzlPdUhST3lacDhadWZXUkZXMw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9nWFlrczZ3ODgxcV9FMm45S1Z6VlgwVXIxc1lQUmxodGlqMXRfeUFJdTZ0WlZTc05EUFBNczdycmFqSnpoYWozRGNmMEJyQnNnMW1mWlhLRU5henhhdkJjNlc5LWFQVzlPdUhST3lacDhadWZXUkZXM9IBeEFVX3lxTE9nWFlrczZ3ODgxcV"
-    },
-    {
-      "title": "디지털융합산업협회, ‘토큰증권(STO) 발행·유통 활성화와 디지털자산 발전 정책 세미나’ 개최",
-      "source": "핀테크투데이",
-      "published_kst": "2026-04-20 16:00 KST",
-      "published_ts": 1776668400,
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xOF9MaFh3cHlnTHcyTEE0UXB5ZVctdllfS3Z2X2JGWmVJV0k5Ym9KYVd4dXhLV2xod0RSc0UzaVNtTGFmeTJxdVZ1YUJ2Y3VDMi1BWEg1T0ZSem1DWGh3X0RsTUgwWjJPQ1RnaGhvTdIBc0FVX3lxTFBid0Nqb1dWQnJNRG1vZlNJc0xPWmZxdjl2MGxwWHBOQmk2ME1yU2dneHExcXkxYkl4Z0dsUkFxSlkzUHBzT1ltUmRDTjIxMkRUdmdEMFNacE1DWHhCOXBacnFqS01UeDBXbl9VWXdYLU5aeVU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE4xOF9MaFh3cHlnTHcyTEE0UXB5ZVctdllfS3Z2X2JGWmVJV0k5Ym9KYVd4dXhLV2xod0RSc0UzaVNtTGFmeTJxdVZ1YUJ2Y3VDMi1BWEg1T0ZSem1DWGh3X0RsTUgwWjJPQ1RnaGhvTdIBc0FVX3lxTFBid0Nqb1dWQnJNRG1vZlNJc0xPWm"
-    },
-    {
-      "title": "한화증권, 디지털에셋과 업무협약…\"캔톤 네트워크 기반 협력\"",
-      "source": "연합뉴스",
-      "published_kst": "2026-04-20 16:00 KST",
-      "published_ts": 1776668400,
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rU2FyUTladGs4andmcGxFSF9oVXQ3WWVWblU3NjA3cW5sQkc5bVViNVUzSzZwT2NBVEVfLW83dXEwTDRJYS14VVJCYUwzMUN5N0VXamJIc2pXT3PSAWBBVV95cUxNSGRRdEZOa2VkdEJQZTA3TjBvY0swRjhmQWNRWTZXbTBKcVE4VUpuZVF6MlNmUjVpMG1DR2UzQWw3RXprVmRCZFVVcjVXUEtORmR1U0RVYmw3aFM0MnhpbVY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rU2FyUTladGs4andmcGxFSF9oVXQ3WWVWblU3NjA3cW5sQkc5bVViNVUzSzZwT2NBVEVfLW83dXEwTDRJYS14VVJCYUwzMUN5N0VXamJIc2pXT3PSAWBBVV95cUxNSGRRdEZOa2VkdEJQZTA3TjBvY0swRjhmQWNRWTZXbTBKcVE4VUpuZV"
-    },
-    {
-      "title": "[크립토Now] 한화증권, 디지털에셋과 업무협약",
-      "source": "매일경제TV",
-      "published_kst": "2026-04-20 15:17 KST",
-      "published_ts": 1776665820,
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1peFRCUV9UdEc1YlhvUEpYd3c0eXpHekhQQ1hzaHAxWG50cVRNSF9LQmQ0RVZReFRNZzgzczJ1bUh6bWdaOW1NV0hnZWpfQVFqOTdsUE90YVlua2pXX2J2TTg1a3p4Tm56?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1peFRCUV9UdEc1YlhvUEpYd3c0eXpHekhQQ1hzaHAxWG50cVRNSF9LQmQ0RVZReFRNZzgzczJ1bUh6bWdaOW1NV0hnZWpfQVFqOTdsUE90YVlua2pXX2J2TTg1a3p4Tm56?oc=5\" target=\"_blank\">[크립토Now] 한화증권, 디지털에셋과 업무협약<"
-    },
-    {
-      "title": "한화투자증권, 디지털자산 플랫폼 청사진 공개…내년 1분기 출시 목표",
-      "source": "디지털투데이",
-      "published_kst": "2026-04-17 16:00 KST",
-      "published_ts": 1776409200,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvLW1DTmxlX19ld08xanE4eUNWNkY3Y0dxc0xfX21EQzgwNmNNMWJhbU5IQWdzZnRwWjQ0bk8zbm9mXzR0ZzNYZDJvckx6RzFOZEY0UXFyR2ZsVFRXTTI2cFdHSVhnSXVrdy1WN0ZjVGMxUEk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBvLW1DTmxlX19ld08xanE4eUNWNkY3Y0dxc0xfX21EQzgwNmNNMWJhbU5IQWdzZnRwWjQ0bk8zbm9mXzR0ZzNYZDJvckx6RzFOZEY0UXFyR2ZsVFRXTTI2cFdHSVhnSXVrdy1WN0ZjVGMxUEk?oc=5\" target=\"_blank\">한화투자증권, 디지털자"
-    },
-    {
-      "title": "키움증권, 디지털 아카데미 3기 성료…\"미래 금융 인재 양성\"",
-      "source": "중소기업신문",
-      "published_kst": "2026-04-17 10:14 KST",
-      "published_ts": 1776388492,
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tQkVsSzBBb1c2aHZGenVndW1IYjM1U04wendQb1dQdHFxTHpHU0RBVGJPaG1nekNQNDV4MEZNbUZSS3lrQm5DQkRXb3RpMWgwSENlbTZaRTR4YTNmZ2N2Tjg2UmxILVZrWTc1RUFn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE0tQkVsSzBBb1c2aHZGenVndW1IYjM1U04wendQb1dQdHFxTHpHU0RBVGJPaG1nekNQNDV4MEZNbUZSS3lrQm5DQkRXb3RpMWgwSENlbTZaRTR4YTNmZ2N2Tjg2UmxILVZrWTc1RUFn?oc=5\" target=\"_blank\">키움증권, 디지털 아카데미 3기 성"
-    },
-    {
-      "title": "\"현업과제 누가 잘 풀까\"…한화투자증권, 디지털 AI경진대회 개최",
-      "source": "연합인포맥스",
-      "published_kst": "2026-04-16 16:00 KST",
-      "published_ts": 1776322800,
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BaThIUlJZMjFYcVZXSEdCc0xEN0pLNkZRR3d4TGFGemZ6ZDdMY3RGTXQwUko0b3BrbkpSRlcyS254MUl2aDVQelZsTzRZamRBTGlsdXhDd3hBNzJza0JTT09HVm14RkJOV1RKYVdZdFo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9BaThIUlJZMjFYcVZXSEdCc0xEN0pLNkZRR3d4TGFGemZ6ZDdMY3RGTXQwUko0b3BrbkpSRlcyS254MUl2aDVQelZsTzRZamRBTGlsdXhDd3hBNzJza0JTT09HVm14RkJOV1RKYVdZdFo?oc=5\" target=\"_blank\">\"현업과제 누가 잘 풀까\"…한"
-    },
-    {
-      "title": "한화투자증권, '디지털혁신 AI 경진대회' 개최",
-      "source": "연합뉴스",
-      "published_kst": "2026-04-16 16:00 KST",
-      "published_ts": 1776322800,
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15WjFFNmg0enc5ZnhySG9BZzZUdFhtMWlVMnEzcWlqRi0ySVQzcFdQVGh1dGREVTFaX0x5LWV5NGNGX1FXdEdIRUMxV01yVTZGMHJnVEVoMk82N3PSAWBBVV95cUxONm1BVWxYVjhXOS1OVmIyT2t6d0RSa003NG1OTWNPVHdpQjFON1FydWpPc0x5T3hxRWJfUTMyaGthMlNVSTNMLU5neXA0QTduXzlCQWpmRGpPcFQ1VGstcnI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE15WjFFNmg0enc5ZnhySG9BZzZUdFhtMWlVMnEzcWlqRi0ySVQzcFdQVGh1dGREVTFaX0x5LWV5NGNGX1FXdEdIRUMxV01yVTZGMHJnVEVoMk82N3PSAWBBVV95cUxONm1BVWxYVjhXOS1OVmIyT2t6d0RSa003NG1OTWNPVHdpQjFON1FydW"
-    },
-    {
-      "title": "'몇천원으로 건물 투자' STO 시대 개막···교보증권, 네트워크 기반 확장 승부수",
-      "source": "여성경제신문",
-      "published_kst": "2026-04-15 18:09 KST",
-      "published_ts": 1776244158,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0NjdXbGd2M1ByZmh1XzNjUFlDWHpkTDFtdU5vdnFzZVRRN2ZBbDhJRmRkM1hLM2xwYm0tNENXOHdMQ2c5TE9jSU00YUo4M1B5VndGXzBqd3FHWDA5a2MxcC1mWHBzQzJuMjZ4V0l2VGxmTG_SAXdBVV95cUxPV3RFNEhVT082TENkLUg2a09xcE9vcnMwVkdhTG01emZQV25FTEJuU0dHMi1obTZmRnpKb0RPWGNJRGswdEpDSy1NcWVaNXZXYmRZNlJrd3N3YWg1Wk9FQlhHUGdqWU00SVhHTUdySFUxbGdCVGF3cw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA0NjdXbGd2M1ByZmh1XzNjUFlDWHpkTDFtdU5vdnFzZVRRN2ZBbDhJRmRkM1hLM2xwYm0tNENXOHdMQ2c5TE9jSU00YUo4M1B5VndGXzBqd3FHWDA5a2MxcC1mWHBzQzJuMjZ4V0l2VGxmTG_SAXdBVV95cUxPV3RFNEhVT082TENkLUg2a0"
-    },
-    {
-      "title": "암호화폐·토큰증권도 주식처럼 거래…증권사의 무한 확장",
-      "source": "한국경제",
-      "published_kst": "2026-04-15 16:00 KST",
-      "published_ts": 1776236400,
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoMnF6RVA4dTNwM0laWndCdUJCNlVhdndSSzRKRmQtWW9mZ1ZfQUdFbjNJeW9weFphX09wcGFyVDhOX3lwQkJWT0NSaWswSkFkdGNzVlZDQjFnd9IBVEFVX3lxTE5HblRGTmlDbUtYQTJjRWJpRW83aDhuZjRNYzE4ZlZYREE2LWsxY25CQnpGRDdOS1FuNk1fUjZMNTFMdWZHLWJGZ25zdDRZODdwT3Q3Rg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoMnF6RVA4dTNwM0laWndCdUJCNlVhdndSSzRKRmQtWW9mZ1ZfQUdFbjNJeW9weFphX09wcGFyVDhOX3lwQkJWT0NSaWswSkFkdGNzVlZDQjFnd9IBVEFVX3lxTE5HblRGTmlDbUtYQTJjRWJpRW83aDhuZjRNYzE4ZlZYREE2LWsxY25CQn"
-    },
-    {
-      "title": "'주식·디지털자산' 함께 거래…미래에셋증권 홍콩 '통합 MTS' 6월 오픈",
-      "source": "뉴스1",
-      "published_kst": "2026-04-15 16:00 KST",
-      "published_ts": 1776236400,
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkYi1peDJCeWZ4R3NXMDdPbHFId2RpM3EwdmpLVjEtV2RzZ1pRbUpER29DRE1JMEpyUVVrR2xKS2o2Vml1QU9ZQjRqNkY3bnU5c2ZrZDJFcTF4NXB0S09N?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkYi1peDJCeWZ4R3NXMDdPbHFId2RpM3EwdmpLVjEtV2RzZ1pRbUpER29DRE1JMEpyUVVrR2xKS2o2Vml1QU9ZQjRqNkY3bnU5c2ZrZDJFcTF4NXB0S09N?oc=5\" target=\"_blank\">'주식·디지털자산' 함께 거래…미래에셋증권 홍콩 '통합 MTS' 6월 "
-    },
-    {
-      "title": "코스콤, 교보증권과 토큰증권 플랫폼 사업 추진 MOU",
-      "source": "연합뉴스",
-      "published_kst": "2026-04-14 16:00 KST",
-      "published_ts": 1776150000,
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnT19zLVNuVkxoR2RSSnktd3czRER0eUFDTjJEZ1M5RGVWNGt5NGJhckNhWHZpUTNfc29na0NXalFQdkFGbU5DU1FCVldvenM4QVAzQ2tTdTlJQ3PSAWBBVV95cUxNTjEtUUNibkVFc0E1YWVNNWpldkkyT0ZsV0FkRFZRQ2F4Ukx4dzJyUDJoekZoLVY3OS1uSjlLU3FkWGFCN0JVVGc2S2FnaVdiektUTmxtTEpLMGs3cERKMlY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnT19zLVNuVkxoR2RSSnktd3czRER0eUFDTjJEZ1M5RGVWNGt5NGJhckNhWHZpUTNfc29na0NXalFQdkFGbU5DU1FCVldvenM4QVAzQ2tTdTlJQ3PSAWBBVV95cUxNTjEtUUNibkVFc0E1YWVNNWpldkkyT0ZsV0FkRFZRQ2F4Ukx4dzJyUD"
-    },
-    {
-      "title": "코스콤, 교보증권과 토큰증권 플랫폼 사업 추진을 위한 MOU 체결",
-      "source": "전자신문",
-      "published_kst": "2026-04-14 16:00 KST",
-      "published_ts": 1776150000,
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tSDBrNmdzcmhyYXpWNmZjcTdrVTR1YlJHcHRNcHhsdU9zSko2OVRzLTJSUG0tWkkyQWE2TVB0LVNoWUtTOXh6MEVMaTg4UQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tSDBrNmdzcmhyYXpWNmZjcTdrVTR1YlJHcHRNcHhsdU9zSko2OVRzLTJSUG0tWkkyQWE2TVB0LVNoWUtTOXh6MEVMaTg4UQ?oc=5\" target=\"_blank\">코스콤, 교보증권과 토큰증권 플랫폼 사업 추진을 위한 MOU 체결</a>&nbsp;&nbsp;<font col"
-    },
-    {
-      "title": "코스콤-교보증권, 토큰증권 플랫폼 사업 추진 MOU",
-      "source": "뉴시스",
-      "published_kst": "2026-04-14 16:00 KST",
-      "published_ts": 1776150000,
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03VFFDNEJzNWV4WWF5dGpfTjNDYnBNRno1NEhXTTRFQnNKUXNoX25qQ2lYOUxJV2JkdkZlMU13R0YwN1lFa21NNGdBSnRjS2dXQ2hSVGdUMkR1eUItN0FZVtIBeEFVX3lxTE8xcTQ5dWZ6d3E3cUViTUNzVXRCcUpNWEM4THBJYkFXMUhKaWVPUE9TQzlUZXVlZzQxdWxDTjJITEJwZ04xMVZHX2xyTmtjeHkyWlBpakh4TWp3dDlLSVVSNjZuN0FlYnVGY1I0UTNMbU5ETFIxa285Qw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE03VFFDNEJzNWV4WWF5dGpfTjNDYnBNRno1NEhXTTRFQnNKUXNoX25qQ2lYOUxJV2JkdkZlMU13R0YwN1lFa21NNGdBSnRjS2dXQ2hSVGdUMkR1eUItN0FZVtIBeEFVX3lxTE8xcTQ5dWZ6d3E3cUViTUNzVXRCcUpNWEM4THBJYkFXMUhKaW"
-    },
-    {
-      "title": "코스콤·교보증권, 토큰증권 공동 플랫폼 MOU",
-      "source": "서울경제",
-      "published_kst": "2026-04-14 16:00 KST",
-      "published_ts": 1776150000,
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfRk1QYlZsbldhQTdrLWtwYXZDNDJ1bEV1RVp6Z0c3d2E3TWhnX3VGU0REZkk5S2RvVXVKUXFyeGFwZzQycHRYQkMwSHVsSjNDSnfSAVNBVV95cUxPWUJoT2lBY2w5cVRHeFpNQW8wbmdaYUVIRzVMWmdudXp2eWlTSnJqWGZmVzUtS1VEMldvSm93cjlydEY3OUVlVGY5ekpBQmtHUzFmTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfRk1QYlZsbldhQTdrLWtwYXZDNDJ1bEV1RVp6Z0c3d2E3TWhnX3VGU0REZkk5S2RvVXVKUXFyeGFwZzQycHRYQkMwSHVsSjNDSnfSAVNBVV95cUxPWUJoT2lBY2w5cVRHeFpNQW8wbmdaYUVIRzVMWmdudXp2eWlTSnJqWGZmVzUtS1VEMl"
+      "title": "'토큰 시장' 활성화…삼성SDS, 예탁원 '토큰증권 플랫폼' 사업 수주",
+      "source": "신아일보",
+      "published_kst": "2026-05-06 09:09 KST",
+      "published_ts": 1778026179,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pUy1EZHNPUFZTUUVrWDhRaXkwUy1pS3lEVWRYQ0t1RGdhdXFWSUJqWF96VU1jamExWjRtT0Z2UmNXMDIwWGwwSnJYOHVDbTBza0NNS0dfdXV6eWdnWGFjaTBKdkNzTkV3bEN2WGwxQm8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1pUy1EZHNPUFZTUUVrWDhRaXkwUy1pS3lEVWRYQ0t1RGdhdXFWSUJqWF96VU1jamExWjRtT0Z2UmNXMDIwWGwwSnJYOHVDbTBza0NNS0dfdXV6eWdnWGFjaTBKdkNzTkV3bEN2WGwxQm8?oc=5\" target=\"_blank\">'토큰 시장' 활성화…삼성SD"
     }
   ]
 }
