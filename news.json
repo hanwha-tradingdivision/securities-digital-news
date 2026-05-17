@@ -1,7 +1,15 @@
 {
   "query": "증권 디지털 OR STO OR 토큰증권 OR 토큰화 OR 디지털자산 OR 디지털채권",
-  "generated_kst": "2026-05-16 09:01 KST",
+  "generated_kst": "2026-05-17 09:02 KST",
   "items": [
+    {
+      "title": "외환·신용까지 관리 확대…디지털자산 규제 체계 구체화",
+      "source": "한국아이닷컴",
+      "published_kst": "2026-05-16 14:00 KST",
+      "published_ts": 1778907600,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZQmRXbWRYeDhrLTlSSFVwRndQZjNCdDdRUFM4Q2dyVks2TE1kQ2UyalVjZTZfc0FzTXJMUXhhMGFldXNwUzhZM2hpZDNLM1JHWHlmdjBsZzd4SEZuT19DamF5clAzYUdFTGhB0gFvQVVfeXFMTnJRSkhTemhkS2ZXQlBFVDZSMW1fcjA2X1lNREpmOXFvMjAzNDZYclpKNm5IX2l0VlBfQzZvYjZibnJJRVhvTi1rT3lDc0MzOTdrZ21jcVdBVmlwNHRYZkhPRzhUYmlybElmTTlvb0p3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZQmRXbWRYeDhrLTlSSFVwRndQZjNCdDdRUFM4Q2dyVks2TE1kQ2UyalVjZTZfc0FzTXJMUXhhMGFldXNwUzhZM2hpZDNLM1JHWHlmdjBsZzd4SEZuT19DamF5clAzYUdFTGhB0gFvQVVfeXFMTnJRSkhTemhkS2ZXQlBFVDZSMW1fcjA2X1"
+    },
     {
       "title": "금융위, ‘2차 민·관 합동 토큰증권(ST) 협의체’ 개최",
       "source": "코리아포스트 한글판",
@@ -107,14 +115,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vZVRVbEROSW5wcFlyb0dOZ09NRzVtcERzZ2k2amdPYWFMTDBDWExwclladmZOTkZwSnc1ZTZZdXQ3NTJMUXgyclFXZU9sN2RMci1FcUVNV045NkRzTjVUSjdhRGhTMFXSAWtBVV95cUxNX2dCaFdVcUh0QVZPQk1RN3hEM3pCZnJ1YVFGT3"
     },
     {
-      "title": "한투, 코인원 투자 검토설…가상자산 확대 움직임",
-      "source": "네이트",
-      "published_kst": "2026-05-15 16:01 KST",
-      "published_ts": 1778828460,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSFVaWUJ6cTVaY29ZRlBFRXducE1SaWNGR0pCR0VheTQtOWZvMTlXeDUwWTNZeXB3YTJCSUhDQTJlVkludm4tWWNVTTJMS3lVcFln?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSFVaWUJ6cTVaY29ZRlBFRXducE1SaWNGR0pCR0VheTQtOWZvMTlXeDUwWTNZeXB3YTJCSUhDQTJlVkludm4tWWNVTTJMS3lVcFln?oc=5\" target=\"_blank\">한투, 코인원 투자 검토설…가상자산 확대 움직임</a>&nbsp;&nbsp;<font color=\""
-    },
-    {
       "title": "조각투자 '자산 풀링' 허용…토큰증권 거래한도 유연하게 [크립토브리핑]",
       "source": "파이낸셜뉴스",
       "published_kst": "2026-05-15 15:41 KST",
@@ -145,14 +145,6 @@
       "published_ts": 1778824623,
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xVVc5cXljY0dLSE5qQ2tKdU50alBaS1l1ZmtlMWRRUVhKUkpRLU5mem5OVjVaQzlHTFFGck1iaWkwZEszUGdBeVVKbUNEUXV5ZlJtS1dIa0NfZF9Db2FXdEZPRQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xVVc5cXljY0dLSE5qQ2tKdU50alBaS1l1ZmtlMWRRUVhKUkpRLU5mem5OVjVaQzlHTFFGck1iaWkwZEszUGdBeVVKbUNEUXV5ZlJtS1dIa0NfZF9Db2FXdEZPRQ?oc=5\" target=\"_blank\">토큰증권 규제 푼다…금융위, ‘유동성 족쇄’ 손질 착수</a"
-    },
-    {
-      "title": "권대영 \"혁신 가두는 울타리 안 돼\"…토큰증권 거래한도 유연하게 푼다",
-      "source": "메트로신문",
-      "published_kst": "2026-05-15 14:56 KST",
-      "published_ts": 1778824603,
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtLVgzb213bEFITWh4c0xWWHVXUmROdVduWnQ4ZFBiMGdPSEc4NExpdmZUcjJ6Y1lKRm5rb0FjeHlVOTJJWVVIcXBVSWZlNkJRbzVYRk1nYWFFZXRJTEY4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtLVgzb213bEFITWh4c0xWWHVXUmROdVduWnQ4ZFBiMGdPSEc4NExpdmZUcjJ6Y1lKRm5rb0FjeHlVOTJJWVVIcXBVSWZlNkJRbzVYRk1nYWFFZXRJTEY4?oc=5\" target=\"_blank\">권대영 \"혁신 가두는 울타리 안 돼\"…토큰증권 거래한도 유연하게 푼다<"
     },
     {
       "title": "금융위, 조각투자 동일 자산 묶는 '풀링' 허용 추진",
@@ -195,14 +187,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ldXRhSms1X1lUUmx3ZTdFbjVfekdBUW9qcFZscjg0am9TVFJuNXR4ZjZscWc2SGktV3FDNWpmdXpDa3UwSGdkdjlWMDF0Mmc?oc=5\" target=\"_blank\">토큰증권 제도화 속도…조각투자 '묶음 발행' 길 열린다</a>&nbsp;&nbsp;<font color=\"#"
     },
     {
-      "title": "\"여러 기초자산 묶은 조각투자 허용\"…토큰증권 세부제도 7월 발표",
-      "source": "네이트",
-      "published_kst": "2026-05-15 14:01 KST",
-      "published_ts": 1778821260,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wc0NzclhsOGlsQm9MMjhwUlRpckpPX2Y1ZTgxSXk0UjJhckN4LVlKM0FLanRWVWZPeHZFWjI3c3BvNjVuOGlVOGhidENFU0I3Tk80?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wc0NzclhsOGlsQm9MMjhwUlRpckpPX2Y1ZTgxSXk0UjJhckN4LVlKM0FLanRWVWZPeHZFWjI3c3BvNjVuOGlVOGhidENFU0I3Tk80?oc=5\" target=\"_blank\">\"여러 기초자산 묶은 조각투자 허용\"…토큰증권 세부제도 7월 발표</a>&nbsp;&nbsp;<fo"
-    },
-    {
       "title": "민관합동 토큰증권 협의체 회의…\"거래한도가 혁신 가두지 않게\"",
       "source": "네이트",
       "published_kst": "2026-05-15 14:01 KST",
@@ -211,12 +195,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE50SmwzNWdLcHhFY2Voc3A3RW5TdFhGS2V6M05sSkVvQ08tQzlMU0FGaS1WVFNhUWowdjFrd3lDUmJOY3U2Y1dNZjB0cnF1Q1dQYXBv?oc=5\" target=\"_blank\">민관합동 토큰증권 협의체 회의…\"거래한도가 혁신 가두지 않게\"</a>&nbsp;&nbsp;<font"
     },
     {
-      "title": "금융위, 민·관 합동 '토큰증권 협의체' 제2차 회의 개최",
-      "source": "intn.co.kr",
+      "title": "권대영 \"기초자산 묶는 조각투자 허용 추진\"…'토큰증권 협의체' 2차 회의",
+      "source": "v.daum.net",
       "published_kst": "2026-05-15 14:00 KST",
-      "published_ts": 1778821200,
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBc2hqdWdWbERKOTIzNUhHem9UMlUzMlR5bi10ZGUtRFNMcUR2aVZXSDJ5TUo5VEJZa2tBOHlNWXB2Q0cwNUh1OHplV1hVbHZlSVlHV1gweGsxVzJkUzZKZWhDanVCZDg0QXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBBc2hqdWdWbERKOTIzNUhHem9UMlUzMlR5bi10ZGUtRFNMcUR2aVZXSDJ5TUo5VEJZa2tBOHlNWXB2Q0cwNUh1OHplV1hVbHZlSVlHV1gweGsxVzJkUzZKZWhDanVCZDg0QXc?oc=5\" target=\"_blank\">금융위, 민·관 합동 '토큰증권 협의체' 제"
+      "published_ts": 1778821204,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4Mm80eG1Xd2hXZWNfd3hNbGhsM0V5dE5oTHZQQ1hBMFNXSWRGeDFJbnZmRmZxdklzODdpVXJHR3pJYy1fa3pORUQ3emd4Q28?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4Mm80eG1Xd2hXZWNfd3hNbGhsM0V5dE5oTHZQQ1hBMFNXSWRGeDFJbnZmRmZxdklzODdpVXJHR3pJYy1fa3pORUQ3emd4Q28?oc=5\" target=\"_blank\">권대영 \"기초자산 묶는 조각투자 허용 추진\"…'토큰증권 협의체' 2차 회의</a>&nbsp;&nbsp;<fo"
     },
     {
       "title": "조각투자 규제 틀 다시 짠다…주식·채권·MMF도 토큰화 준비",
@@ -283,6 +267,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FM0pBVzZpQkk4TlhjTzAxTElJZFFDbW54ZjRUTWp5cldCc1daU1pySm9ZZXlTOTZ4bGE5X1gycjFGWE1qN20tZUtRS2wwb0NWT0p1Uw?oc=5\" target=\"_blank\">동일 자산 묶은 조각투자 허용 추진…STO 논의 속도</a>&nbsp;&nbsp;<font co"
     },
     {
+      "title": "\"여러 기초자산 묶은 조각투자 허용\"…토큰증권 세부제도 7월 발표",
+      "source": "스포탈코리아",
+      "published_kst": "2026-05-15 14:00 KST",
+      "published_ts": 1778821200,
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRHdVeDJFVGZvU01sejR0SV8zWmZEQUxyWGdfZkItWEw0ZF9mNzZjaVpsYzZLSXJWUno4NU04bnB0Q2U5MEVpZGM4U0JXVWNTbDkzSEdQOGJuY3pWVUhYU1lnNllnY3dzQzRDUzJOUzl2UW5vYjRZOHV0UEg1YVFoaE5B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQRHdVeDJFVGZvU01sejR0SV8zWmZEQUxyWGdfZkItWEw0ZF9mNzZjaVpsYzZLSXJWUno4NU04bnB0Q2U5MEVpZGM4U0JXVWNTbDkzSEdQOGJuY3pWVUhYU1lnNllnY3dzQzRDUzJOUzl2UW5vYjRZOHV0UEg1YVFoaE5B?oc=5\" target="
+    },
+    {
       "title": "5대 그룹 된 한화, 금융도 판 키운다",
       "source": "스트레이트뉴스",
       "published_kst": "2026-05-15 13:56 KST",
@@ -315,20 +307,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QMTE1VGxvVlhON3ZYZTE1dnVRUXczVlFPajFFU2V2TVpfeEx5RjVVT1hIaUVERnRVVmVzcDlaSWJ4aTY5eFUzdl9tU25wZnhLUXpoaXJR?oc=5\" target=\"_blank\">[디지털리더스대상 KB증권] 생성형 AI 도입 박차…‘깨비AI’ 업무효율 상승</a>&nbs"
     },
     {
-      "title": "[디지털프론티어대상 키움증권] ‘영웅문S#’ 간편모드·SOR 개발로 인프라 강화",
-      "source": "헤럴드경제",
-      "published_kst": "2026-05-15 11:40 KST",
-      "published_ts": 1778812845,
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAybnlLc1BoZzhTRlhTSFdzU1RrN2RCUnNteURCSkx6QnZsdWVoLWREQ3labWVRNTZSWTk2STc1V29Vd2k1N2FfVHIyQl9xZkFHNDRib2JR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFAybnlLc1BoZzhTRlhTSFdzU1RrN2RCUnNteURCSkx6QnZsdWVoLWREQ3labWVRNTZSWTk2STc1V29Vd2k1N2FfVHIyQl9xZkFHNDRib2JR?oc=5\" target=\"_blank\">[디지털프론티어대상 키움증권] ‘영웅문S#’ 간편모드·SOR 개발로 인프라 강화</a>&nb"
-    },
-    {
       "title": "[디지털프론티어대상 하나증권] 국내 첫 ‘한돈’ 금융상품화…STO 미래 먹거리 발굴",
-      "source": "헤럴드경제",
-      "published_kst": "2026-05-15 11:39 KST",
-      "published_ts": 1778812798,
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WWmZ5NUZKU2l6eWhtNEZ2ZDE4cGZPTFMtN2V5ZHV2QWJ3MjFSRFBibkU2TXVSS1FxWVZvMkw0eG9veTdvalJRRlFHVktUS3ZHMXd0cnJB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WWmZ5NUZKU2l6eWhtNEZ2ZDE4cGZPTFMtN2V5ZHV2QWJ3MjFSRFBibkU2TXVSS1FxWVZvMkw0eG9veTdvalJRRlFHVktUS3ZHMXd0cnJB?oc=5\" target=\"_blank\">[디지털프론티어대상 하나증권] 국내 첫 ‘한돈’ 금융상품화…STO 미래 먹거리 발굴</a>&"
+      "source": "v.daum.net",
+      "published_kst": "2026-05-15 11:41 KST",
+      "published_ts": 1778812885,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIS1ZucFBia0l1WUdnYUZ6MTYyMnV2NWRuUzh6MU1kR1RvUk94ZXpsVmhxZktuRkNUSGFsWXpuaHJBV0hUX0VWdFZ2RW80T2s?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIS1ZucFBia0l1WUdnYUZ6MTYyMnV2NWRuUzh6MU1kR1RvUk94ZXpsVmhxZktuRkNUSGFsWXpuaHJBV0hUX0VWdFZ2RW80T2s?oc=5\" target=\"_blank\">[디지털프론티어대상 하나증권] 국내 첫 ‘한돈’ 금융상품화…STO 미래 먹거리 발굴</a>&nbsp;&nbs"
     },
     {
       "title": "함영주 회장의 결단, 두나무에 1조 베팅…디지털 자산판 흔든다",
@@ -387,6 +371,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5jQzJuWEdJQ0QyNU5fVkJDeE1vN3lYUVQ5eWw1eWUxQndZV1dHSVdtNnoybGJFR1BzTUdicjdxVVRoWjYxTHBJUFBCbDZkcmRXTDJfLV9WWnVWTml4U0hWRWFmWW5KZHRUU1VRRW16NzhGanfSAXNBVV95cUxOY0MyblhHSUNEMjVOX1ZCQ3"
     },
     {
+      "title": "한은 \"토큰증권, 유동성·인프라 확보부터…스테이블코인은 보완 수단\"",
+      "source": "네이트",
+      "published_kst": "2026-05-14 12:01 KST",
+      "published_ts": 1778727660,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YM0pKTk8wQVZTaFpOT1Z3YUt1em02Z2M1UmhxY21jeVZJYmJHMEpQWjZJWllnTnYtNmhId3ZWYW5YaHNiVWZXRGIxQnp2R1Y5eENZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YM0pKTk8wQVZTaFpOT1Z3YUt1em02Z2M1UmhxY21jeVZJYmJHMEpQWjZJWllnTnYtNmhId3ZWYW5YaHNiVWZXRGIxQnp2R1Y5eENZ?oc=5\" target=\"_blank\">한은 \"토큰증권, 유동성·인프라 확보부터…스테이블코인은 보완 수단\"</a>&nbsp;&nbsp;<f"
+    },
+    {
       "title": "\"자산 토큰화 시장, 비정형 자산 중심 단계적 활성화 필요\"",
       "source": "연합뉴스 한민족센터",
       "published_kst": "2026-05-14 12:00 KST",
@@ -401,6 +393,14 @@
       "published_ts": 1778727600,
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qa01pVExmbUNtako5MFpmdEtTYW1tV3hGeXJlRHoxVnNRWklIandMZFFSVnN1OHZfX2lDNi1POHN2emZyZGp6b3JiaTkwV1RhSE9EbWVRcHpHd9IBWEFVX3lxTE5NVnU5TG9tcGxyeUpMQkVZVFo0TlEwcFJRd3ZhQWtYTnZrUVdwbnZTTGFuaGo4b3JQUTMwdGJUeGYyQVJWc1Jqd1pWcFJIZ1o1MFlfMlQtUU4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qa01pVExmbUNtako5MFpmdEtTYW1tV3hGeXJlRHoxVnNRWklIandMZFFSVnN1OHZfX2lDNi1POHN2emZyZGp6b3JiaTkwV1RhSE9EbWVRcHpHd9IBWEFVX3lxTE5NVnU5TG9tcGxyeUpMQkVZVFo0TlEwcFJRd3ZhQWtYTnZrUVdwbnZTTG"
+    },
+    {
+      "title": "토큰증권 제도화 카운트다운···'냉정과 열정사이' 고민하는 증권업계",
+      "source": "뉴스웨이",
+      "published_kst": "2026-05-14 09:39 KST",
+      "published_ts": 1778719178,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fd3dwM2Izcmo0T3JLdTZrN2RwX0ZYb0RxZ0xZSjNnTUZoTGR2UEV5YnB2Z1lnckNELTFnYUxqZ0M5UzBBUlJMNF9kV05yLWthcTFzbjVjeWVNT1JKZDRDN3ppYlhiZnU3b0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1fd3dwM2Izcmo0T3JLdTZrN2RwX0ZYb0RxZ0xZSjNnTUZoTGR2UEV5YnB2Z1lnckNELTFnYUxqZ0M5UzBBUlJMNF9kV05yLWthcTFzbjVjeWVNT1JKZDRDN3ppYlhiZnU3b0E?oc=5\" target=\"_blank\">토큰증권 제도화 카운트다운···'냉정과 열정"
     }
   ]
 }
