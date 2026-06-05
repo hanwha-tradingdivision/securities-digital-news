@@ -1,5 +1,406 @@
 {
   "query": "증권 디지털 OR STO OR 토큰증권 OR 토큰화 OR 디지털자산 OR 디지털채권",
-  "generated_kst": "2026-06-04 10:46 KST",
-  "items": []
+  "generated_kst": "2026-06-05 09:16 KST",
+  "items": [
+    {
+      "title": "IBK투자, 토큰증권 넓힌다...디지털자산 조직 '힘'",
+      "source": "뉴스저널리즘",
+      "published_kst": "2026-06-05 05:55 KST",
+      "published_ts": 1780606500,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HMFlGWHEzalJUbnptajY4NEltbHZuOWM2ZFR1aTZ3eXNwdTNEbUJLNC1ISjI4WHdNQ1ozdUEwR3dTWktRNWJsYThkenNieFNwV29SRC05ZS1JVV9kR3M2QUdET3BPVFN5Znhv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9HMFlGWHEzalJUbnptajY4NEltbHZuOWM2ZFR1aTZ3eXNwdTNEbUJLNC1ISjI4WHdNQ1ozdUEwR3dTWktRNWJsYThkenNieFNwV29SRC05ZS1JVV9kR3M2QUdET3BPVFN5Znhv?oc=5\" target=\"_blank\">IBK투자, 토큰증권 넓힌다...디지털자산"
+    },
+    {
+      "title": "한국투자증권, 코인원·OKX·컴투스홀딩스와 디지털자산 동맹",
+      "source": "리버티코리아포스트",
+      "published_kst": "2026-06-04 20:47 KST",
+      "published_ts": 1780573665,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wbzhVRXMtR2kyc3BVRE5OcVFyT0taeGVGNzVZY2h1MTNaQnczWEJTekRXWFlMR3ZXSzZLSkh4MzRVVmt6SE0yLVo5UUFaS19pazdMZHNYNnVXTmwwTHZ1dndOMVJ6ZWfSAWdBVV95cUxNMG84VUVzLUdpMnNwVUROTnFRck9LWnhlRjc1WWNodTEzWkJ3M1hCU3pEV1hZTEd2V0s2S0pIeDM0VVZrekhNMi1aOVFBWktfaWs3TGRzWDZ1V05sMEx2dXZ3TjFSemVn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wbzhVRXMtR2kyc3BVRE5OcVFyT0taeGVGNzVZY2h1MTNaQnczWEJTekRXWFlMR3ZXSzZLSkh4MzRVVmt6SE0yLVo5UUFaS19pazdMZHNYNnVXTmwwTHZ1dndOMVJ6ZWfSAWdBVV95cUxNMG84VUVzLUdpMnNwVUROTnFRck9LWnhlRjc1WW"
+    },
+    {
+      "title": "한국투자증권, 코인원·OKX·컴투스홀딩스와 디지털금융 동맹",
+      "source": "현대경제신문",
+      "published_kst": "2026-06-04 20:43 KST",
+      "published_ts": 1780573418,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LdGJoS1dQWmlKcHJJc3YtMGxra2c2aW51NW5UTWM5ZV9UVTR4RWNjT0NFM2M2b0dyb05LWlh6engyajR0UzRsQjRFS1JTX3gwek5fNGhFUnp1RWpiR3JZdXhjcVNBdURrVkhJ0gFrQVVfeXFMT0t0YmhLV1BaaUpwcklzdi0wbGtrZzZpbnU1blRNYzllX1RVNHhFY2NPQ0UzYzZvR3JvTktaWHp6eDJqNHRTNGxCNEVLUlNfeDB6Tl80aEVSenVFamJHcll1eGNxU0F1RGtWSEk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9LdGJoS1dQWmlKcHJJc3YtMGxra2c2aW51NW5UTWM5ZV9UVTR4RWNjT0NFM2M2b0dyb05LWlh6engyajR0UzRsQjRFS1JTX3gwek5fNGhFUnp1RWpiR3JZdXhjcVNBdURrVkhJ0gFrQVVfeXFMT0t0YmhLV1BaaUpwcklzdi0wbGtrZzZpbn"
+    },
+    {
+      "title": "한국투자증권, 코인원·OKX·컴투스홀딩스와 디지털 금융 생태계 구축 위한 파트너십 강화",
+      "source": "이슈투데이",
+      "published_kst": "2026-06-04 20:12 KST",
+      "published_ts": 1780571556,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1bTVrVUVDTW1ZZ3dZZ1lremhhZVU2bWZ4YXNnb1RJQndmaGx5M1JaZzRoR2c5dHg4cnRkR2dsekF3dUZOaFNqemdQNmtteVRfWEdBanE2UmNvMkdKWU5GOVBmcWg1dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1bTVrVUVDTW1ZZ3dZZ1lremhhZVU2bWZ4YXNnb1RJQndmaGx5M1JaZzRoR2c5dHg4cnRkR2dsekF3dUZOaFNqemdQNmtteVRfWEdBanE2UmNvMkdKWU5GOVBmcWg1dw?oc=5\" target=\"_blank\">한국투자증권, 코인원·OKX·컴투스홀딩스와 디지털 금"
+    },
+    {
+      "title": "'코인원 3대주주' 한투證, 토큰증권 선점 박차",
+      "source": "v.daum.net",
+      "published_kst": "2026-06-04 18:44 KST",
+      "published_ts": 1780566290,
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSbVZuXzdPb2ZIWjlsRVB5QWM4RkNlaU11YVMzbUxJRkJvcmxDTEg4aXgyVXB1aktRLXRaQ0hkTlMzMmZmMk1TNm1lcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSbVZuXzdPb2ZIWjlsRVB5QWM4RkNlaU11YVMzbUxJRkJvcmxDTEg4aXgyVXB1aktRLXRaQ0hkTlMzMmZmMk1TNm1lcw?oc=5\" target=\"_blank\">'코인원 3대주주' 한투證, 토큰증권 선점 박차</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v"
+    },
+    {
+      "title": "한국투자증권, 자체 STO 플랫폼 구축 추진",
+      "source": "블루밍비트",
+      "published_kst": "2026-06-04 18:43 KST",
+      "published_ts": 1780566201,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lTGJuVkpZdlV5WGVfVUZPTzBhRHFQbDRyc3FqVVRubzZOS3F3T2hQVkk1b2lNNTFxdDY2VF9EenVZMWQ0LW11LVItSGNhcHBL?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lTGJuVkpZdlV5WGVfVUZPTzBhRHFQbDRyc3FqVVRubzZOS3F3T2hQVkk1b2lNNTFxdDY2VF9EenVZMWQ0LW11LVItSGNhcHBL?oc=5\" target=\"_blank\">한국투자증권, 자체 STO 플랫폼 구축 추진</a>&nbsp;&nbsp;<font color=\"#6f6f6"
+    },
+    {
+      "title": "'코인원 3대주주' 한투證, 토큰증권 선점 박차",
+      "source": "네이트",
+      "published_kst": "2026-06-04 18:43 KST",
+      "published_ts": 1780566180,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMa05TZlpVRDdQTkluSGk2b0wtVFVlby1meWFRMDFURndOQUUxQmw4bENOaEI5NDBjc19FZVVhQU1tWDA1ODVxYnBmZTZYXzZqa2NZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMa05TZlpVRDdQTkluSGk2b0wtVFVlby1meWFRMDFURndOQUUxQmw4bENOaEI5NDBjc19FZVVhQU1tWDA1ODVxYnBmZTZYXzZqa2NZ?oc=5\" target=\"_blank\">'코인원 3대주주' 한투證, 토큰증권 선점 박차</a>&nbsp;&nbsp;<font color=\""
+    },
+    {
+      "title": "증권·테크·게임社까지…가상자산 '4자 동맹' 탄생",
+      "source": "네이트",
+      "published_kst": "2026-06-04 18:06 KST",
+      "published_ts": 1780563960,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ldlBYS3hrZFRwT0NvajlWRDJ4UnpKTFZ3M0NaSnUtV3JOYmlOSlV6M3NJWmVOMzNEOUhWUkU2bFREZGwycXRlZ2dGTzlVLTczOElv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ldlBYS3hrZFRwT0NvajlWRDJ4UnpKTFZ3M0NaSnUtV3JOYmlOSlV6M3NJWmVOMzNEOUhWUkU2bFREZGwycXRlZ2dGTzlVLTczOElv?oc=5\" target=\"_blank\">증권·테크·게임社까지…가상자산 '4자 동맹' 탄생</a>&nbsp;&nbsp;<font color="
+    },
+    {
+      "title": "“연내 나스닥 토큰화증권 거래…韓 가만히 있는 게 최대 리스크” [비트코인 서울 2026]",
+      "source": "서울경제",
+      "published_kst": "2026-06-04 17:47 KST",
+      "published_ts": 1780562822,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpMjRkS1hJZzBJS3ZkdnBtMHlHbHQ0d3hvQ0VlS0FtTWtKNHNNa21BbzlDelNONU1UR3kzdy1sczlydEVNOXc2MG1iVzVyS210Y3fSAVNBVV95cUxOV3p5aENLeXBqTDRneXptOHdqM2FSeE5NckNQeE43Tk5Vb1UwR1d6LTRxTGZmbDFUV2JHdkVRVEN0SmJXLWtRLVhwQ05FX29sam9UZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpMjRkS1hJZzBJS3ZkdnBtMHlHbHQ0d3hvQ0VlS0FtTWtKNHNNa21BbzlDelNONU1UR3kzdy1sczlydEVNOXc2MG1iVzVyS210Y3fSAVNBVV95cUxOV3p5aENLeXBqTDRneXptOHdqM2FSeE5NckNQeE43Tk5Vb1UwR1d6LTRxTGZmbDFUV2"
+    },
+    {
+      "title": "박현주 “ETF·AI·토큰화 연결”…’미래에셋 3.0’ 승부수",
+      "source": "파이낸셜투데이",
+      "published_kst": "2026-06-04 17:37 KST",
+      "published_ts": 1780562227,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4UHMzeEU3a3l2eWVuMGhxbGFQQXotclF2T0o0WmY0eHU4c1dRaE5uRTRic3N2QXFEUnB0b1U0Q3E5clN6SzVWbUNfVWJzdzRSRUFfVkg4RjJXY3IwVDBJalhzc2VXZk11VUlF0gFuQVVfeXFMT2NOdlNpM29leV8zN0hhLW5fN25qakVlR2Y1TVdsa2Rmc0RNa0ZhWXM1bXpiNVdUY0tSbDVEcFlXVVBKNU56blBkM0wzbm9KbGtCcUxucm5FZEtTalNDX25QVm9wVkJudU9RNmpkbHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA4UHMzeEU3a3l2eWVuMGhxbGFQQXotclF2T0o0WmY0eHU4c1dRaE5uRTRic3N2QXFEUnB0b1U0Q3E5clN6SzVWbUNfVWJzdzRSRUFfVkg4RjJXY3IwVDBJalhzc2VXZk11VUlF0gFuQVVfeXFMT2NOdlNpM29leV8zN0hhLW5fN25qakVlR2"
+    },
+    {
+      "title": "한국투자증권, 코인원·OKX·컴투스와 디지털 자산 동맹…\"가상자산 허브 선점\"",
+      "source": "더게이트",
+      "published_kst": "2026-06-04 17:28 KST",
+      "published_ts": 1780561699,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PVjk2bzdsNjFJY182d2hPTHllX3B5eUNsazFRUndVdU8xVlZsV2JqLTYyQzg3bllGUVhSVElkMEZNV3ppZkY4NE12Z0VqdG15WU8taXZvbjdyVTRIN0JpT05Sc3ROYXlF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PVjk2bzdsNjFJY182d2hPTHllX3B5eUNsazFRUndVdU8xVlZsV2JqLTYyQzg3bllGUVhSVElkMEZNV3ppZkY4NE12Z0VqdG15WU8taXZvbjdyVTRIN0JpT05Sc3ROYXlF?oc=5\" target=\"_blank\">한국투자증권, 코인원·OKX·컴투스와 디지털 자산"
+    },
+    {
+      "title": "신한금융, 캔톤 네트워크 합류…토큰화 시장 선점 시동",
+      "source": "서울타임즈뉴스",
+      "published_kst": "2026-06-04 17:21 KST",
+      "published_ts": 1780561299,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6QkJJdmxrRDNadnhyeklDTVpLZHNGLV9seXlYdHdOTm13MW5MYjFiY3o0Z0lTRlhLWDk5clM1eUZGY1ZVTVNwLXJ2OFpzaEpta1A1bGtTaGctY3NhLTN2SnJwdmo2cnBDQ1dv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB6QkJJdmxrRDNadnhyeklDTVpLZHNGLV9seXlYdHdOTm13MW5MYjFiY3o0Z0lTRlhLWDk5clM1eUZGY1ZVTVNwLXJ2OFpzaEpta1A1bGtTaGctY3NhLTN2SnJwdmo2cnBDQ1dv?oc=5\" target=\"_blank\">신한금융, 캔톤 네트워크 합류…토큰화 시장"
+    },
+    {
+      "title": "코인원 손잡은 한투증권, 자체 STO 플랫폼 구축키로",
+      "source": "연합인포맥스",
+      "published_kst": "2026-06-04 17:06 KST",
+      "published_ts": 1780560375,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVRjFqeS1wcDFPcnRyQjdyMmc1dTBYcVVXaHJPMXhndzdmV3FZN1RBbXdNb1hDWFR0dHpaY25SMk5sSXo2b3BPdjNZVF9qZmxIYnFXeUhXejZncnlEVWZuSHNYSVhRc2pxTWNjWjF2UUnSAXRBVV95cUxQbnZNYWVFb2FMU3NVc1pVMW4ybUVxb0FHR3U5MEtjMWtzcjdpQVYyUFhMZEt1eVRnZnVFRmVHbk1YV2VoR2o2UERFVkdlYlNfU3c5Qm4wNDlCWlBnR01BdXNzclJrY2ptUVJUUm91QUk3X3Q2Yg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBVRjFqeS1wcDFPcnRyQjdyMmc1dTBYcVVXaHJPMXhndzdmV3FZN1RBbXdNb1hDWFR0dHpaY25SMk5sSXo2b3BPdjNZVF9qZmxIYnFXeUhXejZncnlEVWZuSHNYSVhRc2pxTWNjWjF2UUnSAXRBVV95cUxQbnZNYWVFb2FMU3NVc1pVMW4ybU"
+    },
+    {
+      "title": "STO 입법 공백 장기화…증권사 간 준비 격차 커진다",
+      "source": "아주경제",
+      "published_kst": "2026-06-04 16:52 KST",
+      "published_ts": 1780559528,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqMUJnRGhjWHZRRTVvZlhmWFpkRXRMNVQ1SlZxcmxCMGM1cE1ReG0tQTh5em95d2FGcllpNUxFV2pKXzdrOGNZcThRbnA4Znpyb1NLUUpqTXkyd9IBWEFVX3lxTFAzWXJ5YW9jR2p4LUdkMWhydlZJcUFUNVpMX0FYeXRFOThTakd6U0wzT2ZSb0h5ZlEzYnZSS0hHdlhjZmpWOTFwYXVHcHl2b2xBcTJuOENoZkc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqMUJnRGhjWHZRRTVvZlhmWFpkRXRMNVQ1SlZxcmxCMGM1cE1ReG0tQTh5em95d2FGcllpNUxFV2pKXzdrOGNZcThRbnA4Znpyb1NLUUpqTXkyd9IBWEFVX3lxTFAzWXJ5YW9jR2p4LUdkMWhydlZJcUFUNVpMX0FYeXRFOThTakd6U0wzT2"
+    },
+    {
+      "title": "한국투자증권, 코인원·OKX 손잡고 디지털자산 시장 공략",
+      "source": "비즈트리뷴",
+      "published_kst": "2026-06-04 16:51 KST",
+      "published_ts": 1780559481,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iY0hTUUJKMF9ZcUowa0pqeXFSTnRIbHJyMVVKMFZKTnB2N3N4RFJ4bURpU3F4LWdwRFI0Y2x6clN0SW9sMXdELU56Qy1IdGVmaDVrdEJzeWhyTmc0dno1SmFKM2xFV0ZQSlZwcldzVXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5iY0hTUUJKMF9ZcUowa0pqeXFSTnRIbHJyMVVKMFZKTnB2N3N4RFJ4bURpU3F4LWdwRFI0Y2x6clN0SW9sMXdELU56Qy1IdGVmaDVrdEJzeWhyTmc0dno1SmFKM2xFV0ZQSlZwcldzVXc?oc=5\" target=\"_blank\">한국투자증권, 코인원·OKX "
+    },
+    {
+      "title": "코인원·컴투스홀딩스·한국투자증권·OKX, 디지털 금융 밸류체인 구축 나서",
+      "source": "NSP통신",
+      "published_kst": "2026-06-04 16:46 KST",
+      "published_ts": 1780559161,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnM1pIakVFYW1xemEydUQ4RG1ZSHVlT1E3dUxSYnFuT1E5VFk3VVlNS21QWDhfX1E2bElOdEJpLXBvX3E3cWRZUFVOZzFlVWphUFFqajNMdDZ2R2tFSFB0Zg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnM1pIakVFYW1xemEydUQ4RG1ZSHVlT1E3dUxSYnFuT1E5VFk3VVlNS21QWDhfX1E2bElOdEJpLXBvX3E3cWRZUFVOZzFlVWphUFFqajNMdDZ2R2tFSFB0Zg?oc=5\" target=\"_blank\">코인원·컴투스홀딩스·한국투자증권·OKX, 디지털 금융 밸류체인 구축"
+    },
+    {
+      "title": "한투·OKX, 왜 코인원 택했나…“점유율보다 디지털금융 경쟁력”",
+      "source": "아시아투데이",
+      "published_kst": "2026-06-04 16:37 KST",
+      "published_ts": 1780558635,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OVDduUkRoZnV6TU5VQW5vU0dQSnMxVW9UUUU0aUJ1d3dMUU8wTHptYlR6c3hpU2poUERkOUxzSEdZLTVJMWt0N2xXcE01SHRCSXFKb1I0My1ZTGRCc0x0eXhRRjVDZ0gwcktUaVF3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1OVDduUkRoZnV6TU5VQW5vU0dQSnMxVW9UUUU0aUJ1d3dMUU8wTHptYlR6c3hpU2poUERkOUxzSEdZLTVJMWt0N2xXcE01SHRCSXFKb1I0My1ZTGRCc0x0eXhRRjVDZ0gwcktUaVF3?oc=5\" target=\"_blank\">한투·OKX, 왜 코인원 택했나…“"
+    },
+    {
+      "title": "금융보안원, 2026년 상반기 ‘디지털 파이낸스 인사이트’ 발간",
+      "source": "BI KOREA",
+      "published_kst": "2026-06-04 16:19 KST",
+      "published_ts": 1780557562,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fWHQyZnhncW4tVUF2d0I1cGI5Q2E1ODB6Zi02cVRFd25QY2dteURwVEdfelBsTzlpTmtGemRkcEkyM3BQbGZmLTcxLWhEZ3MxN2JWRi10MWNnbUxRd19tNGtxX2xyVHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fWHQyZnhncW4tVUF2d0I1cGI5Q2E1ODB6Zi02cVRFd25QY2dteURwVEdfelBsTzlpTmtGemRkcEkyM3BQbGZmLTcxLWhEZ3MxN2JWRi10MWNnbUxRd19tNGtxX2xyVHc?oc=5\" target=\"_blank\">금융보안원, 2026년 상반기 ‘디지털 파이낸스 인"
+    },
+    {
+      "title": "[죽기살기 코인원 인사이트②] 800억 베팅으로 디지털 금융 허브 잡았다…김성환 한투증권의 노림수는?",
+      "source": "ER 이코노믹리뷰",
+      "published_kst": "2026-06-04 16:15 KST",
+      "published_ts": 1780557349,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fRVZpU0RsclRCNVRCcTZOUkdrYUFzNkZjOVNRbmx3cjN1RmhxVXZmS1Y2SVAyaUJPVDZnSmlJQ2ZFVE5BekVGaGVrWkJwdWh5Ujg0X3Q2a0NQaFhiU0p3UDBrRkJDSTVLVXVQSg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5fRVZpU0RsclRCNVRCcTZOUkdrYUFzNkZjOVNRbmx3cjN1RmhxVXZmS1Y2SVAyaUJPVDZnSmlJQ2ZFVE5BekVGaGVrWkJwdWh5Ujg0X3Q2a0NQaFhiU0p3UDBrRkJDSTVLVXVQSg?oc=5\" target=\"_blank\">[죽기살기 코인원 인사이트②] 800억"
+    },
+    {
+      "title": "[CEO 직썰] 김성환 한국투자증권 사장 “혁신적인 디지털 금융 서비스 제공하도록 노력”",
+      "source": "직썰",
+      "published_kst": "2026-06-04 16:15 KST",
+      "published_ts": 1780557307,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ITi1fVnQ5ZXVFNHFCRjZvTkI5bzBUcUNQaGxKYm8wSVgtanRpaG95Q2I2c2tZcmlJdzNVcC1SQlgtblY2ZXpzQ2JkbURTRVlhN0NBa1lBWUxJaWVOVU1zNjdFT0xXaUhH0gFsQVVfeXFMTVEtejJZZnlDdThGTDVCSFdyUDN4eC1EamxxSWNkanFCZU56OGtGRUVIMmNaS3hoQ0V6QTRqNlhoQUdVNndDZ1RhaWhycUZfMnV4WlNBemtUTGdIMnVSWnRPSzJmc3FHWTRMVzAt?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ITi1fVnQ5ZXVFNHFCRjZvTkI5bzBUcUNQaGxKYm8wSVgtanRpaG95Q2I2c2tZcmlJdzNVcC1SQlgtblY2ZXpzQ2JkbURTRVlhN0NBa1lBWUxJaWVOVU1zNjdFT0xXaUhH0gFsQVVfeXFMTVEtejJZZnlDdThGTDVCSFdyUDN4eC1EamxxSW"
+    },
+    {
+      "title": "컴투스홀딩스, 코인원·한국투자증권·OKX와 디지털 금융 밸류체인 구축",
+      "source": "인포스탁데일리",
+      "published_kst": "2026-06-04 16:05 KST",
+      "published_ts": 1780556705,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1aHNpY0UwRmhzU2oxQkQxc2VDWW1nM0JLTzUwVGQ3Z2RKdzYwaWwtZjZnTTVVcGJaaEZCeDhsM1lFNmpEVy05NHJsVHBaY2lVSElfUlVfRC14TndiaGdTN0JuRWEyaGRTSXl2blVXcllIdWlmT2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA1aHNpY0UwRmhzU2oxQkQxc2VDWW1nM0JLTzUwVGQ3Z2RKdzYwaWwtZjZnTTVVcGJaaEZCeDhsM1lFNmpEVy05NHJsVHBaY2lVSElfUlVfRC14TndiaGdTN0JuRWEyaGRTSXl2blVXcllIdWlmT2c?oc=5\" target=\"_blank\">컴투스홀딩스, "
+    },
+    {
+      "title": "한투·OKX·컴투스·코인원 ‘4자 동맹’…“제도권+디지털자산 묶는 허브 구축“",
+      "source": "마켓인",
+      "published_kst": "2026-06-04 15:57 KST",
+      "published_ts": 1780556241,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jRVdPakltbko5NXZZWWo4cmo5UzNTcXhPUlBRYm44RlZoWWx3bnhxb3c0T2NrTDVTVktlVW0yZ3ZEOXVkY0VQMDhlb0Q4cFB3dHd6S210MEhlMTFuaVN3aEVsQlh1bFoySkR5dGsycFRhZ00?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5jRVdPakltbko5NXZZWWo4cmo5UzNTcXhPUlBRYm44RlZoWWx3bnhxb3c0T2NrTDVTVktlVW0yZ3ZEOXVkY0VQMDhlb0Q4cFB3dHd6S210MEhlMTFuaVN3aEVsQlh1bFoySkR5dGsycFRhZ00?oc=5\" target=\"_blank\">한투·OKX·컴투스·코"
+    },
+    {
+      "title": "한투·OKX·컴투스·코인원 ‘4자 동맹’…“제도권+디지털자산 묶는 허브 구축“",
+      "source": "이데일리",
+      "published_kst": "2026-06-04 15:57 KST",
+      "published_ts": 1780556241,
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcGtLbGZvaXQtU3FSTDVsQU5lOEJQV3R2bFh5YmdYZ1B6ekxqX3l6ekJiTGxqOHRteWFnNEdoQnVVbHJ6TDFKWlRCblR2a2c4dmFycjFGaE00XzRrUWVZN25VSFBuczBIRnphM2FvV1diMVY0bVZvcGVwaWtIM0J0NA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNcGtLbGZvaXQtU3FSTDVsQU5lOEJQV3R2bFh5YmdYZ1B6ekxqX3l6ekJiTGxqOHRteWFnNEdoQnVVbHJ6TDFKWlRCblR2a2c4dmFycjFGaE00XzRrUWVZN25VSFBuczBIRnphM2FvV1diMVY0bVZvcGVwaWtIM0J0NA?oc=5\" target=\"_"
+    },
+    {
+      "title": "글로벌·디지털·산업금융까지…증권, 투자 생태계 확장 경쟁",
+      "source": "이코노미사이언스",
+      "published_kst": "2026-06-04 15:45 KST",
+      "published_ts": 1780555529,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02YUI1SlhVMlA3UTA2clRxQ1RTRW5JLURKbzh3MldpN0h1V2tVRVJpN01wcFl6QXBIUGYtTDVwNXZsakVFWWxQbFVkWmFtbUliNjlzU1Z0Snl6NHVWN3VGLTFrVHMyYUxaQ3ctWTUwYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE02YUI1SlhVMlA3UTA2clRxQ1RTRW5JLURKbzh3MldpN0h1V2tVRVJpN01wcFl6QXBIUGYtTDVwNXZsakVFWWxQbFVkWmFtbUliNjlzU1Z0Snl6NHVWN3VGLTFrVHMyYUxaQ3ctWTUwYw?oc=5\" target=\"_blank\">글로벌·디지털·산업금융까지…증권"
+    },
+    {
+      "title": "한국투자증권, 코인원·OKX·컴투스홀딩스와 디지털자산 생태계 구축",
+      "source": "뉴스핌",
+      "published_kst": "2026-06-04 15:43 KST",
+      "published_ts": 1780555380,
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FVHl1QTdGWDlxcHZUUm5vcjVmWFNPZUtMUEpFWkQyR1d5QjB6Y2dFMGJKVVBrR2tQMnlQdVhvWC1GYW5SSWUtZjc4cUR4d21YbUN5YTNUZTIyQXhL?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FVHl1QTdGWDlxcHZUUm5vcjVmWFNPZUtMUEpFWkQyR1d5QjB6Y2dFMGJKVVBrR2tQMnlQdVhvWC1GYW5SSWUtZjc4cUR4d21YbUN5YTNUZTIyQXhL?oc=5\" target=\"_blank\">한국투자증권, 코인원·OKX·컴투스홀딩스와 디지털자산 생태계 구축</a>&nb"
+    },
+    {
+      "title": "한국투자증권, 코인원·OKX·컴투스홀딩스와 '디지털금융 생태계 구축 4자 연합'",
+      "source": "meconomynews.com",
+      "published_kst": "2026-06-04 15:42 KST",
+      "published_ts": 1780555326,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55VF94VG9IQm94NjduYVl5QzFqeTRCUFdfbW4xSmpieUhBdjFfanozVzM4VWNqRkNOdFVvaTNZLXVGM3hPZTVkbWNWX0xJN1ZPeEF1dE14akFScUVPcm93SWUteWd6MjREZ0FVSUpCbnE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE55VF94VG9IQm94NjduYVl5QzFqeTRCUFdfbW4xSmpieUhBdjFfanozVzM4VWNqRkNOdFVvaTNZLXVGM3hPZTVkbWNWX0xJN1ZPeEF1dE14akFScUVPcm93SWUteWd6MjREZ0FVSUpCbnE?oc=5\" target=\"_blank\">한국투자증권, 코인원·OKX·"
+    },
+    {
+      "title": "한국투자증권이 코인원 택한 이유…'이것'",
+      "source": "지디넷코리아",
+      "published_kst": "2026-06-04 15:23 KST",
+      "published_ts": 1780554191,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oVjNCa0RGM2ZnZi1JZ3I3VmlmMHdEM1FnRDNRT0hFZ2hIMDlxdGhVOUd3X2Q0eU1QNGFyZlJ6R2RlQVZ2NHhhWWlSWHJuYjVLTTA1WTFB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oVjNCa0RGM2ZnZi1JZ3I3VmlmMHdEM1FnRDNRT0hFZ2hIMDlxdGhVOUd3X2Q0eU1QNGFyZlJ6R2RlQVZ2NHhhWWlSWHJuYjVLTTA1WTFB?oc=5\" target=\"_blank\">한국투자증권이 코인원 택한 이유…'이것'</a>&nbsp;&nbsp;<font color=\""
+    },
+    {
+      "title": "코인원, 한투證·OKX 품었다…‘4자 연합’ 구축",
+      "source": "dt.co.kr",
+      "published_kst": "2026-06-04 15:22 KST",
+      "published_ts": 1780554173,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FUTBEYnUtRk9yY2VKUnhrVWsyNTlhdnB1ZnJJRWdPb1lUQWhEbmlNdFBLWUF1dW9JdUZrQkJFd3ctdGoxT0o4czhWVTR5Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FUTBEYnUtRk9yY2VKUnhrVWsyNTlhdnB1ZnJJRWdPb1lUQWhEbmlNdFBLWUF1dW9JdUZrQkJFd3ctdGoxT0o4czhWVTR5Zw?oc=5\" target=\"_blank\">코인원, 한투證·OKX 품었다…‘4자 연합’ 구축</a>&nbsp;&nbsp;<font color=\"#6f6f"
+    },
+    {
+      "title": "거래소 넘어 종합금융 플랫폼으로…코인원, ‘4자 연합’ 청사진 공개",
+      "source": "에너지경제신문",
+      "published_kst": "2026-06-04 15:21 KST",
+      "published_ts": 1780554081,
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tZWdoSmlnSkRmZGJMYUNDUXZtc3VJQm9VVzdoT1pxelk4Qkt0QWpfa2pCRS02ZHlfLVlUaFlLQXVWYUhMaGcyM0xsZDQ5Xzc4X0F2cVkzdnNTVGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tZWdoSmlnSkRmZGJMYUNDUXZtc3VJQm9VVzdoT1pxelk4Qkt0QWpfa2pCRS02ZHlfLVlUaFlLQXVWYUhMaGcyM0xsZDQ5Xzc4X0F2cVkzdnNTVGc?oc=5\" target=\"_blank\">거래소 넘어 종합금융 플랫폼으로…코인원, ‘4자 연합’ 청사진 공개</a>&nb"
+    },
+    {
+      "title": "한국투자증권, 독자적 토큰증권 플랫폼 구축",
+      "source": "fetv.co.kr",
+      "published_kst": "2026-06-04 15:19 KST",
+      "published_ts": 1780553944,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SSlNIRGpBSjJiUzZBOUVkSkowSldSSjFkZHdkaTMwa0lxMWlYSVdPN0h4TEkzZzdDaUZOUHNJU0l5eW9zTktpYlJkOTEzdldMdU1VLUNJakZ2bVlRMkxUUF9JMklxSGFR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SSlNIRGpBSjJiUzZBOUVkSkowSldSSjFkZHdkaTMwa0lxMWlYSVdPN0h4TEkzZzdDaUZOUHNJU0l5eW9zTktpYlJkOTEzdldMdU1VLUNJakZ2bVlRMkxUUF9JMklxSGFR?oc=5\" target=\"_blank\">한국투자증권, 독자적 토큰증권 플랫폼 구축</a>"
+    },
+    {
+      "title": "[현장] 코인원 '4자연합' 승부수…디지털금융 판 바꾼다",
+      "source": "ebn.co.kr",
+      "published_kst": "2026-06-04 15:12 KST",
+      "published_ts": 1780553537,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPM2x3aDhCdlhmSnozbnVsVGFoLXJnd0hKbjc4a0ZZVXdFM19qZWpTRS12dGRqOTY4TkRqMExPNTZEeDcxcWJ2XzQ5WXQwcGdCVFhkS3dXMWxnTmpaaF9oNUl3TmZiYW13?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPM2x3aDhCdlhmSnozbnVsVGFoLXJnd0hKbjc4a0ZZVXdFM19qZWpTRS12dGRqOTY4TkRqMExPNTZEeDcxcWJ2XzQ5WXQwcGdCVFhkS3dXMWxnTmpaaF9oNUl3TmZiYW13?oc=5\" target=\"_blank\">[현장] 코인원 '4자연합' 승부수…디지털금융 판"
+    },
+    {
+      "title": "한투·코인원 '디지털자산 동맹'…토큰증권·스테이블코인 공략",
+      "source": "v.daum.net",
+      "published_kst": "2026-06-04 15:11 KST",
+      "published_ts": 1780553475,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqX0NkSFlfWFk1TmtSY21wSjZ5eFBpWEpjY2M3aHhHN01OcXhJZ1V5bEVSTGRDUEpyZjh0SWpzVFQ1X1V6YUhjSzU2blZzWGtObnpvNw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqX0NkSFlfWFk1TmtSY21wSjZ5eFBpWEpjY2M3aHhHN01OcXhJZ1V5bEVSTGRDUEpyZjh0SWpzVFQ1X1V6YUhjSzU2blZzWGtObnpvNw?oc=5\" target=\"_blank\">한투·코인원 '디지털자산 동맹'…토큰증권·스테이블코인 공략</a>&nbsp;&nbsp;<font"
+    },
+    {
+      "title": "[현장] 후드에서 정장으로 갈아 입은 코인원 대표 차명훈, 한투·OKX·컴투스와 '글로벌 플랫폼'으로 도약 의지",
+      "source": "비즈니스포스트",
+      "published_kst": "2026-06-04 15:07 KST",
+      "published_ts": 1780553239,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpWmo0RURXX3VDd1o5UkF0dzZ4TXJfMWpTSkV0OTlBY2JFblZBSFEzU2YxLUxMUm1xdnFuck5iZnFDNFN1WlhPWE9HQWVjMkNnQlZMejBMTlp6cy10SGFnazhaNWVrYlF6OXdnVTlzM1pxbk0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBpWmo0RURXX3VDd1o5UkF0dzZ4TXJfMWpTSkV0OTlBY2JFblZBSFEzU2YxLUxMUm1xdnFuck5iZnFDNFN1WlhPWE9HQWVjMkNnQlZMejBMTlp6cy10SGFnazhaNWVrYlF6OXdnVTlzM1pxbk0?oc=5\" target=\"_blank\">[현장] 후드에서 정장"
+    },
+    {
+      "title": "한국투자증권·OKX 품은 코인원…\"글로벌 종합 금융사로 도약\"",
+      "source": "블루밍비트",
+      "published_kst": "2026-06-04 15:04 KST",
+      "published_ts": 1780553075,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16VW5wU0RhcU5wUUhZdF95cklna0ZpOThTd3hzUnVrTWxqUDJ5S0JFdlFQaTFpTk90X3BJal9vMDRzRjNQd3J2anJPZVJjQkhs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE16VW5wU0RhcU5wUUhZdF95cklna0ZpOThTd3hzUnVrTWxqUDJ5S0JFdlFQaTFpTk90X3BJal9vMDRzRjNQd3J2anJPZVJjQkhs?oc=5\" target=\"_blank\">한국투자증권·OKX 품은 코인원…\"글로벌 종합 금융사로 도약\"</a>&nbsp;&nbsp;<font col"
+    },
+    {
+      "title": "공정위, 넥스트레이드 기술 탈취 의혹 무혐의…토큰증권 사업 진출 정당성 확인",
+      "source": "PRESS9",
+      "published_kst": "2026-06-04 14:54 KST",
+      "published_ts": 1780552488,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Gc253LUdqTGJCYV9SUS1iMFFxdGJIUVcwMU16U2EwMkVBMlVpN2t1R3otSlhGQzZXcmhTb3ZNTjZ6ZThpTlIzNHBsUmNxRDJNOEJZdkdkRlRDNUQyYWFab2gyVks?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Gc253LUdqTGJCYV9SUS1iMFFxdGJIUVcwMU16U2EwMkVBMlVpN2t1R3otSlhGQzZXcmhTb3ZNTjZ6ZThpTlIzNHBsUmNxRDJNOEJZdkdkRlRDNUQyYWFab2gyVks?oc=5\" target=\"_blank\">공정위, 넥스트레이드 기술 탈취 의혹 무혐의…토큰증권 사업"
+    },
+    {
+      "title": "한국투자증권, 자체 STO 플랫폼 구축 본격화…토큰증권 시장 재진출",
+      "source": "PRESS9",
+      "published_kst": "2026-06-04 14:54 KST",
+      "published_ts": 1780552467,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4NVBiZlh6bHlnTDZPTHNyVXNoeHFfNjBfZVBNY0hEcmNuUWg0bHRmQUdySEhaNXlfeER3MFl1WjNfb0I1NTFLMF9vY2I1eTBvdG80R2xJeFpMbW5RMHI0T192SXk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4NVBiZlh6bHlnTDZPTHNyVXNoeHFfNjBfZVBNY0hEcmNuUWg0bHRmQUdySEhaNXlfeER3MFl1WjNfb0I1NTFLMF9vY2I1eTBvdG80R2xJeFpMbW5RMHI0T192SXk?oc=5\" target=\"_blank\">한국투자증권, 자체 STO 플랫폼 구축 본격화…토큰증권 시"
+    },
+    {
+      "title": "한투증권, 코인원 3대 주주로…STO 발행 플랫폼 구축 착수 [크립토브리핑]",
+      "source": "네이트",
+      "published_kst": "2026-06-04 14:45 KST",
+      "published_ts": 1780551900,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XWF9DTUhCTUpvaHEwbHdNb09PYWpwcTVKWjEwamxwUTQzTWFPRmxGcTNBcXhCVEdvblFkNkZlMXFoZUJ5SDhuWXBqTHhuc1p2ZnhJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XWF9DTUhCTUpvaHEwbHdNb09PYWpwcTVKWjEwamxwUTQzTWFPRmxGcTNBcXhCVEdvblFkNkZlMXFoZUJ5SDhuWXBqTHhuc1p2ZnhJ?oc=5\" target=\"_blank\">한투증권, 코인원 3대 주주로…STO 발행 플랫폼 구축 착수 [크립토브리핑]</a>&nbsp;&nb"
+    },
+    {
+      "title": "한투증권, 코인원·OKX·컴투스와 맞손...김성환 사장 \"디지털자산으로 차세대 금융 선도\"",
+      "source": "오피니언뉴스",
+      "published_kst": "2026-06-04 14:44 KST",
+      "published_ts": 1780551858,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuNC1TRmJqS0pJU0tTNl9kSkxlcGkzYnZnZTFnZFpPRDhmY0RTWHpfSUM1c2R0UEFZb1Jkek1LU2xrUGRIbnNNMy1SSDdIemFudGptRi1mSnpWNENJT3FyWU5FM291M0ZuUVNYWUt5UlZSdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBuNC1TRmJqS0pJU0tTNl9kSkxlcGkzYnZnZTFnZFpPRDhmY0RTWHpfSUM1c2R0UEFZb1Jkek1LU2xrUGRIbnNNMy1SSDdIemFudGptRi1mSnpWNENJT3FyWU5FM291M0ZuUVNYWUt5UlZSdw?oc=5\" target=\"_blank\">한투증권, 코인원·OKX"
+    },
+    {
+      "title": "김성환 한투증권 사장 “코인원-OKX-컴투스홀딩스와 디지털자산 한팀…한국 넘어 글로벌로”",
+      "source": "인더뉴스",
+      "published_kst": "2026-06-04 14:43 KST",
+      "published_ts": 1780551839,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tWmN6OXhTR2VOOFg4ZEIwSzZEcmM0TWNMeXBuZXVURmg3TGtuREdKZWpLaEJPQkZpV1REZC03U19YRFZDckluVEV3UVNLV0g2V1pRV3dVUnhGTmYtdmNGbjRjbXU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tWmN6OXhTR2VOOFg4ZEIwSzZEcmM0TWNMeXBuZXVURmg3TGtuREdKZWpLaEJPQkZpV1REZC03U19YRFZDckluVEV3UVNLV0g2V1pRV3dVUnhGTmYtdmNGbjRjbXU?oc=5\" target=\"_blank\">김성환 한투증권 사장 “코인원-OKX-컴투스홀딩스와 디지털"
+    },
+    {
+      "title": "한국투자證 \"주식-가상자산 투자 상호연결 추진\"",
+      "source": "한국경제",
+      "published_kst": "2026-06-04 14:37 KST",
+      "published_ts": 1780551422,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zSnVxTW9PcWt2bldLYzJDM3E3UEw0dU9aaDl4SUkwRjFLdmFkc2xNa0tiZHd4WUJKNUp2UE5hS3BaWXFCU1l2OVZySENkUngxSVB3ZNIBVEFVX3lxTE4zSnVxTW9PcWt2bldLYzJDM3E3UEw0dU9aaDl4SUkwRjFLdmFkc2xNa0tiZHd4WUJKNUp2UE5hS3BaWXFCU1l2OVZySENkUngxSVB3ZA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zSnVxTW9PcWt2bldLYzJDM3E3UEw0dU9aaDl4SUkwRjFLdmFkc2xNa0tiZHd4WUJKNUp2UE5hS3BaWXFCU1l2OVZySENkUngxSVB3ZNIBVEFVX3lxTE4zSnVxTW9PcWt2bldLYzJDM3E3UEw0dU9aaDl4SUkwRjFLdmFkc2xNa0tiZHd4WU"
+    },
+    {
+      "title": "한국투자증권, 코인원·OKX·컴투스홀딩스와 디지털 금융 협력 강화",
+      "source": "서울파이낸스",
+      "published_kst": "2026-06-04 14:33 KST",
+      "published_ts": 1780551190,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kOUdUWnp6QU51S1dOZm5HYmVrMEVxYUhFdEZCeXhGM3A0NmgwbXlTVDllY1NSMVJ5RFFUY3g1WFhGSXR3NkJMQ3U5Z3Y5MEc2UzZaSy1uQlJqOEhUYlJSYWlXaVVlM0Y0YkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9kOUdUWnp6QU51S1dOZm5HYmVrMEVxYUhFdEZCeXhGM3A0NmgwbXlTVDllY1NSMVJ5RFFUY3g1WFhGSXR3NkJMQ3U5Z3Y5MEc2UzZaSy1uQlJqOEhUYlJSYWlXaVVlM0Y0YkE?oc=5\" target=\"_blank\">한국투자증권, 코인원·OKX·컴투스홀딩스와 "
+    },
+    {
+      "title": "코인원, 한투증권·OKX 품었다…\"디지털금융 4자 연합 출범\"",
+      "source": "이코노미스트",
+      "published_kst": "2026-06-04 14:25 KST",
+      "published_ts": 1780550700,
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BRk5NUGRrdG5KNmN2Z1NUeEN0aHlLclNleE1MczJYbmROSjFQSnJRb2IwTkV4TGdFVFg3Zm5xZDJNbnNZSERtTG9jUUZVcmZrVmlHalNpcG9ZZVV3Z0QtWWtn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BRk5NUGRrdG5KNmN2Z1NUeEN0aHlLclNleE1MczJYbmROSjFQSnJRb2IwTkV4TGdFVFg3Zm5xZDJNbnNZSERtTG9jUUZVcmZrVmlHalNpcG9ZZVV3Z0QtWWtn?oc=5\" target=\"_blank\">코인원, 한투증권·OKX 품었다…\"디지털금융 4자 연합 출범\"<"
+    },
+    {
+      "title": "컴투스홀딩스, 코인원·한국투자증권·OKX와 디지털 금융 밸류체인 구축",
+      "source": "아이뉴스24",
+      "published_kst": "2026-06-04 14:15 KST",
+      "published_ts": 1780550105,
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaMGdRMW1jYUphNG5GankzdndaZ09QWEFaalFWQ0pZSEtjR2NTaXl3d0JkNE9lRGtHSGMyX0xYTUZXVTRDS3BtVjNlVmY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaMGdRMW1jYUphNG5GankzdndaZ09QWEFaalFWQ0pZSEtjR2NTaXl3d0JkNE9lRGtHSGMyX0xYTUZXVTRDS3BtVjNlVmY?oc=5\" target=\"_blank\">컴투스홀딩스, 코인원·한국투자증권·OKX와 디지털 금융 밸류체인 구축</a>&nbsp;&nbsp;<font colo"
+    },
+    {
+      "title": "한투證·코인원·OKX·컴투스, 디지털금융 동맹 출범",
+      "source": "뉴스투데이",
+      "published_kst": "2026-06-04 14:10 KST",
+      "published_ts": 1780549800,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wdlQ4Y3lCSTJDNDJjeXRfeF92VlNfM1RRbVZiWFBSRmlKaDhCZjIxSWM4QTY2LTA4S24waVBOMDhMOFoyRktMbVRFc1hUVHJlUmVvdlNub3g4STlmR1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wdlQ4Y3lCSTJDNDJjeXRfeF92VlNfM1RRbVZiWFBSRmlKaDhCZjIxSWM4QTY2LTA4S24waVBOMDhMOFoyRktMbVRFc1hUVHJlUmVvdlNub3g4STlmR1E?oc=5\" target=\"_blank\">한투證·코인원·OKX·컴투스, 디지털금융 동맹 출범</a>&nbsp;&n"
+    },
+    {
+      "title": "삼성증권, 두나무 지분 인수로 디지털자산 판 깐다...STO 법제화 수혜 받나",
+      "source": "더밸류뉴스",
+      "published_kst": "2026-06-04 14:09 KST",
+      "published_ts": 1780549792,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hWVFieTZHdG1YZm1uSDE2dG10cDRIOXhVR1ZvcUJZVnotV2VfZVZJbkk1bWRPbjAxNkVqeXhQTERPZF9VT3RMZjVaTGdTRS1DSGZvVA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hWVFieTZHdG1YZm1uSDE2dG10cDRIOXhVR1ZvcUJZVnotV2VfZVZJbkk1bWRPbjAxNkVqeXhQTERPZF9VT3RMZjVaTGdTRS1DSGZvVA?oc=5\" target=\"_blank\">삼성증권, 두나무 지분 인수로 디지털자산 판 깐다...STO 법제화 수혜 받나</a>&nbsp;"
+    },
+    {
+      "title": "[현장] \"보안이 최우선\"..한투·코인원·OKX·컴투스 '디지털 금융 동맹'",
+      "source": "포쓰저널",
+      "published_kst": "2026-06-04 13:59 KST",
+      "published_ts": 1780549144,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKQjNmeWd6V1VhenhlMURucnVMVmQ3NTF4MmpGNlk4blF2dDVocTM4S1luZHVlRFNjZlRJR0lGRVptYmhMRE9BRVI2ajhwa1JCQ294Q2xiTlQwTjlCZWRDQVBsenY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKQjNmeWd6V1VhenhlMURucnVMVmQ3NTF4MmpGNlk4blF2dDVocTM4S1luZHVlRFNjZlRJR0lGRVptYmhMRE9BRVI2ajhwa1JCQ294Q2xiTlQwTjlCZWRDQVBsenY?oc=5\" target=\"_blank\">[현장] \"보안이 최우선\"..한투·코인원·OKX·컴투스 '"
+    },
+    {
+      "title": "금융권 덮친 '미토스' 보안 위협…금보원, 디지털 인사이트 공개",
+      "source": "전자신문",
+      "published_kst": "2026-06-04 13:57 KST",
+      "published_ts": 1780549069,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuaklYeHVnSFhfYl94TWx2U3VQWUNxUkRoNGJiV3hUR0lydlg1Q2Q3MENwYUtnLUZiNktHU0FqLW5tNEswMFcyZ3lDZmNHdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuaklYeHVnSFhfYl94TWx2U3VQWUNxUkRoNGJiV3hUR0lydlg1Q2Q3MENwYUtnLUZiNktHU0FqLW5tNEswMFcyZ3lDZmNHdw?oc=5\" target=\"_blank\">금융권 덮친 '미토스' 보안 위협…금보원, 디지털 인사이트 공개</a>&nbsp;&nbsp;<font colo"
+    },
+    {
+      "title": "한투증권, 가상자산·블록체인 빅3와 동맹…글로벌 디지털 종합 플랫폼 구축 나선다",
+      "source": "thefairnews.co.kr",
+      "published_kst": "2026-06-04 13:55 KST",
+      "published_ts": 1780548926,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBabVBXS28yYkdONFJQeE42SERXbkRuN3ZIOGFLXzlIbHNNakZxQWo0S2trUDR5ZjJwdVNWRTZZbG53LWtBdXczTXpsSk1GQ3lsdjRIRmUtS3ZmMWhWTUtnVUs1X2NxR2psX2xycEdWRlXSAXRBVV95cUxPUDgtY2JXd0lJSm91eEs3YXJPdHdCNFZIaXRwN2k5VGZ5S0Fvem4ycGVRZzBldjJZdWNod1RnNGpsQ2NYOXkwYng3LXVlVkVYZmd0T09BcUZ2OEREVHV5R1FvNjFVenA4NE9iTU5uaFV4X1drbQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBabVBXS28yYkdONFJQeE42SERXbkRuN3ZIOGFLXzlIbHNNakZxQWo0S2trUDR5ZjJwdVNWRTZZbG53LWtBdXczTXpsSk1GQ3lsdjRIRmUtS3ZmMWhWTUtnVUs1X2NxR2psX2xycEdWRlXSAXRBVV95cUxPUDgtY2JXd0lJSm91eEs3YXJPdH"
+    },
+    {
+      "title": "한국투자증권도 STO 독자 플랫폼 구축…증권가 ‘슈퍼앱 경쟁’ 본격화",
+      "source": "서울경제",
+      "published_kst": "2026-06-04 13:46 KST",
+      "published_ts": 1780548378,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNakkzeDE4UFl6bnV5dllOd0RnWEhTa2FGWGRVbEZWTUN1TEEyc3gyX1dBTjhWSWwyUURnRGw5M1p6ZWdqMFZKU0pPZ2xDWFhTQ2Fn0gFTQVVfeXFMUE1qSTN4MThQWXpudXl2WU53RGdYSFNrYUZYZFVsRlZNQ3VMQTJzeDJfV0FOOFZJbDJRRGdEbDkzWnplZ2owVkpTSk9nbENYWFNDYWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNakkzeDE4UFl6bnV5dllOd0RnWEhTa2FGWGRVbEZWTUN1TEEyc3gyX1dBTjhWSWwyUURnRGw5M1p6ZWdqMFZKU0pPZ2xDWFhTQ2Fn0gFTQVVfeXFMUE1qSTN4MThQWXpudXl2WU53RGdYSFNrYUZYZFVsRlZNQ3VMQTJzeDJfV0FOOFZJbD"
+    },
+    {
+      "title": "컴투스홀딩스, 코인원-한국투자증권-OKX와 디지털 금융 밸류체인 구축",
+      "source": "베타뉴스",
+      "published_kst": "2026-06-04 13:45 KST",
+      "published_ts": 1780548358,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwenZwSlA1cV91T3RrZjNYNm5FdFZ4ZDd0MUI0MUR1LW5KTmNnYS1rNXN6NWtuR0o3bWROUWx5OFdWZ3BJV0RiV241MnhMcmE5Q09QZXFoWjJSUU1jMl9wWktBRV8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwenZwSlA1cV91T3RrZjNYNm5FdFZ4ZDd0MUI0MUR1LW5KTmNnYS1rNXN6NWtuR0o3bWROUWx5OFdWZ3BJV0RiV241MnhMcmE5Q09QZXFoWjJSUU1jMl9wWktBRV8?oc=5\" target=\"_blank\">컴투스홀딩스, 코인원-한국투자증권-OKX와 디지털 금융 밸"
+    }
+  ]
 }
