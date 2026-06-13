@@ -1,14 +1,110 @@
 {
   "query": "증권 디지털 OR STO OR 토큰증권 OR 토큰화 OR 디지털자산 OR 디지털채권",
-  "generated_kst": "2026-06-12 09:24 KST",
+  "generated_kst": "2026-06-13 09:24 KST",
   "items": [
     {
-      "title": "\"AI·디지털자산 등 종합투자 플랫폼 전환\"...한화투자증권, MTS 경쟁력 강화 ‘속도’",
-      "source": "청년일보",
-      "published_kst": "2026-06-12 08:00 KST",
-      "published_ts": 1781218804,
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IUnZfdmxRLTJfOV95dGFWTmowREpQSk5Fam5FWW9MV3ctb0VVOE1LRk52MHN6UEwySG1GdUVtanh1RmxheE40SDB0eWFBY0VaVXZYeXRwaU5Ba2l4QXVldTVwMmFSWjg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IUnZfdmxRLTJfOV95dGFWTmowREpQSk5Fam5FWW9MV3ctb0VVOE1LRk52MHN6UEwySG1GdUVtanh1RmxheE40SDB0eWFBY0VaVXZYeXRwaU5Ba2l4QXVldTVwMmFSWjg?oc=5\" target=\"_blank\">\"AI·디지털자산 등 종합투자 플랫폼 전환\"...한"
+      "title": "[새 판 짜는 거래소①] 카카오 지우고 금융권 품었다…두나무, 웹3 금융 허브로",
+      "source": "뉴스투데이",
+      "published_kst": "2026-06-13 05:36 KST",
+      "published_ts": 1781296560,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16UVRScXIwNHdDUzE4Nk9UeHh6NGtWRVAxcXhCdjB0cmd4NUoyZzk5NG0yS0U4Z0dlTHdGQ1AyQ0RCN2V2cjRfYTQ0STdfZUJ0MkxJTTl6bHhMUlUxN0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE16UVRScXIwNHdDUzE4Nk9UeHh6NGtWRVAxcXhCdjB0cmd4NUoyZzk5NG0yS0U4Z0dlTHdGQ1AyQ0RCN2V2cjRfYTQ0STdfZUJ0MkxJTTl6bHhMUlUxN0E?oc=5\" target=\"_blank\">[새 판 짜는 거래소①] 카카오 지우고 금융권 품었다…두나무, 웹3 금융"
+    },
+    {
+      "title": "금융위·금감원, 토큰화 주식 ‘증권’ 분류 가닥…가상자산 아닌 증권법 적용",
+      "source": "Cryptonews",
+      "published_kst": "2026-06-12 23:55 KST",
+      "published_ts": 1781276132,
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaV9jRFBhRUxnUWNJQUFTaS01SS1DLXhiRTlIQzNLLUxUWWQxc3VQZzNxWXU0cnJUelR6MmcwVnVnVWhqaHluZlRKdktfTnZJRTBqR1dpSDZGWTBENTg4NUE4eDNoZHlsX2dHdzE4MV9yRzd1X0hhdlV4aU9vNlNnZDVwTkVkQnhPcHBLcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNaV9jRFBhRUxnUWNJQUFTaS01SS1DLXhiRTlIQzNLLUxUWWQxc3VQZzNxWXU0cnJUelR6MmcwVnVnVWhqaHluZlRKdktfTnZJRTBqR1dpSDZGWTBENTg4NUE4eDNoZHlsX2dHdzE4MV9yRzd1X0hhdlV4aU9vNlNnZDVwTkVkQnhPcHBLcw"
+    },
+    {
+      "title": "재경부 \"토큰화 주식, 가상자산 아닌 증권\"",
+      "source": "한국경제",
+      "published_kst": "2026-06-12 18:19 KST",
+      "published_ts": 1781255976,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52eGZSLVRIYmN3SVZZTU5PdENwZTN3WDRmT29IZ0J1aDNIQ3B2aXhSWUVvdFktOTQwMTJiZ3BaY21rcHZmX1Itd2tIdXNaaXJlbU1uVlJVRk5aQdIBVEFVX3lxTE1kV2RVX29YeTR3aUdpdGZnNGtjeWt1VlM5alFmeW1xeS1xVVhncVk0Ym5rUUprazI4eDNzMXgxTU54RjhUY1dMd1k5MUVlME10N1kyMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE52eGZSLVRIYmN3SVZZTU5PdENwZTN3WDRmT29IZ0J1aDNIQ3B2aXhSWUVvdFktOTQwMTJiZ3BaY21rcHZmX1Itd2tIdXNaaXJlbU1uVlJVRk5aQdIBVEFVX3lxTE1kV2RVX29YeTR3aUdpdGZnNGtjeWt1VlM5alFmeW1xeS1xVVhncVk0Ym"
+    },
+    {
+      "title": "한투증권, 월드컵 거리응원 행사 개최",
+      "source": "MTN 머니투데이방송",
+      "published_kst": "2026-06-12 17:35 KST",
+      "published_ts": 1781253350,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ocGlGWDJDbjJHWm5kVUVYQlRxcXh5djBOZVJKYy0zWEJaZy1XMXk3dU1LX2ZCdnNRbWx0ZVo4LU9mSjBra0VEU196OTBsM1JwUFJQUWRlbHhBNWVmd2sxOVZETHE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ocGlGWDJDbjJHWm5kVUVYQlRxcXh5djBOZVJKYy0zWEJaZy1XMXk3dU1LX2ZCdnNRbWx0ZVo4LU9mSjBra0VEU196OTBsM1JwUFJQUWRlbHhBNWVmd2sxOVZETHE?oc=5\" target=\"_blank\">한투증권, 월드컵 거리응원 행사 개최</a>&nbsp;&n"
+    },
+    {
+      "title": "STO, 글로벌 무대 서려면 “제도·인프라·기초자산 고르게 갖춰야”",
+      "source": "동아일보",
+      "published_kst": "2026-06-12 17:32 KST",
+      "published_ts": 1781253171,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFZFYtTnlrU01sb2R0YzhZUm9SREctdmZSU3hsa2p4R2s4WF9QMWFJNjFQXy1pRHAtXy1wWXU0bmloQlJhaGVWRG5IcUZjNGFhal9POEJMLXFFVzBNcGFpdEJwWkUtd9IBZkFVX3lxTFBFZFYtTnlrU01sb2R0YzhZUm9SREctdmZSU3hsa2p4R2s4WF9QMWFJNjFQXy1pRHAtXy1wWXU0bmloQlJhaGVWRG5IcUZjNGFhal9POEJMLXFFVzBNcGFpdEJwWkUtdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFZFYtTnlrU01sb2R0YzhZUm9SREctdmZSU3hsa2p4R2s4WF9QMWFJNjFQXy1pRHAtXy1wWXU0bmloQlJhaGVWRG5IcUZjNGFhal9POEJMLXFFVzBNcGFpdEJwWkUtd9IBZkFVX3lxTFBFZFYtTnlrU01sb2R0YzhZUm9SREctdmZSU3hsa2"
+    },
+    {
+      "title": "[프로필] 배광수 NH투자증권 각자 대표이사 후보자…영업 경쟁력 강화 이끈 WM 전문가",
+      "source": "한국금융신문",
+      "published_kst": "2026-06-12 16:50 KST",
+      "published_ts": 1781250601,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDaHk0WHVwMWdUaGJ2eVROZU5nc1VuYmV1dWt4MWR0eHdXcjEzN2dLVW4zZWNxejFWdW1yRm5SaHdZemVwbXdDdEx6ZzE3RnlFZ1RGTEVhbW1oWGdtOWl1V0lnd3VtYlh3aTRubTdReEtZay1GbTMxVXFVT3k?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBDaHk0WHVwMWdUaGJ2eVROZU5nc1VuYmV1dWt4MWR0eHdXcjEzN2dLVW4zZWNxejFWdW1yRm5SaHdZemVwbXdDdEx6ZzE3RnlFZ1RGTEVhbW1oWGdtOWl1V0lnd3VtYlh3aTRubTdReEtZay1GbTMxVXFVT3k?oc=5\" target=\"_blank\">"
+    },
+    {
+      "title": "'밸류업 모범생' 키움증권, '감액배당'으로 주주 환원 극대화",
+      "source": "KB Think",
+      "published_kst": "2026-06-12 16:31 KST",
+      "published_ts": 1781249488,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rY1UzdXJoSUFuWGlCc0pBdzhUWGFuMGhIQWR1X3RCWjN2T1RCbThINUVtanZESkZmU0RnRjZZd0NWamt0R1VTdU9Yb3Q2WWxUOFFxaXVzejFzNVI3TXZNYUlmUmNvMndQTjNhMjZsZGR3UQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5rY1UzdXJoSUFuWGlCc0pBdzhUWGFuMGhIQWR1X3RCWjN2T1RCbThINUVtanZESkZmU0RnRjZZd0NWamt0R1VTdU9Yb3Q2WWxUOFFxaXVzejFzNVI3TXZNYUlmUmNvMndQTjNhMjZsZGR3UQ?oc=5\" target=\"_blank\">'밸류업 모범생' 키움증"
+    },
+    {
+      "title": "토큰화 주식, 증권 분류 가닥···하반기 과세 속도",
+      "source": "한스경제",
+      "published_kst": "2026-06-12 15:17 KST",
+      "published_ts": 1781245045,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JNXgwc2NVTm1kMWQ3MUE1RkVzWGNtOE9ydTBZbURQZjhRYW1TMk5BNVNMb05RSUtxMVo3SktDVzZUb09XMHo3bUZSVVNtZG1ONHZTWDlOT1ctMnNJRnBqTjEydlFsQWd0VURF0gFvQVVfeXFMTWFOd1VBblNmbGpDQ203YUhqM2JRUURNNlJXUWhidTRvQ1ZtaDVzZzVsanhvMGs4YVJ0OVhVT3lBTU9JR1VmejlSemk5bVF1aURCLUtDTnRzNVJRUlpEQ2E1bmtfaU5QSE9JODFCaXhJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9JNXgwc2NVTm1kMWQ3MUE1RkVzWGNtOE9ydTBZbURQZjhRYW1TMk5BNVNMb05RSUtxMVo3SktDVzZUb09XMHo3bUZSVVNtZG1ONHZTWDlOT1ctMnNJRnBqTjEydlFsQWd0VURF0gFvQVVfeXFMTWFOd1VBblNmbGpDQ203YUhqM2JRUURNNl"
+    },
+    {
+      "title": "LS증권, 개인 투자자 대상 하반기 투자 세미나",
+      "source": "연합뉴스",
+      "published_kst": "2026-06-12 15:03 KST",
+      "published_ts": 1781244235,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IeW1tZlZYdDNMYlRHaEFFU3FqcG42d0JxUGVENkxObjFETGdyaTJmU29GejhmTGdvS0tEaUFLVlBBT0ZsTHJ4QnVaYmtWX3hQYlRLa3lrU0VIcERkaWRjWtIBYEFVX3lxTE1IeW1tZlZYdDNMYlRHaEFFU3FqcG42d0JxUGVENkxObjFETGdyaTJmU29GejhmTGdvS0tEaUFLVlBBT0ZsTHJ4QnVaYmtWX3hQYlRLa3lrU0VIcERkaWRjWg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IeW1tZlZYdDNMYlRHaEFFU3FqcG42d0JxUGVENkxObjFETGdyaTJmU29GejhmTGdvS0tEaUFLVlBBT0ZsTHJ4QnVaYmtWX3hQYlRLa3lrU0VIcERkaWRjWtIBYEFVX3lxTE1IeW1tZlZYdDNMYlRHaEFFU3FqcG42d0JxUGVENkxObjFETG"
+    },
+    {
+      "title": "[단독] 재경부 \"토큰화 주식, 가상자산 아닌 증권\"...하반기 과세 가능성",
+      "source": "블루밍비트",
+      "published_kst": "2026-06-12 14:15 KST",
+      "published_ts": 1781241309,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGOVo3dWl2QjM1ZHJGVlZpUFRCZWQ1QXFOcENzbmFlUEtRMGYwRXlObERGLWJFU3dsMURrU2lZQmhPOG1vRlg2RmhRazdlWTJ1?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGOVo3dWl2QjM1ZHJGVlZpUFRCZWQ1QXFOcENzbmFlUEtRMGYwRXlObERGLWJFU3dsMURrU2lZQmhPOG1vRlg2RmhRazdlWTJ1?oc=5\" target=\"_blank\">[단독] 재경부 \"토큰화 주식, 가상자산 아닌 증권\"...하반기 과세 가능성</a>&nbsp;&nbsp;<"
+    },
+    {
+      "title": "미술품부터 부동산까지... SK증권, ‘조각투자’ 연합군으로 STO 판 키운다",
+      "source": "핀포인트뉴스",
+      "published_kst": "2026-06-12 13:39 KST",
+      "published_ts": 1781239147,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZZzZHblptU0JlN3EyOTBXTVVnaXctaDZDdUFhWEc2ZkRVdW5VMTVDTk9icWNkd0VOSU9QRTNOTENacVFQb2ZhRzVWMm1qTTc3LWVvc0ZhbUllTHhUV0RPYktMVmUxamZJbFc2aS1oZXNaa2vSAXdBVV95cUxQbWlXczNnazdZaXEtbU4xMEhqLW01ZktPRWM2aXpvelFPdUtaUExrMlhnZlBSdGtDU2k4N05SU0VfUWczLWVFbmhlLU9YTm5uOXUxUzRIUDdiRWs2cDd3QlFrTmtrdWdyS1ZLMlljeXVCbFlrR0x4OA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBZZzZHblptU0JlN3EyOTBXTVVnaXctaDZDdUFhWEc2ZkRVdW5VMTVDTk9icWNkd0VOSU9QRTNOTENacVFQb2ZhRzVWMm1qTTc3LWVvc0ZhbUllTHhUV0RPYktMVmUxamZJbFc2aS1oZXNaa2vSAXdBVV95cUxQbWlXczNnazdZaXEtbU4xME"
+    },
+    {
+      "title": "씨티그룹, 비상장 주식 투자 토큰화 실험 본격화",
+      "source": "지디넷코리아",
+      "published_kst": "2026-06-12 10:35 KST",
+      "published_ts": 1781228142,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbnE3OWhrNHNoNnJfTG5LdEZrZy1lZ2dCWTVoOHAtc0ZlcXpzZjlQb0ZRMktUaHVlemIwTlNJQVJ6elFMa293bWc0NF9EaHI3bkRMWTJB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbnE3OWhrNHNoNnJfTG5LdEZrZy1lZ2dCWTVoOHAtc0ZlcXpzZjlQb0ZRMktUaHVlemIwTlNJQVJ6elFMa293bWc0NF9EaHI3bkRMWTJB?oc=5\" target=\"_blank\">씨티그룹, 비상장 주식 투자 토큰화 실험 본격화</a>&nbsp;&nbsp;<font col"
+    },
+    {
+      "title": "[데스크 칼럼] 늦어진 디지털자산법, 이제라도 찾아야 할 보호와 성장의 균형",
+      "source": "뉴스투데이",
+      "published_kst": "2026-06-12 09:38 KST",
+      "published_ts": 1781224680,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tWmUtZEhUS3JBaWc4RkFTbE5NaElyVzJaN3kwUl9tY3dXVGFJdHJDVU5saFJXOHpoWlFQbk1POHR5WnJnV2NTYVdvUnFPZGViT0NYWHlZc25ST0FBTFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tWmUtZEhUS3JBaWc4RkFTbE5NaElyVzJaN3kwUl9tY3dXVGFJdHJDVU5saFJXOHpoWlFQbk1POHR5WnJnV2NTYVdvUnFPZGViT0NYWHlZc25ST0FBTFE?oc=5\" target=\"_blank\">[데스크 칼럼] 늦어진 디지털자산법, 이제라도 찾아야 할 보호와 성장의 "
     },
     {
       "title": "씨티그룹, 블록체인으로 비상장 주식 거래…'토큰 증권' 시대 성큼",
@@ -67,28 +163,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGNk1qb2psLWNqazFqdzhZSGlzZjVyOThEWDRXQVZPellLYUprTXk4VWF4ZVVlZGZfYlhmRmd4bkFVczNmc3M0ZGg4NDlxQWZwSUNaMg?oc=5\" target=\"_blank\">토큰증권은 허용했지만…한은이 경고한 ‘보이지 않는 금융불안’</a>&nbsp;&nbsp;<fon"
     },
     {
-      "title": "\"인프라 통합하고 킬러자산 키워라\"…K-STO·조각투자 성공 방정식",
-      "source": "네이트",
-      "published_kst": "2026-06-11 18:11 KST",
-      "published_ts": 1781169060,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tYmVNSkFmNjE4dWZzaUNyOG8ya3RMZmNmUDBKNG5XbWRvVTh4ZGtmYmFpd0dlOTNKYnNFSVBjcWFQUGlGajRmNERWS3dhRlM0RVJz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tYmVNSkFmNjE4dWZzaUNyOG8ya3RMZmNmUDBKNG5XbWRvVTh4ZGtmYmFpd0dlOTNKYnNFSVBjcWFQUGlGajRmNERWS3dhRlM0RVJz?oc=5\" target=\"_blank\">\"인프라 통합하고 킬러자산 키워라\"…K-STO·조각투자 성공 방정식</a>&nbsp;&nbsp;<f"
-    },
-    {
       "title": "美·日선 주식·채권 토큰화 … 韓도 '금가분리' 철폐를",
       "source": "v.daum.net",
       "published_kst": "2026-06-11 17:51 KST",
       "published_ts": 1781167866,
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUnJrMm1LR1BfQi1YcHo5X3Q3TzQ5QkFuei1uTzRnSHljU3BMM19laUtkcWtiRWF3YzN0VkFTZnoyVkMzY2xGdE0xVGtsbFk?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zUnJrMm1LR1BfQi1YcHo5X3Q3TzQ5QkFuei1uTzRnSHljU3BMM19laUtkcWtiRWF3YzN0VkFTZnoyVkMzY2xGdE0xVGtsbFk?oc=5\" target=\"_blank\">美·日선 주식·채권 토큰화 … 韓도 '금가분리' 철폐를</a>&nbsp;&nbsp;<font color=\"#"
-    },
-    {
-      "title": "\"美·日선 주식·채권 토큰화…韓도 '금가분리' 철폐를\"",
-      "source": "네이트",
-      "published_kst": "2026-06-11 17:50 KST",
-      "published_ts": 1781167800,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqdURUQUlTNElpS2xuUzB5REhkbXF3clh5ZzNOTjg5aFh5SllaVVI3dkxrV3EyTnJQdnJuUHlyTVBfeXBVR0lrWHRoODRMVDg5UTVn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqdURUQUlTNElpS2xuUzB5REhkbXF3clh5ZzNOTjg5aFh5SllaVVI3dkxrV3EyTnJQdnJuUHlyTVBfeXBVR0lrWHRoODRMVDg5UTVn?oc=5\" target=\"_blank\">\"美·日선 주식·채권 토큰화…韓도 '금가분리' 철폐를\"</a>&nbsp;&nbsp;<font col"
     },
     {
       "title": "\"연금·ISA 중심 유입\"…KB증권, 디지털WM 자산 15조원 돌파",
@@ -131,14 +211,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9NMEJQZ1F1bnhMZVhIZVFlcXdpNzhNdThLT2tkVDdXZnRtWHpJMThPcXdqb3JYSkx4Z3BBWXB0cXU1UDdfaUJOd2FKVk5YNHZyUHltV0lSTHY1LVF0d0ZLNVEwUld1b1d1cm1JUNIBcEFVX3lxTE5TQ3dERFBZd1QzSlBMUXhQVE5SMUpjLU"
     },
     {
-      "title": "우리투자證에 밀려 '중형사 왕좌' 뺏긴 교보증권, 11위 재탈환 전략은?",
-      "source": "이투데이",
-      "published_kst": "2026-06-11 16:00 KST",
-      "published_ts": 1781161200,
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lMzI1ZHpFSURZLWxZN0p1YkpaZGw5Zmp2SnZJOFJOZVVvdjV4S0dJYmxoV1BwcFAwa05WZlg4dkt5Y3ZJdVRycVhxOXNiMi1ZQ2lXdg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lMzI1ZHpFSURZLWxZN0p1YkpaZGw5Zmp2SnZJOFJOZVVvdjV4S0dJYmxoV1BwcFAwa05WZlg4dkt5Y3ZJdVRycVhxOXNiMi1ZQ2lXdg?oc=5\" target=\"_blank\">우리투자證에 밀려 '중형사 왕좌' 뺏긴 교보증권, 11위 재탈환 전략은?</a>&nbsp;&nb"
-    },
-    {
       "title": "하나금융, 산업단지 신성장 펀드 조성…KB증권, 디지털WM 15조 돌파 [금융 PICK]",
       "source": "뉴스포스트",
       "published_kst": "2026-06-11 15:34 KST",
@@ -175,8 +247,8 @@
       "source": "PRESS9",
       "published_kst": "2026-06-11 15:22 KST",
       "published_ts": 1781158953,
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHN00wVUJ6SlVWY3hCQ3pfSlEzQ1BfZXB6c0V5ZjBjWmMzNDZmSlFzOGRDVHZzNm1LVzE0OG0yOHVySkdoanVXa0I2a1hHWTA3d2RkamxCSFNCZlNaa1Z3bjRtNWw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHN00wVUJ6SlVWY3hCQ3pfSlEzQ1BfZXB6c0V5ZjBjWmMzNDZmSlFzOGRDVHZzNm1LVzE0OG0yOHVySkdoanVXa0I2a1hHWTA3d2RkamxCSFNCZlNaa1Z3bjRtNWw?oc=5\" target=\"_blank\">KB증권, 디지털WM 자산 15조원 돌파…절세·연금 자산 "
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wTTR6b2ViOEl6ZnV4WDVhTkVQOHBpRWpRQ2VlUVBSTllMOENsbjhTYjBLdENncVV6TjZ4YzhwZWExanV0NzNvSDVGbDFmZGhqN0JEbEJhVnJCWUNLN2VvMUNWX3BJZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wTTR6b2ViOEl6ZnV4WDVhTkVQOHBpRWpRQ2VlUVBSTllMOENsbjhTYjBLdENncVV6TjZ4YzhwZWExanV0NzNvSDVGbDFmZGhqN0JEbEJhVnJCWUNLN2VvMUNWX3BJZw?oc=5\" target=\"_blank\">KB증권, 디지털WM 자산 15조원 돌파…절세·연금 "
     },
     {
       "title": "KB증권, 디지털WM 15조 돌파…소비자 관심도 전년比 29%↑",
@@ -196,11 +268,11 @@
     },
     {
       "title": "KB증권, 디지털자산관리 규모 15조원 돌파",
-      "source": "네이트",
+      "source": "v.daum.net",
       "published_kst": "2026-06-11 14:42 KST",
-      "published_ts": 1781156520,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnODJCeV9URkNsZ1laTFBKbFlhRWgzSE15bWtxT1R6b0RWa2lhWFY4eVo2SHg2OEpZdDNzUDVGOFZZOFgzZy1uQ2lBMnZyX1Rhdk1N?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnODJCeV9URkNsZ1laTFBKbFlhRWgzSE15bWtxT1R6b0RWa2lhWFY4eVo2SHg2OEpZdDNzUDVGOFZZOFgzZy1uQ2lBMnZyX1Rhdk1N?oc=5\" target=\"_blank\">KB증권, 디지털자산관리 규모 15조원 돌파</a>&nbsp;&nbsp;<font color=\"#6"
+      "published_ts": 1781156570,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rWFVOV01vbkdJWW1QMlJsSGI3SFlMMWU1MFpibXlSRGFjSFVfVnlEczQ1QkZYTHBVUlpNZnhrNTRkZW9YME95cGRSYnlwMlU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rWFVOV01vbkdJWW1QMlJsSGI3SFlMMWU1MFpibXlSRGFjSFVfVnlEczQ1QkZYTHBVUlpNZnhrNTRkZW9YME95cGRSYnlwMlU?oc=5\" target=\"_blank\">KB증권, 디지털자산관리 규모 15조원 돌파</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
     },
     {
       "title": "KB증권, 디지털WM 자산 15조 돌파…\"연금·ISA 중심 자산 유입\"",
@@ -231,16 +303,8 @@
       "source": "디지털데일리",
       "published_kst": "2026-06-11 13:48 KST",
       "published_ts": 1781153293,
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93RTVUS0QzcVBCNGU1OVg2aXZCVDBTM2JBZnpOZk1XdDVzYXBhY2ZRSGZ2TlZvSjZzZE5IMTdsLUNLN3JMRVY0NlZsaFc0WGNMOFlpdEFSLXFTdG1kRDc1bGlkZVc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE93RTVUS0QzcVBCNGU1OVg2aXZCVDBTM2JBZnpOZk1XdDVzYXBhY2ZRSGZ2TlZvSjZzZE5IMTdsLUNLN3JMRVY0NlZsaFc0WGNMOFlpdEFSLXFTdG1kRDc1bGlkZVc?oc=5\" target=\"_blank\">우리투자증권, 에코프로 인도네시아 법인 1200억 조달 단"
-    },
-    {
-      "title": "KB증권, 디지털 WM자산 15조원 돌파",
-      "source": "네이트",
-      "published_kst": "2026-06-11 13:41 KST",
-      "published_ts": 1781152860,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JLVBjQ0pHQ2JETU5hTm5OWmlrSUlSM0Qta2RfSmtBN0JWTXk0cEdhQzl2aTJNRlRnOHJFZHJhTWFQN19HR2RwUlJlUE9WcUk2NVBN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JLVBjQ0pHQ2JETU5hTm5OWmlrSUlSM0Qta2RfSmtBN0JWTXk0cEdhQzl2aTJNRlRnOHJFZHJhTWFQN19HR2RwUlJlUE9WcUk2NVBN?oc=5\" target=\"_blank\">KB증권, 디지털 WM자산 15조원 돌파</a>&nbsp;&nbsp;<font color=\"#6f6"
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GcmlpOTBvWFR2cTB1WW9FQ0ptVVFYTFVuZ0Y3ZmJyeDY0cTdYOXNRMHlyTHJDYUxncjRLQ0VsNXR6TjdrMDFmRTU2cTlBWjRnX2F1MVRWVkdSTGlSNV82LWxn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GcmlpOTBvWFR2cTB1WW9FQ0ptVVFYTFVuZ0Y3ZmJyeDY0cTdYOXNRMHlyTHJDYUxncjRLQ0VsNXR6TjdrMDFmRTU2cTlBWjRnX2F1MVRWVkdSTGlSNV82LWxn?oc=5\" target=\"_blank\">우리투자증권, 에코프로 인도네시아 법인 1200억 조달 단독 주"
     },
     {
       "title": "KB증권, 디지털 WM자산 15조원 돌파 - 머니투데이",
@@ -275,12 +339,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UdlZWVlZhNzg4eW1nbFI4bG9sVWxJSU4xME5zQ3MtR3N5VXdvOVdhN0ZUYlZnZmU4T1IwelQzNFRSRFhkUmpZWFZzX3pwZVU?oc=5\" target=\"_blank\">연금·ISA로 뭉칫돈…KB증권 디지털WM 15조 넘었다</a>&nbsp;&nbsp;<font color=\"#"
     },
     {
+      "title": "연금·ISA로 뭉칫돈···KB증권 디지털WM 15조 넘었다",
+      "source": "뉴스웨이",
+      "published_kst": "2026-06-11 13:20 KST",
+      "published_ts": 1781151637,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HWmk4RlpNX0poa2RySXREUG9YNXUwQ1BMMmJLWS1qSWVubEhpMlJFT3hTRFhlRGctLWM1SWZDNkNyaEdjbGVJY0dMa2wyTTdFNzd4LTJzWFBPdDFuQ0JydXI3WVJldmdMdEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9HWmk4RlpNX0poa2RySXREUG9YNXUwQ1BMMmJLWS1qSWVubEhpMlJFT3hTRFhlRGctLWM1SWZDNkNyaEdjbGVJY0dMa2wyTTdFNzd4LTJzWFBPdDFuQ0JydXI3WVJldmdMdEE?oc=5\" target=\"_blank\">연금·ISA로 뭉칫돈···KB증권 디지털WM"
+    },
+    {
       "title": "[카드] KB증권, 디지털WM 자산 15조원 돌파",
       "source": "프라임경제",
       "published_kst": "2026-06-11 13:18 KST",
       "published_ts": 1781151500,
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpd0h0a0RScG1mR1lyRFlwMnY2Q2VZMTlwYmxnVlAycExoNVNpc185alQ4LWZzMW9taWNrTVNXN2xqRzRKMXhabDc4LXBXV1BDZzROTkFLMDJlQU5rdW1kTTRHVlEzX0YzSk5MS0RwemRpZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBpd0h0a0RScG1mR1lyRFlwMnY2Q2VZMTlwYmxnVlAycExoNVNpc185alQ4LWZzMW9taWNrTVNXN2xqRzRKMXhabDc4LXBXV1BDZzROTkFLMDJlQU5rdW1kTTRHVlEzX0YzSk5MS0RwemRpZw?oc=5\" target=\"_blank\">[카드] KB증권, 디지"
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfUnVQUENKd3VnSFpaT0lWX2J5dVlnRmZuQmZNV1RkeGRwVGhrdW9zX3FoR0FxRnNRQ096bk5UTFBHdU1PeDNzeFFGTlFZRXFIRkJHdmFzTkR2WUZpSU94WkdBa2JUdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfUnVQUENKd3VnSFpaT0lWX2J5dVlnRmZuQmZNV1RkeGRwVGhrdW9zX3FoR0FxRnNRQ096bk5UTFBHdU1PeDNzeFFGTlFZRXFIRkJHdmFzTkR2WUZpSU94WkdBa2JUdw?oc=5\" target=\"_blank\">[카드] KB증권, 디지털WM 자산 15조원 돌파</"
     },
     {
       "title": "KB증권, 디지털WM 약진 '자산 15조원 돌파'",
@@ -291,14 +363,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE55WDR2a0lPUXg2RmhsWmV0bGE0YVF5eEVrdFFyN1Q0eHZEbWpINXg1bV90OHhucXJPSW1udEtBYU53bnlwWjhZc2d1SlpXM0NKWnBrWDRoWUhSTVpnS01sT0RPcEx1SlVidk5IallwUEdzU1pv?oc=5\" target=\"_blank\">KB증권, 디지털WM"
     },
     {
-      "title": "KB증권 디지털WM 자산 15조원 돌파...연금·ISA 중심 자금 유입 확대",
-      "source": "핀포인트뉴스",
-      "published_kst": "2026-06-11 13:04 KST",
-      "published_ts": 1781150687,
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tRFhsaTRHcEh5aVdHZXNjSWwySVowTTdMS3VQQlY3MUVjWlp0Qmg3TV9wSGhVUUpsTFRxNzdWUHM3TS1rY2YzYTdoeTF5eTZqZkh5aVpuaUpGM3hBVi1XSG1xbGEyaGlGVGxxU3BTNlRYVnpBY3NF0gF3QVVfeXFMTW1EWGxpNEdwSHlpV0dlc2NJbDJJWjBNN0xLdVBCVjcxRWNaWnRCaDdNX3BIaFVRSmxMVHE3N1ZQczdNLWtjZjNhN2h5MXl5NmpmSHlpWm5pSkYzeEFWLVdIbXFsYTJoaUZUbHFTcFM2VFhWekFjc0U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1tRFhsaTRHcEh5aVdHZXNjSWwySVowTTdMS3VQQlY3MUVjWlp0Qmg3TV9wSGhVUUpsTFRxNzdWUHM3TS1rY2YzYTdoeTF5eTZqZkh5aVpuaUpGM3hBVi1XSG1xbGEyaGlGVGxxU3BTNlRYVnpBY3NF0gF3QVVfeXFMTW1EWGxpNEdwSHlpV0"
-    },
-    {
       "title": "KB증권, 디지털WM 자산 15조원 돌파…6개월 만에 5조원 늘어",
       "source": "이지경제",
       "published_kst": "2026-06-11 12:29 KST",
@@ -307,20 +371,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9VZEdabFdsMFhOY2ZVR1EyaVRNYk5UcU1hTjE4ZmdGNElMTjMxRmhlWHdhbVBKdWY4c1ZIbFpiNEdFaWhfY25LTjBGZkk1cWpmOXdVZFV6eWZjMzdScVRLc3FKbmFqUDlaWHBQUVhB?oc=5\" target=\"_blank\">KB증권, 디지털WM 자산 15조원"
     },
     {
-      "title": "KB증권, 디지털WM 자산 15조원 돌파",
-      "source": "현대경제신문",
-      "published_kst": "2026-06-11 12:24 KST",
-      "published_ts": 1781148240,
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wa0NFRTlLSVZDVHlfVjI2LTZKbWN2NHlWdXFjSkZIaGE4cC1tNGM4c0d2UkNZN1JPRnp3TEdIODVxNVpwYTFzUTBsVGpqbWZkRk5Fb0loandERlBBeTFNWVFnY3FjWGVCWmY00gFrQVVfeXFMTXBrQ0VFOUtJVkNUeV9WMjYtNkptY3Y0eVZ1cWNKRkhoYThwLW00YzhzR3ZSQ1k3Uk9GendMR0g4NXE1WnBhMXNRMGxUamptZmRGTkVvSWhqd0RGUEF5MU1ZUWdjcWNYZUJaZjQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1wa0NFRTlLSVZDVHlfVjI2LTZKbWN2NHlWdXFjSkZIaGE4cC1tNGM4c0d2UkNZN1JPRnp3TEdIODVxNVpwYTFzUTBsVGpqbWZkRk5Fb0loandERlBBeTFNWVFnY3FjWGVCWmY00gFrQVVfeXFMTXBrQ0VFOUtJVkNUeV9WMjYtNkptY3Y0eV"
-    },
-    {
       "title": "KB증권, 디지털WM 자산 규모 15조원 돌파",
       "source": "시사포커스",
       "published_kst": "2026-06-11 11:29 KST",
       "published_ts": 1781144976,
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KU2I4bEU0LTNHaHRaNTNxeGtnTkRrcXpkeTFaclNZRHUxTm5nSUdtVEhyelhBRWlEa1FxS3poZDJpa3o4VXBTMzJRekU5anVxMTFza1g0blVwak9SYkRtZ1NHVTNiNlVOM0J5S1ZoZw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9KU2I4bEU0LTNHaHRaNTNxeGtnTkRrcXpkeTFaclNZRHUxTm5nSUdtVEhyelhBRWlEa1FxS3poZDJpa3o4VXBTMzJRekU5anVxMTFza1g0blVwak9SYkRtZ1NHVTNiNlVOM0J5S1ZoZw?oc=5\" target=\"_blank\">KB증권, 디지털WM 자산 규모"
+    },
+    {
+      "title": "KB증권, 디지털WM 자산 15조원 돌파",
+      "source": "현대경제신문",
+      "published_kst": "2026-06-11 11:22 KST",
+      "published_ts": 1781144546,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55R0FZUWdvX280LWJEUnBMSXFmT25TYUdiMHVTcVhIX01jWUw0V1JJRFNpMXFmaDBQSzAwQmhaMWM4bjhPT3pYQzZROVFrc295T29MYWtjenJib3IxaXVHN0pnTWp6RVHSAWtBVV95cUxNcGtDRUU5S0lWQ1R5X1YyNi02Sm1jdjR5VnVxY0pGSGhhOHAtbTRjOHNHdlJDWTdST0Z6d0xHSDg1cTVacGExc1EwbFRqam1mZEZORW9JaGp3REZQQXkxTVlRZ2NxY1hlQlpmNA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55R0FZUWdvX280LWJEUnBMSXFmT25TYUdiMHVTcVhIX01jWUw0V1JJRFNpMXFmaDBQSzAwQmhaMWM4bjhPT3pYQzZROVFrc295T29MYWtjenJib3IxaXVHN0pnTWp6RVHSAWtBVV95cUxNcGtDRUU5S0lWQ1R5X1YyNi02Sm1jdjR5VnVxY0"
     },
     {
       "title": "KB증권, 디지털WM 자산 15조원 돌파",
@@ -337,70 +401,6 @@
       "published_ts": 1781142772,
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMa0czOEpPZ1RhVVNPQWwtRDI4ckl2RkdjcWs5SVpqV1k2WW1zMU1vV1F2RldQQmZPa3FPNVlmbktoRXdNTlNEaE5HSGk3SHZhX3phZ0FxVUxMV1ZtaXBPcVhRS09vVGV60gFsQVVfeXFMT3ZNNjJPTk90ZW5ZYjdQM2pvaWwwRnhqTHo0SndjLVlDb2twbGlET2pSVl9qMXdRZEpMeDJDQjRoQWxfSGl4YXo5R1Rvblo0b0N2dDdNanEzcFBRbmNMM3NhcXlYcmpXREZ2UWQx?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMa0czOEpPZ1RhVVNPQWwtRDI4ckl2RkdjcWs5SVpqV1k2WW1zMU1vV1F2RldQQmZPa3FPNVlmbktoRXdNTlNEaE5HSGk3SHZhX3phZ0FxVUxMV1ZtaXBPcVhRS09vVGV60gFsQVVfeXFMT3ZNNjJPTk90ZW5ZYjdQM2pvaWwwRnhqTHo0Sn"
-    },
-    {
-      "title": "KB증권, 디지털WM 자산 15조 돌파…ISA·연금 성장 견인",
-      "source": "전자신문",
-      "published_kst": "2026-06-11 10:39 KST",
-      "published_ts": 1781141965,
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xWERyTkJNVzdkc19WYk81Ym1mejRaVjJPb0E5T0tYSlVQWXFiaXhEZEtXNnd3ek5CYkpfeW5BSFZleHo0azZ6X25PelJBdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xWERyTkJNVzdkc19WYk81Ym1mejRaVjJPb0E5T0tYSlVQWXFiaXhEZEtXNnd3ek5CYkpfeW5BSFZleHo0azZ6X25PelJBdw?oc=5\" target=\"_blank\">KB증권, 디지털WM 자산 15조 돌파…ISA·연금 성장 견인</a>&nbsp;&nbsp;<font color"
-    },
-    {
-      "title": "KB증권 디지털 자산관리 급성장…WM 자산 15조원 돌파",
-      "source": "글로벌이코노믹",
-      "published_kst": "2026-06-11 10:39 KST",
-      "published_ts": 1781141945,
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTDY4aHpOQXlIM0NpeXRSclZxZE9PMkhyUXhPaVVtUWJkdFRQdlZaUktXY3RJN1RYb2c0NnN0LXgtS1VzdThtRk9rWEtBX3hCYjQ3MmlxRHhmZzVITHhmbmwwVUx0cmtzeVJuZWZOM3pTc25jNkh1M285dDV1MnQ4STRDM0lsbG04?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTDY4aHpOQXlIM0NpeXRSclZxZE9PMkhyUXhPaVVtUWJkdFRQdlZaUktXY3RJN1RYb2c0NnN0LXgtS1VzdThtRk9rWEtBX3hCYjQ3MmlxRHhmZzVITHhmbmwwVUx0cmtzeVJuZWZOM3pTc25jNkh1M285dDV1MnQ4STRDM0lsbG04?oc=5\""
-    },
-    {
-      "title": "KB증권 디지털 WM 자산 15조원 돌파…반년 만에 5조원 '쑥'",
-      "source": "더게이트",
-      "published_kst": "2026-06-11 10:34 KST",
-      "published_ts": 1781141657,
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wVk1Ia0ltTDl6Wm5haE9QMDk1YU9lbjZKVVFmSE9XeUJJQk1sRXlDb29XeXpvWUJRSkJuQ21jOGdyZGRSRm1NMnRHcTgyVUw4MGEydTZQU3c5cE84YlNHU3lsd0Y2TDAz0gFsQVVfeXFMTTBMSmxxTUJQQ2lUVlFuemhWX3lfQm45Tk9XS2Q0eGRocTB0bi1hMVpGZWFfT1RMZ241WEFxWUNnQnZxUTl3aV8tOVlPWUZ5RVFoenpyYmo1RlBFYmNaeEF0OGZ2VTM2SlZIM1NX?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wVk1Ia0ltTDl6Wm5haE9QMDk1YU9lbjZKVVFmSE9XeUJJQk1sRXlDb29XeXpvWUJRSkJuQ21jOGdyZGRSRm1NMnRHcTgyVUw4MGEydTZQU3c5cE84YlNHU3lsd0Y2TDAz0gFsQVVfeXFMTTBMSmxxTUJQQ2lUVlFuemhWX3lfQm45Tk9XS2"
-    },
-    {
-      "title": "KB증권, 디지털 WM 자산 규모 15조원 돌파",
-      "source": "CNB뉴스",
-      "published_kst": "2026-06-11 10:28 KST",
-      "published_ts": 1781141313,
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42NjhxdGZSeVB0dnFSWXpyU0NkRkMyX3JtMU1xejN0UEczVDV2Z3NONDFpM1pUdmlxakxEVjZkX0x4YWVHdF9vNHVBS1dMcEVzVFBDWFpWeENodDNDVVlaQzA1bGY5QURmaVZv?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE42NjhxdGZSeVB0dnFSWXpyU0NkRkMyX3JtMU1xejN0UEczVDV2Z3NONDFpM1pUdmlxakxEVjZkX0x4YWVHdF9vNHVBS1dMcEVzVFBDWFpWeENodDNDVVlaQzA1bGY5QURmaVZv?oc=5\" target=\"_blank\">KB증권, 디지털 WM 자산 규모 15조원"
-    },
-    {
-      "title": "[증권가로수] KB증권/삼성운용/마스턴운용",
-      "source": "대한경제",
-      "published_kst": "2026-06-11 10:27 KST",
-      "published_ts": 1781141256,
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PTUlrUFpCWm53STZ5c0Q2Q1pab09DVmQ4cVVzaVhsbkdRc21pMXNPbHVFQ01keS1Hc3o5cTJ1YTJuZEFFOVpjMXJfY3dLWjJFaUZIc1FnSW9mV0plQVJ2NWNXUUgzc0xnUTZTbFJqam9uaDFz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5PTUlrUFpCWm53STZ5c0Q2Q1pab09DVmQ4cVVzaVhsbkdRc21pMXNPbHVFQ01keS1Hc3o5cTJ1YTJuZEFFOVpjMXJfY3dLWjJFaUZIc1FnSW9mV0plQVJ2NWNXUUgzc0xnUTZTbFJqam9uaDFz?oc=5\" target=\"_blank\">[증권가로수] KB증"
-    },
-    {
-      "title": "KB증권 디지털WM 자산 규모 15조원 돌파",
-      "source": "SBSBiz",
-      "published_kst": "2026-06-11 10:27 KST",
-      "published_ts": 1781141220,
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhU0ZCZURSTHdZMGY1SkhiTnVDMjMtTmpXem0wZGxtSFd0MmN5TThTWm9mNjFqNTlydEdLVzU4Nm9VWkxOMlVlRlJLVEtqMGlkOGxhT3hyMTPSAVhBVV95cUxQYVNGQmVEUkx3WTBmNUpIYk51QzIzLU5qV3ptMGRsbUhXdDJjeU04U1pvZjYxajU5cnRHS1c1ODZvVVpMTjJVZUZSS1RLajBpZDhsYU94cjEz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhU0ZCZURSTHdZMGY1SkhiTnVDMjMtTmpXem0wZGxtSFd0MmN5TThTWm9mNjFqNTlydEdLVzU4Nm9VWkxOMlVlRlJLVEtqMGlkOGxhT3hyMTPSAVhBVV95cUxQYVNGQmVEUkx3WTBmNUpIYk51QzIzLU5qV3ptMGRsbUhXdDJjeU04U1pvZj"
-    },
-    {
-      "title": "KB증권 디지털WM 자산 15조원 돌파…6개월 만에 5조원 증가",
-      "source": "디지털데일리",
-      "published_kst": "2026-06-11 10:26 KST",
-      "published_ts": 1781141201,
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UVmV2bDFpT01YRXlIbFFiUHlJTzdRenJyaG5QV0hxYXg5RU1kLWR2U0FydmRwMnVNZ3ItNTFxUnhYNklKNW9mMmhCYmZ1Zkg2Q0c5WjhpLW8zcldCWVVvcHFyT1o?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UVmV2bDFpT01YRXlIbFFiUHlJTzdRenJyaG5QV0hxYXg5RU1kLWR2U0FydmRwMnVNZ3ItNTFxUnhYNklKNW9mMmhCYmZ1Zkg2Q0c5WjhpLW8zcldCWVVvcHFyT1o?oc=5\" target=\"_blank\">KB증권 디지털WM 자산 15조원 돌파…6개월 만에 5조원"
-    },
-    {
-      "title": "KB증권, 디지털WM 자산 15조원 돌파…6개월만에 5조원 성장",
-      "source": "v.daum.net",
-      "published_kst": "2026-06-11 10:26 KST",
-      "published_ts": 1781141193,
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jQmRqaUF6cnlyRmdQSU1GZ0JsTmRxeFNZM191emxQeVc3ZVVOSjRyZU1DRFRWSHd6eXRKUVd1QzNrQnZ1aFhKNllGRWZDWWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jQmRqaUF6cnlyRmdQSU1GZ0JsTmRxeFNZM191emxQeVc3ZVVOSjRyZU1DRFRWSHd6eXRKUVd1QzNrQnZ1aFhKNllGRWZDWWc?oc=5\" target=\"_blank\">KB증권, 디지털WM 자산 15조원 돌파…6개월만에 5조원 성장</a>&nbsp;&nbsp;<font col"
     }
   ]
 }
