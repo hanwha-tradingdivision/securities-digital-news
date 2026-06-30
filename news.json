@@ -1,14 +1,382 @@
 {
   "query": "증권 디지털 OR STO OR 토큰증권 OR 토큰화 OR 디지털자산 OR 디지털채권",
-  "generated_kst": "2026-06-29 09:17 KST",
+  "generated_kst": "2026-06-30 09:15 KST",
   "items": [
     {
-      "title": "제도화 전에 인프라 짠다...금융권 '디지털자산 동맹' 확산",
-      "source": "디지털투데이",
-      "published_kst": "2026-06-29 08:50 KST",
-      "published_ts": 1782690631,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHS2JueHI5SlNUQkY1SVRvNXBXeVVDd0dnbTI1VDFiQWxTT2JWUWR0UjdDWUFhWEhNTlF6aUhLV1JUU1dQZ2lJb25kRmIxdy1OOU5lZXk5UjZWNEpfekhHUWJ3ek1MR3dyVXA2NFg2TDJ0QkU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBHS2JueHI5SlNUQkY1SVRvNXBXeVVDd0dnbTI1VDFiQWxTT2JWUWR0UjdDWUFhWEhNTlF6aUhLV1JUU1dQZ2lJb25kRmIxdy1OOU5lZXk5UjZWNEpfekhHUWJ3ek1MR3dyVXA2NFg2TDJ0QkU?oc=5\" target=\"_blank\">제도화 전에 인프라 짠"
+      "title": "[STO 시대]⑦ 신한證, 발행부터 유통까지 밸류체인…글로벌 확장",
+      "source": "뉴스1",
+      "published_kst": "2026-06-30 06:00 KST",
+      "published_ts": 1782766800,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nMGtXODBmTl83NTBscnA0TzB4cFVVODNwUUZ4a3RVaWp6Z0x3ZzF3aTNBQTlTUWppOHdzUkgyNW9meFJBQUNuZVRNRHNQS201WHhNaTNoU1otSm5VdUVJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nMGtXODBmTl83NTBscnA0TzB4cFVVODNwUUZ4a3RVaWp6Z0x3ZzF3aTNBQTlTUWppOHdzUkgyNW9meFJBQUNuZVRNRHNQS201WHhNaTNoU1otSm5VdUVJ?oc=5\" target=\"_blank\">[STO 시대]⑦ 신한證, 발행부터 유통까지 밸류체인…글로벌 확장</a"
+    },
+    {
+      "title": "혁신금융 STOP…토큰증권 스타트업 문닫는다",
+      "source": "네이트",
+      "published_kst": "2026-06-30 04:14 KST",
+      "published_ts": 1782760440,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LX2YyY182QWlhdXI3SVBvTnpXVTZObll4cWxlbjRYYTViT0tLYThPbzBaRERDUG5vU2tkU3BDU3F0NHBEcWFKbVY1VEhBYTVZdmpB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LX2YyY182QWlhdXI3SVBvTnpXVTZObll4cWxlbjRYYTViT0tLYThPbzBaRERDUG5vU2tkU3BDU3F0NHBEcWFKbVY1VEhBYTVZdmpB?oc=5\" target=\"_blank\">혁신금융 STOP…토큰증권 스타트업 문닫는다</a>&nbsp;&nbsp;<font color=\"#6"
+    },
+    {
+      "title": "[인터뷰] 제니스 대표 \"토큰화 정형증권, 10년 뒤 시총 상위권 차지...비트코인 1위 장담 못해\"",
+      "source": "디지털애셋",
+      "published_kst": "2026-06-30 02:01 KST",
+      "published_ts": 1782752466,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BZjRPUnkxbVh4OWZvaDZpaG90NEJZaEdFR3RIRng3TndVaWM1T2VDRnZiRnB6Smkwc0dsanl5VTJ6UWRYSDRxSElGLUp3d180T0xHa3lUdThGNE9XazNIY1ZfZnlDZXBVUGFMNjBLS3FZQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1BZjRPUnkxbVh4OWZvaDZpaG90NEJZaEdFR3RIRng3TndVaWM1T2VDRnZiRnB6Smkwc0dsanl5VTJ6UWRYSDRxSElGLUp3d180T0xHa3lUdThGNE9XazNIY1ZfZnlDZXBVUGFMNjBLS3FZQQ?oc=5\" target=\"_blank\">[인터뷰] 제니스 대표 "
+    },
+    {
+      "title": "키움증권, 빗썸 지분투자 검토…증권사 디지털자산 생태계 구축 '속도'",
+      "source": "아시아타임즈",
+      "published_kst": "2026-06-29 22:28 KST",
+      "published_ts": 1782739680,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5obWJsNjQ4VkRSTFRRR3hQX1U2MTdLek02RzdORjJvbGV3aW02SmhiQUFDY2JPYkJQVWdLTFZ5TlNyT1RiV2NQbGxiLWRxQzJncTcxY3R2T3NJcVJKbVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5obWJsNjQ4VkRSTFRRR3hQX1U2MTdLek02RzdORjJvbGV3aW02SmhiQUFDY2JPYkJQVWdLTFZ5TlNyT1RiV2NQbGxiLWRxQzJncTcxY3R2T3NJcVJKbVE?oc=5\" target=\"_blank\">키움증권, 빗썸 지분투자 검토…증권사 디지털자산 생태계 구축 '속도'</"
+    },
+    {
+      "title": "키움證, 빗썸 지분인수 검토… 가상자산 사업 나서나",
+      "source": "파이낸셜뉴스",
+      "published_kst": "2026-06-29 18:14 KST",
+      "published_ts": 1782724468,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WQlp4NGJUa2JDY0hLaE1ZVFBnSXhxUndBdDM4RWRrN0U0RXRDSlJoMTRPUTdWS1RRc1hVU3VLZkItTkZicTIzOFMyLXpIR2YtaFlBU2YyWFRuUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WQlp4NGJUa2JDY0hLaE1ZVFBnSXhxUndBdDM4RWRrN0U0RXRDSlJoMTRPUTdWS1RRc1hVU3VLZkItTkZicTIzOFMyLXpIR2YtaFlBU2YyWFRuUQ?oc=5\" target=\"_blank\">키움證, 빗썸 지분인수 검토… 가상자산 사업 나서나</a>&nbsp;&nbsp;<"
+    },
+    {
+      "title": "미래에셋證, 투자 플랫폼 'MAPS' 공개",
+      "source": "한국경제",
+      "published_kst": "2026-06-29 17:42 KST",
+      "published_ts": 1782722541,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aWGNrS1ZVV1lzU3ZwZDJjZDRtWUxYRXpaMzVIZG10Q3h0cnhFcTZRUjkxQUNPWUtNa19zejdUMjNRVW5GUjFrN2FpaUkyc25GTUxCRVRZbHFjd9IBVEFVX3lxTE5tRTZuY2JFVTlDNkIxQzQzWHV3SmExdzRUTkxhYXY0STJEYW1RSThiclZLal83MFZtSFhpem5lVGFGVmluYnFkZkRxdkc4TGtwX0xSVw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aWGNrS1ZVV1lzU3ZwZDJjZDRtWUxYRXpaMzVIZG10Q3h0cnhFcTZRUjkxQUNPWUtNa19zejdUMjNRVW5GUjFrN2FpaUkyc25GTUxCRVRZbHFjd9IBVEFVX3lxTE5tRTZuY2JFVTlDNkIxQzQzWHV3SmExdzRUTkxhYXY0STJEYW1RSThicl"
+    },
+    {
+      "title": "키움증권, 빗썸 지분 인수설에 \"디지털자산 사업 기반 확보 방안 검토\"",
+      "source": "현대경제신문",
+      "published_kst": "2026-06-29 16:57 KST",
+      "published_ts": 1782719839,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zMkJkVDVST1NKUDZlRGVGZlRPMkpMeTVVa0VQS3Vvc0lRWkUtT3VoSDFnQndHN2hsUTJ0TkNKd01oMmx4XzBOWG92bU5JQzhuS2QwemhobmxYdnlPR0hrYjJ1WTM4SzQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zMkJkVDVST1NKUDZlRGVGZlRPMkpMeTVVa0VQS3Vvc0lRWkUtT3VoSDFnQndHN2hsUTJ0TkNKd01oMmx4XzBOWG92bU5JQzhuS2QwemhobmxYdnlPR0hrYjJ1WTM4SzQ?oc=5\" target=\"_blank\">키움증권, 빗썸 지분 인수설에 \"디지털자산 사업 기"
+    },
+    {
+      "title": "금융권의 가상자산 선점 경쟁...키움증권도 빗썸 '눈독'",
+      "source": "테크M",
+      "published_kst": "2026-06-29 16:46 KST",
+      "published_ts": 1782719190,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VV2VwVFZFMzJLUUd2LWsyY2syYkdvT2VwSDFuV0V0QW4zTEdzMmE4Y1d3S0c0YVR2bFY4MnFEN05fSmxxbWFzWEVRSmtEd2Y4QXVkekVTa000cm9uOXRvcTYwNnJXd9IBakFVX3lxTE5wWkp1OUpRZ1ZSN05TeDBadHJoWmxzUURjcnVQdWV0ZC01eldDamFWVi16RWJhOVk0dnNsS0NPR2xDVDIwOVBOWVMtSE0xMXlqUXRrZnpWa0pjQWs4N0VVck04RU1rbkV4LXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VV2VwVFZFMzJLUUd2LWsyY2syYkdvT2VwSDFuV0V0QW4zTEdzMmE4Y1d3S0c0YVR2bFY4MnFEN05fSmxxbWFzWEVRSmtEd2Y4QXVkekVTa000cm9uOXRvcTYwNnJXd9IBakFVX3lxTE5wWkp1OUpRZ1ZSN05TeDBadHJoWmxzUURjcnVQdW"
+    },
+    {
+      "title": "키움증권 \"빗썸 지분 인수 확정된 사항 없어, 다양한 방안 검토 중\"",
+      "source": "비즈니스포스트",
+      "published_kst": "2026-06-29 16:28 KST",
+      "published_ts": 1782718124,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Kdkg1RnpyZW5RcEI3TS1MRDFoR3ZqLWVoVFVnMjBSRmJJdV80T1Rld3Z1UHBQUmc5akNJVnlWczk1S2s0ZkdVU3ZWRWliX2lHdnR1a3R4WGNzTVM5Z1V6YlBOd0Vzb2VHdVh0ZGRjTDlvSmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5Kdkg1RnpyZW5RcEI3TS1MRDFoR3ZqLWVoVFVnMjBSRmJJdV80T1Rld3Z1UHBQUmc5akNJVnlWczk1S2s0ZkdVU3ZWRWliX2lHdnR1a3R4WGNzTVM5Z1V6YlBOd0Vzb2VHdVh0ZGRjTDlvSmc?oc=5\" target=\"_blank\">키움증권 \"빗썸 지분 "
+    },
+    {
+      "title": "키움증권 \"빗썸 지분 인수설…확정된 사항 없어\"",
+      "source": "서울파이낸스",
+      "published_kst": "2026-06-29 16:22 KST",
+      "published_ts": 1782717773,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wMkVTZi1JSnhwU1dRMGlvYVdtMHdvMUZyOFYwb0dBTXNva2VaMF9HTXJqR0RqeGd4ZkxUdTdKSXh0U0V2c3ZuLTlDdDc3UUVvOVQ2ZkZodDRvWEhMUHFyb2N6a0d1enN0Q1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9wMkVTZi1JSnhwU1dRMGlvYVdtMHdvMUZyOFYwb0dBTXNva2VaMF9HTXJqR0RqeGd4ZkxUdTdKSXh0U0V2c3ZuLTlDdDc3UUVvOVQ2ZkZodDRvWEhMUHFyb2N6a0d1enN0Q1E?oc=5\" target=\"_blank\">키움증권 \"빗썸 지분 인수설…확정된 사항 없"
+    },
+    {
+      "title": "STO 앞두고 키움증권 '빗썸' 지분 검토",
+      "source": "세이프머니",
+      "published_kst": "2026-06-29 16:22 KST",
+      "published_ts": 1782717764,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMM0xsTzZ0Zm5jQzJKa29qcTZiZV9MVEFlM2JKN2JydWxJdEJSZlMxd2NnM1pjVER1OEljeEk5Y1lTVEtOZ042dW5zeVZQb3Nneks4d20zeThQZEU2dmhUU2VNeExRR0w1b2sxVGJR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBMM0xsTzZ0Zm5jQzJKa29qcTZiZV9MVEFlM2JKN2JydWxJdEJSZlMxd2NnM1pjVER1OEljeEk5Y1lTVEtOZ042dW5zeVZQb3Nneks4d20zeThQZEU2dmhUU2VNeExRR0w1b2sxVGJR?oc=5\" target=\"_blank\">STO 앞두고 키움증권 '빗썸' 지"
+    },
+    {
+      "title": "키움증권 “빗썸 지분 인수 확정 아냐…디지털자산 사업 검토 단계”",
+      "source": "ppss.kr",
+      "published_kst": "2026-06-29 16:05 KST",
+      "published_ts": 1782716713,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83VWdxNGdFMERpZ3RyWXVsTTlwazNiNUpyNzdFQS1tb3JUa2hQX0JUZUYtNXhJcWctVmRLdHNvZTFPSklpQzlqbGctVHllWHdaYVoyVXdpc29xRlVfX0RuTXFTeE0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE83VWdxNGdFMERpZ3RyWXVsTTlwazNiNUpyNzdFQS1tb3JUa2hQX0JUZUYtNXhJcWctVmRLdHNvZTFPSklpQzlqbGctVHllWHdaYVoyVXdpc29xRlVfX0RuTXFTeE0?oc=5\" target=\"_blank\">키움증권 “빗썸 지분 인수 확정 아냐…디지털자산 사업 검토"
+    },
+    {
+      "title": "키움증권, 빗썸 지분 투자 검토…\"확정 시 공시\"",
+      "source": "연합뉴스TV",
+      "published_kst": "2026-06-29 16:02 KST",
+      "published_ts": 1782716560,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTDBfOEEzQkhwdl9rQmowMG1FeU1OMzlxNnZpd0cxRGNMZXBCSWhnUmRVSUhjT2hUZmR4XzVtcXNhdF9SSV9uWVM4WEJMNDNpc3E1OU9fR3FtOWxLUEZVQ2tmbW9LNVk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTDBfOEEzQkhwdl9rQmowMG1FeU1OMzlxNnZpd0cxRGNMZXBCSWhnUmRVSUhjT2hUZmR4XzVtcXNhdF9SSV9uWVM4WEJMNDNpc3E1OU9fR3FtOWxLUEZVQ2tmbW9LNVk?oc=5\" target=\"_blank\">키움증권, 빗썸 지분 투자 검토…\"확정 시 공시\"<"
+    },
+    {
+      "title": "키움증권, 빗썸 지분 인수 제안…\"다양한 파트너십 논의\"",
+      "source": "네이트",
+      "published_kst": "2026-06-29 15:57 KST",
+      "published_ts": 1782716220,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WWi0wOEFYOHVkd2lsTFIxc1ZIUHFtSGlWV0hpaXRiODdXN1RTWENNNWJZYk9TTzFwbXo2V1N5YWpGQ25kNGxVQzFyeUI4cDFaWDBz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WWi0wOEFYOHVkd2lsTFIxc1ZIUHFtSGlWV0hpaXRiODdXN1RTWENNNWJZYk9TTzFwbXo2V1N5YWpGQ25kNGxVQzFyeUI4cDFaWDBz?oc=5\" target=\"_blank\">키움증권, 빗썸 지분 인수 제안…\"다양한 파트너십 논의\"</a>&nbsp;&nbsp;<font co"
+    },
+    {
+      "title": "키움증권, 빗썸 지분인수 추진설…\"디지털자산 사업기반 확보 위한 다양한 방안 검토 단계\"",
+      "source": "한국금융신문",
+      "published_kst": "2026-06-29 15:55 KST",
+      "published_ts": 1782716157,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1MFd5UWxJS1BqZ1FpU2RhNzNrV2FyQzJzOG1ESGhqdlBpVHhrbXV0SDBRSElrdU5Qb1JXdEItTTlycGVRcGZINTBFQWg1ZDBEaHZKd2VsMWlLcEM1bUZGQTROb0EwVkRodk44dW5hUjJIS0FJVEY0ZUhVVWk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB1MFd5UWxJS1BqZ1FpU2RhNzNrV2FyQzJzOG1ESGhqdlBpVHhrbXV0SDBRSElrdU5Qb1JXdEItTTlycGVRcGZINTBFQWg1ZDBEaHZKd2VsMWlLcEM1bUZGQTROb0EwVkRodk44dW5hUjJIS0FJVEY0ZUhVVWk?oc=5\" target=\"_blank\">"
+    },
+    {
+      "title": "“토큰증권은 화면이 아니라 ‘자산’에서 시작됩니다”[심준식이 만난 블록체인 히어로즈]",
+      "source": "부산일보",
+      "published_kst": "2026-06-29 15:50 KST",
+      "published_ts": 1782715837,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zTkpUN0pRc2k3QTI2WFRiNmlNOGJpNEhqQTVLUnZtMWRGUndQaHBCOTFwaE0wWF9Bb3lkQ01DajNEWHBtN0gwdExMSVRvWDU3aDlCc1MxX1B0MG8zMjZwS2hmdzE2SjlSeG9TUnVtRWVaM3VW?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9zTkpUN0pRc2k3QTI2WFRiNmlNOGJpNEhqQTVLUnZtMWRGUndQaHBCOTFwaE0wWF9Bb3lkQ01DajNEWHBtN0gwdExMSVRvWDU3aDlCc1MxX1B0MG8zMjZwS2hmdzE2SjlSeG9TUnVtRWVaM3VW?oc=5\" target=\"_blank\">“토큰증권은 화면이 "
+    },
+    {
+      "title": "키움증권, 빗썸 지분 투자 검토…\"확정 시 공시\"",
+      "source": "브릿지경제",
+      "published_kst": "2026-06-29 15:37 KST",
+      "published_ts": 1782715020,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qRExjdWFJNXp2ZHhEdXNiTFJvUjJYMC1NX25wSl84VDI3a0VfUzdldUR0azlRTGJxbjY2cTlwZW5pYjRKLU9jYWVrSnpaVXNDdVd4M2JIbC1iZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qRExjdWFJNXp2ZHhEdXNiTFJvUjJYMC1NX25wSl84VDI3a0VfUzdldUR0azlRTGJxbjY2cTlwZW5pYjRKLU9jYWVrSnpaVXNDdVd4M2JIbC1iZw?oc=5\" target=\"_blank\">키움증권, 빗썸 지분 투자 검토…\"확정 시 공시\"</a>&nbsp;&nbsp;<f"
+    },
+    {
+      "title": "키움증권, 빗썸 지분투자 검토…금융권 '원화마켓 확보전' [크립토브리핑]",
+      "source": "파이낸셜뉴스",
+      "published_kst": "2026-06-29 15:25 KST",
+      "published_ts": 1782714322,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wbzRBaWxfUFlDMHVqM3RnNGUxdG5EUmMyaHM5b2ZReGcwVzc4dmpQd1hzODJqc3BRV0JObGNRbXhfQ01oVGgtWkJUbm90MjFWYmFwc21FWUhRQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wbzRBaWxfUFlDMHVqM3RnNGUxdG5EUmMyaHM5b2ZReGcwVzc4dmpQd1hzODJqc3BRV0JObGNRbXhfQ01oVGgtWkJUbm90MjFWYmFwc21FWUhRQQ?oc=5\" target=\"_blank\">키움증권, 빗썸 지분투자 검토…금융권 '원화마켓 확보전' [크립토브리핑]</a>&"
+    },
+    {
+      "title": "키움증권, 빗썸 인수하나… “디지털자산 사업 검토 중”(종합)",
+      "source": "블록미디어",
+      "published_kst": "2026-06-29 15:11 KST",
+      "published_ts": 1782713460,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaT2hBWWRyb2FnTHFUSWtGcmtTZnBEQzJyUTh5V0l0bC0wTlE1VG5ZWVVwNVFiQkRlQ0xUZG15YnQ2VU84cDZBcW1fdExUU1dOcE5MTUhRQTY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaT2hBWWRyb2FnTHFUSWtGcmtTZnBEQzJyUTh5V0l0bC0wTlE1VG5ZWVVwNVFiQkRlQ0xUZG15YnQ2VU84cDZBcW1fdExUU1dOcE5MTUhRQTY?oc=5\" target=\"_blank\">키움증권, 빗썸 인수하나… “디지털자산 사업 검토 중”(종합)</a>&nbsp;&nbs"
+    },
+    {
+      "title": "빗썸도 금융권과 '합종연횡 움직임…키움증권 손 잡나",
+      "source": "v.daum.net",
+      "published_kst": "2026-06-29 15:09 KST",
+      "published_ts": 1782713340,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yMUdydllpak5jcXI1WnBEWE5tS3k2Tzk2MnBzVjZ2T1pLdHhxRll6Q1h4Ri1yWnRRNmpWTE9RSzBBR0gzZjdERFR3Tmc4Mk0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yMUdydllpak5jcXI1WnBEWE5tS3k2Tzk2MnBzVjZ2T1pLdHhxRll6Q1h4Ri1yWnRRNmpWTE9RSzBBR0gzZjdERFR3Tmc4Mk0?oc=5\" target=\"_blank\">빗썸도 금융권과 '합종연횡 움직임…키움증권 손 잡나</a>&nbsp;&nbsp;<font color=\"#6f"
+    },
+    {
+      "title": "키움증권, 빗썸 지분인수?…\"디지털자산 사업기반 검토단계\"(종합)",
+      "source": "네이트",
+      "published_kst": "2026-06-29 15:04 KST",
+      "published_ts": 1782713040,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xZ1ZHZ1FpZ3U0WmtOYzNsQlp6WUEwWHdrV3d1eEF5Mm5RN1dpNVdZZlprRmh4d2k2amhCaTc3QzhHeXBfU3lVNV9OX1lsT2wycDNF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xZ1ZHZ1FpZ3U0WmtOYzNsQlp6WUEwWHdrV3d1eEF5Mm5RN1dpNVdZZlprRmh4d2k2amhCaTc3QzhHeXBfU3lVNV9OX1lsT2wycDNF?oc=5\" target=\"_blank\">키움증권, 빗썸 지분인수?…\"디지털자산 사업기반 검토단계\"(종합)</a>&nbsp;&nbsp;<fo"
+    },
+    {
+      "title": "키움證 빗썸 지분 인수 제안…빗썸, “구체적 논의는 아직”",
+      "source": "매일경제 마켓",
+      "published_kst": "2026-06-29 14:52 KST",
+      "published_ts": 1782712346,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xbWRUR1NNTEFlblpkckhSWk9QTndPMzVoZDY5bmFnLU95OUZ2NzFjZWRuc0dHVDJvdGRqWWc1eGlpbndOWFl6Nk1vUGNHSk5XV2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xbWRUR1NNTEFlblpkckhSWk9QTndPMzVoZDY5bmFnLU95OUZ2NzFjZWRuc0dHVDJvdGRqWWc1eGlpbndOWFl6Nk1vUGNHSk5XV2c?oc=5\" target=\"_blank\">키움證 빗썸 지분 인수 제안…빗썸, “구체적 논의는 아직”</a>&nbsp;&nbsp;<font co"
+    },
+    {
+      "title": "빗썸 만나는 키움증권…금융권 디지털자산 거래소 투자 잇따라",
+      "source": "네이트",
+      "published_kst": "2026-06-29 14:28 KST",
+      "published_ts": 1782710880,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZWlBoNTZ1UHFEeWE5aWMwVUJhNEp3ckpUSGNZYWt5b1hqR3NpeXVLRHBnQVl4NGNqZ0xiZzR5SjBUUkR4Z3J5SVhNeGdPYzYtc2Ew?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZWlBoNTZ1UHFEeWE5aWMwVUJhNEp3ckpUSGNZYWt5b1hqR3NpeXVLRHBnQVl4NGNqZ0xiZzR5SjBUUkR4Z3J5SVhNeGdPYzYtc2Ew?oc=5\" target=\"_blank\">빗썸 만나는 키움증권…금융권 디지털자산 거래소 투자 잇따라</a>&nbsp;&nbsp;<font c"
+    },
+    {
+      "title": "키움증권, 빗썸 지분 인수 추진…증권사 '가상자산 거래소 확보전'",
+      "source": "뉴스1",
+      "published_kst": "2026-06-29 14:16 KST",
+      "published_ts": 1782710208,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JSzJxbnJnSTUxUjJfOGdVN1RHNkd2QkgxTzhHb2Vmd3JwNlV3OFJ3Z1hYVy16bHR0emU5SWNDXzdkYmZobmxmVDRranNydjNPTmJLM0I2VUhIZ3hnUUEw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JSzJxbnJnSTUxUjJfOGdVN1RHNkd2QkgxTzhHb2Vmd3JwNlV3OFJ3Z1hYVy16bHR0emU5SWNDXzdkYmZobmxmVDRranNydjNPTmJLM0I2VUhIZ3hnUUEw?oc=5\" target=\"_blank\">키움증권, 빗썸 지분 인수 추진…증권사 '가상자산 거래소 확보전'</a"
+    },
+    {
+      "title": "키움증권, 빗썸 지분 투자 검토…증권사 '디지털자산 선점' 경쟁",
+      "source": "네이트",
+      "published_kst": "2026-06-29 14:11 KST",
+      "published_ts": 1782709860,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBENnRzQndWS2FRd3VKV1I0MFlqb1h2NC1Rb05zQmdJdWVGZkVtN1E5NTRxVlU1SnVkYmVxa3dBTEZoUWF5QWNFMDBMSXBDeEtUNGtB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBENnRzQndWS2FRd3VKV1I0MFlqb1h2NC1Rb05zQmdJdWVGZkVtN1E5NTRxVlU1SnVkYmVxa3dBTEZoUWF5QWNFMDBMSXBDeEtUNGtB?oc=5\" target=\"_blank\">키움증권, 빗썸 지분 투자 검토…증권사 '디지털자산 선점' 경쟁</a>&nbsp;&nbsp;<fon"
+    },
+    {
+      "title": "키움증권, 빗썸 지분 투자 검토…증권사 디지털자산 선점 경쟁",
+      "source": "아주경제",
+      "published_kst": "2026-06-29 14:10 KST",
+      "published_ts": 1782709841,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwUGNwWVFzbjVnWTZjd1RGNFZYT1hxRDVIUHN6X2NIcDYzeDViclJBVDBiTWxWN0dGdDJjbk13cmg4aUlYV1JWbmVhRnc0NkpGY05YeVpja2U2d9IBWEFVX3lxTE1sOXlIMUtlTnJMcEJBcmNXR05HSS1idUFLbVhjb0ZqalZET2lHUVMyS3c5aHpNdm1WNy15eFNodE5qX2d1VVhqanNsNzNEaWl0bDhWcThleHM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwUGNwWVFzbjVnWTZjd1RGNFZYT1hxRDVIUHN6X2NIcDYzeDViclJBVDBiTWxWN0dGdDJjbk13cmg4aUlYV1JWbmVhRnc0NkpGY05YeVpja2U2d9IBWEFVX3lxTE1sOXlIMUtlTnJMcEJBcmNXR05HSS1idUFLbVhjb0ZqalZET2lHUVMyS3"
+    },
+    {
+      "title": "키움증권, 빗썸 지분투자 검토…디지털자산 생태계 구축 시동",
+      "source": "mstoday.co.kr",
+      "published_kst": "2026-06-29 14:07 KST",
+      "published_ts": 1782709664,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxVUlDOHRNMkNpQ3J4RG1hdlJKcmlXSERMdGxkUWx0N3U4Vl9yWmllbkhuU0dRLVlHZEZuVV85ZVBPbUJPb3ExRnA3VzJPRVZSeTFlWTJKU084UjQxNUl3TXl1QW9JbUUzcUI3ZzVR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAxVUlDOHRNMkNpQ3J4RG1hdlJKcmlXSERMdGxkUWx0N3U4Vl9yWmllbkhuU0dRLVlHZEZuVV85ZVBPbUJPb3ExRnA3VzJPRVZSeTFlWTJKU084UjQxNUl3TXl1QW9JbUUzcUI3ZzVR?oc=5\" target=\"_blank\">키움증권, 빗썸 지분투자 검토…디지"
+    },
+    {
+      "title": "증권사들 거래소 품기 경쟁…키움도 빗썸 눈독, 스테이블코인 전쟁 시작",
+      "source": "네이트",
+      "published_kst": "2026-06-29 14:01 KST",
+      "published_ts": 1782709260,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjc1lwSkwzd2dzYncxNmlFOG96Wk5iYVZCbU1ibmF0WG5qQ1NfZUo2ckFUM182dXlNSndXaXRYMlB3WmxISjVFbHdsNEJRVFpCN0RB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjc1lwSkwzd2dzYncxNmlFOG96Wk5iYVZCbU1ibmF0WG5qQ1NfZUo2ckFUM182dXlNSndXaXRYMlB3WmxISjVFbHdsNEJRVFpCN0RB?oc=5\" target=\"_blank\">증권사들 거래소 품기 경쟁…키움도 빗썸 눈독, 스테이블코인 전쟁 시작</a>&nbsp;&nbsp;<"
+    },
+    {
+      "title": "키움증권, 빗썸 지분 인수설 '솔솔'...증권-가상자산 협업 속도",
+      "source": "글로벌이코노믹",
+      "published_kst": "2026-06-29 13:55 KST",
+      "published_ts": 1782708919,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2hVdjZnVERzaVpQaGRHNFZWZmpZLXRnZ1lIUjd5WG15Y0dTSkNjejg0dUNGVVg3Ymc2X0xSWGd0UDFLeDZuMDJtWDFTS2REOE5KU0U0S0JPY00tWlRTM2FDY3pNTHZjQ2FMemI5NWRBckVKdS1COXdiYzF6ZjNFaE1yVzljMzhL?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2hVdjZnVERzaVpQaGRHNFZWZmpZLXRnZ1lIUjd5WG15Y0dTSkNjejg0dUNGVVg3Ymc2X0xSWGd0UDFLeDZuMDJtWDFTS2REOE5KU0U0S0JPY00tWlRTM2FDY3pNTHZjQ2FMemI5NWRBckVKdS1COXdiYzF6ZjNFaE1yVzljMzhL?oc=5\""
+    },
+    {
+      "title": "키움-빗썸 '혈맹' 맺나…유상증자 통한 지분 참여 논의中",
+      "source": "뉴시스",
+      "published_kst": "2026-06-29 13:51 KST",
+      "published_ts": 1782708705,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DdjEzZXNxamp4Zkp6cmdReUJvRTNtNkpINDFYNlZ4Q1MxaExDOWdFZkRuODRlUUw1WkdXYWx5ZnZvUXUwOWhCVHBwR0ZaMWx3bmx6OGJ0RXVzai0xd1ZTWdIBeEFVX3lxTFBsMEdkWXBTZlZYdzZiQS1sVkx6MjlONC1GNFFKVE9iS2NmZUtRT3VSaHUwXzVYNFYtV3FZVUlaXzlNZkdlamN0RjVybU1iTWt3enhZUGNGdk1aWWFEOFFnbkMxczJxT09FaWItQXYxTXlrSFVidDRMNA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DdjEzZXNxamp4Zkp6cmdReUJvRTNtNkpINDFYNlZ4Q1MxaExDOWdFZkRuODRlUUw1WkdXYWx5ZnZvUXUwOWhCVHBwR0ZaMWx3bmx6OGJ0RXVzai0xd1ZTWdIBeEFVX3lxTFBsMEdkWXBTZlZYdzZiQS1sVkx6MjlONC1GNFFKVE9iS2NmZU"
+    },
+    {
+      "title": "“AI·디지털 혁신으로 내일의 가치 만든다”…현대차증권, 2026 지속가능경영 보고서 공개",
+      "source": "뉴스로드",
+      "published_kst": "2026-06-29 13:50 KST",
+      "published_ts": 1782708614,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83RC16NVFBSjJQcGR6Ni1xb2locjJWaE5BTlhGMkU0NWdPSjJ3Uzk3VmQyb3FTZGRkcFJoTU5Ub01NbWhJVlZhSzBkRmlwczAydzkwVURsNlhEQUFHXy1wSXNKeHZYOGtYcjkw0gFvQVVfeXFMT3hvUDB1VjNkeG5UZ01zTU5OOUxBT3J1Q1BhZDRVVUp3a1FyTEhVak5xM0ZrYkc5ejA5YTU0YjI0N3hnbGNTelg0SlRPN1lUYlotMTlzTXpHN0RXRWhZSEVMOGwyM2ZsYzhDZHRUYnZr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE83RC16NVFBSjJQcGR6Ni1xb2locjJWaE5BTlhGMkU0NWdPSjJ3Uzk3VmQyb3FTZGRkcFJoTU5Ub01NbWhJVlZhSzBkRmlwczAydzkwVURsNlhEQUFHXy1wSXNKeHZYOGtYcjkw0gFvQVVfeXFMT3hvUDB1VjNkeG5UZ01zTU5OOUxBT3J1Q1"
+    },
+    {
+      "title": "키움증권, 빗썸 지분 투자 검토…증권사·거래소 협력 확대",
+      "source": "전자신문",
+      "published_kst": "2026-06-29 13:40 KST",
+      "published_ts": 1782708037,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NYlZ6RGNiR2QwYmtEdFJUdnprVGh2WFlDcjFjY0xfYmVvbFpzTjB5MzBxZ1JqZUFST2dJN0psNHppQlhTRjNOaVpLWHRzUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NYlZ6RGNiR2QwYmtEdFJUdnprVGh2WFlDcjFjY0xfYmVvbFpzTjB5MzBxZ1JqZUFST2dJN0psNHppQlhTRjNOaVpLWHRzUQ?oc=5\" target=\"_blank\">키움증권, 빗썸 지분 투자 검토…증권사·거래소 협력 확대</a>&nbsp;&nbsp;<font color=\"#"
+    },
+    {
+      "title": "키움증권, 빗썸 지분 인수 추진…STO·스테이블 코인 제도화 대응",
+      "source": "중앙이코노미뉴스",
+      "published_kst": "2026-06-29 13:37 KST",
+      "published_ts": 1782707857,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DU1JScjBTbkZLVnc2blpLYnVrNS1MNDlmeGFmNnB2V25uX0tGc1ktdkJMZTJzRjRPeWU2bkdXVVVxTEwyX0pXdFRWQXhiNWVmWmhGaExnWEVnOXhNNGJqUlJEeGNiVDRMTlZhM0RPaEwtZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5DU1JScjBTbkZLVnc2blpLYnVrNS1MNDlmeGFmNnB2V25uX0tGc1ktdkJMZTJzRjRPeWU2bkdXVVVxTEwyX0pXdFRWQXhiNWVmWmhGaExnWEVnOXhNNGJqUlJEeGNiVDRMTlZhM0RPaEwtZw?oc=5\" target=\"_blank\">키움증권, 빗썸 지분 인"
+    },
+    {
+      "title": "키움증권, 왜 빗썸을 노리나…'가상자산 왕좌' 승부수",
+      "source": "세종의소리",
+      "published_kst": "2026-06-29 13:31 KST",
+      "published_ts": 1782707509,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11ZUw0d293ZGZlalg5VDFudEI3ZkhPbWR6Wi1EMEVCWUFHTDBVRmpVWEZ5ckcyYjVtdllZTXg0eWtBWjJsa3AyYnA4bk1Xc2F0dll1ZElsd2piS0N5dVhOVXdJb1Q4alU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11ZUw0d293ZGZlalg5VDFudEI3ZkhPbWR6Wi1EMEVCWUFHTDBVRmpVWEZ5ckcyYjVtdllZTXg0eWtBWjJsa3AyYnA4bk1Xc2F0dll1ZElsd2piS0N5dVhOVXdJb1Q4alU?oc=5\" target=\"_blank\">키움증권, 왜 빗썸을 노리나…'가상자산 왕좌' 승부"
+    },
+    {
+      "title": "\"주식부터 코인까지\" 미래에셋, 글로벌 플랫폼 공개",
+      "source": "경제타임스",
+      "published_kst": "2026-06-29 13:30 KST",
+      "published_ts": 1782707400,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwenNvOXBRR3RsbW5fb2NXMWx3allaUG1UYzdSZEQzRlM2ZFhtaFlLa09IdmJoa0dzMGJzckRtWS01eFJveE1TcEEzaXFUUFhjYXhJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwenNvOXBRR3RsbW5fb2NXMWx3allaUG1UYzdSZEQzRlM2ZFhtaFlLa09IdmJoa0dzMGJzckRtWS01eFJveE1TcEEzaXFUUFhjYXhJ?oc=5\" target=\"_blank\">\"주식부터 코인까지\" 미래에셋, 글로벌 플랫폼 공개</a>&nbsp;&nbsp;<font color"
+    },
+    {
+      "title": "[넥스블록]키움증권, 빗썸 지분 투자 논의…금융권 거래소 확보전 가열",
+      "source": "이투데이",
+      "published_kst": "2026-06-29 13:09 KST",
+      "published_ts": 1782706140,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oWm5NdlVZSGZ5XzhjSXJCM1dBTWJPSkVLNWxBWlF5T2NLVF9mazQ0bGlTdXdBMTczTGY5VXJzNG4xSWxwek11UndLNy1MOW5ja0Faaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oWm5NdlVZSGZ5XzhjSXJCM1dBTWJPSkVLNWxBWlF5T2NLVF9mazQ0bGlTdXdBMTczTGY5VXJzNG4xSWxwek11UndLNy1MOW5ja0Faaw?oc=5\" target=\"_blank\">[넥스블록]키움증권, 빗썸 지분 투자 논의…금융권 거래소 확보전 가열</a>&nbsp;&nbsp"
+    },
+    {
+      "title": "빗썸, 키움증권과 지분 투자 협의…디지털자산 경쟁 본격화",
+      "source": "데일리안",
+      "published_kst": "2026-06-29 13:02 KST",
+      "published_ts": 1782705720,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DbTlHcnVxTldSelllSnBrV1lyWlNVOHVDYmxCekQ2OVJHT21lQmkxM3hSMEFfNHllRDlIS3hWTHpKUlNEdWFLbjlURExMUHFKWFdCUlBR0gGmAkFVX3lxTE8xTDhRRS1OUWd3eEN4LWl2WUpkUXBzc3FzZ20zSkg5ZUwydDFXZUZqOGs4QXFvMlY5TzEtMlBPTUFxakp5WGVWZkQtZEdjTGpFYWlqWWRRMktiOFJRcHRmUDhaUWNzczJxaDFQNDNSdk5TcVBLUXhBT1FsV2pLRkprcV9FekRYZ2o5WjYtMWo4WHdnb21FNi1KWVVxemtyakw5UzJRbXZjLU5hOFJyR25zREVGMGFNQlVoVkhCVHRWMlhLNHJOZFlTaWg3QV9rZGlSQ0ZMVXN0WU1aVkZMcU9jTDh1MWNYek96OGhiTTRuMnhjaHd6UEsyeWxWcVdNYUw4d2Z1UHo4QzJrVERmMi14MURDU0JDWl9Jd2hGZDZ3VFA5b0t1Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DbTlHcnVxTldSelllSnBrV1lyWlNVOHVDYmxCekQ2OVJHT21lQmkxM3hSMEFfNHllRDlIS3hWTHpKUlNEdWFLbjlURExMUHFKWFdCUlBR0gGmAkFVX3lxTE8xTDhRRS1OUWd3eEN4LWl2WUpkUXBzc3FzZ20zSkg5ZUwydDFXZUZqOGs4QX"
+    },
+    {
+      "title": "키움증권, 빗썸 지분 인수 논의…신주 발행 방식 검토",
+      "source": "지디넷코리아",
+      "published_kst": "2026-06-29 12:31 KST",
+      "published_ts": 1782703911,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EUm5ZR01BcW5jcXJRZXQyX3psYk5NaXdzYWdaRWlRMjdtZWtNX0lfSVg0NHBLcERaVXdEWVduS1hYWXE1Vy0xb3QzVnBwQXFNMTAwTGlB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EUm5ZR01BcW5jcXJRZXQyX3psYk5NaXdzYWdaRWlRMjdtZWtNX0lfSVg0NHBLcERaVXdEWVduS1hYWXE1Vy0xb3QzVnBwQXFNMTAwTGlB?oc=5\" target=\"_blank\">키움증권, 빗썸 지분 인수 논의…신주 발행 방식 검토</a>&nbsp;&nbsp;<font "
+    },
+    {
+      "title": "키움증권, 빗썸 인수 검토…가상자산 주가 '지각변동' 임박! : 경제",
+      "source": "재경일보",
+      "published_kst": "2026-06-29 12:11 KST",
+      "published_ts": 1782702660,
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DNmdnYXpMa3NBNXRhSmhZS0M3QjRKampKdGlkcWVIVDVlZXVzM2R3VEloUExpbjZDeUJYOGZBYm04b25WbVFaa0N3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DNmdnYXpMa3NBNXRhSmhZS0M3QjRKampKdGlkcWVIVDVlZXVzM2R3VEloUExpbjZDeUJYOGZBYm04b25WbVFaa0N3?oc=5\" target=\"_blank\">키움증권, 빗썸 인수 검토…가상자산 주가 '지각변동' 임박! : 경제</a>&nbsp;&nbsp;<font color=\""
+    },
+    {
+      "title": "키움증권, 빗썸 지분 투자설…디지털자산 협력 가능성 주목",
+      "source": "알파경제",
+      "published_kst": "2026-06-29 11:55 KST",
+      "published_ts": 1782701705,
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SNm9wUUE3YjVMOGo1dmxsdl9tN0ZfdFVZM3JQeUlidC1ZV0lpYjVmSzV1UnRTaEhOeDNHcFZlT1V2Y3hYR2VBZm5GVk9FVUNqVmRJamhySGNVaklZR2JMYVhpQ0lWS3o3anJIWmJ3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9SNm9wUUE3YjVMOGo1dmxsdl9tN0ZfdFVZM3JQeUlidC1ZV0lpYjVmSzV1UnRTaEhOeDNHcFZlT1V2Y3hYR2VBZm5GVk9FVUNqVmRJamhySGNVaklZR2JMYVhpQ0lWS3o3anJIWmJ3?oc=5\" target=\"_blank\">키움증권, 빗썸 지분 투자설…디지털"
+    },
+    {
+      "title": "키움증권, 빗썸 지분 투자 추진…프리IPO 참여 가능성 주목",
+      "source": "블루밍비트",
+      "published_kst": "2026-06-29 11:40 KST",
+      "published_ts": 1782700816,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YZFFVb25FZUdMRnlpVnRfT08wVXFnVmhmRTMzM0NoQ25WTW9MenFnMHdwbWNNcW85VThrdUc2QkVkR0pPYWg1OC1LY29JVmxI?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YZFFVb25FZUdMRnlpVnRfT08wVXFnVmhmRTMzM0NoQ25WTW9MenFnMHdwbWNNcW85VThrdUc2QkVkR0pPYWg1OC1LY29JVmxI?oc=5\" target=\"_blank\">키움증권, 빗썸 지분 투자 추진…프리IPO 참여 가능성 주목</a>&nbsp;&nbsp;<font colo"
+    },
+    {
+      "title": "미래에셋증권, 글로벌 투자 플랫폼 'MAPS' 홍콩서 첫 공개",
+      "source": "한국경제",
+      "published_kst": "2026-06-29 11:30 KST",
+      "published_ts": 1782700218,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xMXBaT1hwajgtb2JTTnZQSnB6MmtCR1pSNkJyRlpjSWZRQ1ZlczRKdlE3V2MzM09BekFhLUJvVjU3WlBWR2hEbk1MNWs5Y3F0d1RUZFNWclFzUdIBVEFVX3lxTFA3WXlwN0IzREczaDZNTnhVdEJCVkFvaEpVdHl5QzZUc1NESFRRSVhEYWhINXJwVWozVFFPcnhobVZYNU15U2dkOGRjVU1LSk1DSmhZUg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xMXBaT1hwajgtb2JTTnZQSnB6MmtCR1pSNkJyRlpjSWZRQ1ZlczRKdlE3V2MzM09BekFhLUJvVjU3WlBWR2hEbk1MNWs5Y3F0d1RUZFNWclFzUdIBVEFVX3lxTFA3WXlwN0IzREczaDZNTnhVdEJCVkFvaEpVdHl5QzZUc1NESFRRSVhEYW"
+    },
+    {
+      "title": "피노라글로벌 “FINORA 공식 출범…STO·RWA 연계”",
+      "source": "쿠키뉴스",
+      "published_kst": "2026-06-29 11:28 KST",
+      "published_ts": 1782700084,
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42OE4zOFFZZlZCQ3RDUWlJazFBeG40ZFFFeHVFb085LS1Salg4Q3d0YnJXZXFxN1l4RnNwelJDVkpUS21yNVl2eERxc0NLcG5RdVBOWFBYbTdGdFEwOGQ4SW9jdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE42OE4zOFFZZlZCQ3RDUWlJazFBeG40ZFFFeHVFb085LS1Salg4Q3d0YnJXZXFxN1l4RnNwelJDVkpUS21yNVl2eERxc0NLcG5RdVBOWFBYbTdGdFEwOGQ4SW9jdw?oc=5\" target=\"_blank\">피노라글로벌 “FINORA 공식 출범…STO·RWA 연계”<"
+    },
+    {
+      "title": "미래에셋증권 홍콩법인, 전통·디지털 자산 통합 투자 플랫폼 'MAPS' 공개",
+      "source": "더게이트",
+      "published_kst": "2026-06-29 11:13 KST",
+      "published_ts": 1782699219,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZjZxX1lCUTJjaGh4eTVwVkZMcXpSRkNaS1RxVmhKbktrQ3FGejNtcWxvaHhKaFlJOTJ4TU1PM2Y3VkI5bU53b1haTV9UWF9kb3FvY1NqSFFPY3hMT3RPai1ZdzI5dlBX0gFsQVVfeXFMTVZLZG5sU2g0OFV6UFN2dXFJZDhJWjhudkFZN0NWcFBHY3JwQ1JuTXJVRk9kVVQ5QXVXYmxrZ0w0RnkzbjJ1ZHRDbHo0OTZibGNUTFdBOG5uTy0ydVl1Q245U3p1Nm50WE5IRmha?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZjZxX1lCUTJjaGh4eTVwVkZMcXpSRkNaS1RxVmhKbktrQ3FGejNtcWxvaHhKaFlJOTJ4TU1PM2Y3VkI5bU53b1haTV9UWF9kb3FvY1NqSFFPY3hMT3RPai1ZdzI5dlBX0gFsQVVfeXFMTVZLZG5sU2g0OFV6UFN2dXFJZDhJWjhudkFZN0"
+    },
+    {
+      "title": "키움證, 빗썸 러브콜…코인거래소 지분 확보전 가열",
+      "source": "v.daum.net",
+      "published_kst": "2026-06-29 11:04 KST",
+      "published_ts": 1782698671,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvSEJEMG8zN0p4ZDl1aGVfT1IxMHF2WnQySmVSSGxqelpzR040NVEweXdXdlU2UHhXN1dka3JUbEQ5aERvYVppRzJKcUlDTE0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvSEJEMG8zN0p4ZDl1aGVfT1IxMHF2WnQySmVSSGxqelpzR040NVEweXdXdlU2UHhXN1dka3JUbEQ5aERvYVppRzJKcUlDTE0?oc=5\" target=\"_blank\">키움證, 빗썸 러브콜…코인거래소 지분 확보전 가열</a>&nbsp;&nbsp;<font color=\"#6f6"
+    },
+    {
+      "title": "미래에셋증권, 홍콩서 글로벌 투자 플랫폼 출시",
+      "source": "지디넷코리아",
+      "published_kst": "2026-06-29 11:02 KST",
+      "published_ts": 1782698565,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13RXA2Z3hYeVJHaVhHb3BsLUFWbGs1N2FkWklqMjhGWXRaOVlYaVU3c3BKMFljWm9ud3dtTWxyc0ZwYVNGeFZKRjBUbUVmblE2VFZrcmR3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE13RXA2Z3hYeVJHaVhHb3BsLUFWbGs1N2FkWklqMjhGWXRaOVlYaVU3c3BKMFljWm9ud3dtTWxyc0ZwYVNGeFZKRjBUbUVmblE2VFZrcmR3?oc=5\" target=\"_blank\">미래에셋증권, 홍콩서 글로벌 투자 플랫폼 출시</a>&nbsp;&nbsp;<font colo"
+    },
+    {
+      "title": "[단독] 키움證, 빗썸 지분 인수 추진... 증권사·거래소 합종연횡 가속 - 조선비즈",
+      "source": "Chosunbiz",
+      "published_kst": "2026-06-29 10:22 KST",
+      "published_ts": 1782696120,
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVHZJd21XczBNQnN0VUxhSDJoUDFiQWo3LVdrSi1uYXhqenJZdzFjS2hoUjZLdVB3eU5zRUR5VUFZa1kyeGJqUUVEbVlxTHctc3J6Qk1vYnpVcjhyNk0zRUd2NEE4U044Wi1DbDV2S0N1VUpLVVU2M29VQkpOVWVxa9IBlAFBVV95cUxOX2RYbWU4S1N1R1BRN3FReml2N0psZXBEMHUwOERQZzNJUzhiTjZSa245OE9QM0syYjhfVFZzaU5pOFkyd1VtSXNWcUU4QXZBR0MzLUpWUFRENmhndkptbEtUTVRHb0dtbjU4cVRzTWN0ajZPVlN3WjFaNkVjNHNYZkhCSjBmRVdUeFlCNWgtWDgyZzhZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOVHZJd21XczBNQnN0VUxhSDJoUDFiQWo3LVdrSi1uYXhqenJZdzFjS2hoUjZLdVB3eU5zRUR5VUFZa1kyeGJqUUVEbVlxTHctc3J6Qk1vYnpVcjhyNk0zRUd2NEE4U044Wi1DbDV2S0N1VUpLVVU2M29VQkpOVWVxa9IBlAFBVV95cUxOX2"
     },
     {
       "title": "대신증권, 카사 인수 3년 만에 '미래 먹거리' STO 사업 손떼나",
@@ -19,388 +387,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PZE9SQTJWZFdMOHpENGNES09xT0tOQ1FFdmVkRDhPSkxaSS1DSWJKa3hBT2d1MjlOSGk5NWhPLWRiaG5pSUFsUGxMSm9SNWRXZjhPRg?oc=5\" target=\"_blank\">대신증권, 카사 인수 3년 만에 '미래 먹거리' STO 사업 손떼나</a>&nbsp;&nbsp;"
     },
     {
+      "title": "제도화 전에 인프라 짠다…금융권 '디지털자산 동맹' 확산",
+      "source": "네이트",
+      "published_kst": "2026-06-29 07:31 KST",
+      "published_ts": 1782685860,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVZjgxVlgzVnk5dHFFX29WRDVWaUMteTlRTVZZLW8tbWM0Q3djdXMxMXFVcDNpV2NNS0xKMnhULTZIcEpDQU56TXkwRmNiWi1ZNXRr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVZjgxVlgzVnk5dHFFX29WRDVWaUMteTlRTVZZLW8tbWM0Q3djdXMxMXFVcDNpV2NNS0xKMnhULTZIcEpDQU56TXkwRmNiWi1ZNXRr?oc=5\" target=\"_blank\">제도화 전에 인프라 짠다…금융권 '디지털자산 동맹' 확산</a>&nbsp;&nbsp;<font co"
+    },
+    {
       "title": "솔라나, 70달러 지지선 유지하며 토큰화 증권 거래량 30억 달러 돌파",
       "source": "tokenpost.kr",
       "published_kst": "2026-06-29 06:07 KST",
       "published_ts": 1782680836,
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84Tm9RTW9RNXQzZWMyZzI5Yng5MFEwa2g1XzU2ck5xVU9HOW1sSkdyZ1VRWGhDNnJLSXA1R2lxbUVpQ2NlUE9hLUdxemtpOUVkQ2JhaW5Wd01LTkZNc09fM9IBZkFVX3lxTE03SHV5Ny1mRW44eEVEd1F3aWo4Skw4N3dzTXd4a3JING1BMlVEX05IN0pwUTQ0SmJTUmxvVkw3SmxQYVZiaXhiWTNxV1AyZW9DaHc5dmxoREVTQmVDU0k1cURlM3NhZw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE84Tm9RTW9RNXQzZWMyZzI5Yng5MFEwa2g1XzU2ck5xVU9HOW1sSkdyZ1VRWGhDNnJLSXA1R2lxbUVpQ2NlUE9hLUdxemtpOUVkQ2JhaW5Wd01LTkZNc09fM9IBZkFVX3lxTE03SHV5Ny1mRW44eEVEd1F3aWo4Skw4N3dzTXd4a3JING1BMl"
-    },
-    {
-      "title": "[STO 시대]⑥각자도생 대신 '협력모델'…NH투자증권 'STO비전그룹' 주도",
-      "source": "뉴스1",
-      "published_kst": "2026-06-29 06:00 KST",
-      "published_ts": 1782680400,
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qbDFlVU1qbTdfUE9PYUs3YzZNcWJOdUVIN0xBaDFVOW9YZHFxVFU0bEljS0tnS2tuNXZFeGR1N1JtOVpaRExkVmdHOEhOZTAwUEo2UXk4Nmx6blZ1WlF3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qbDFlVU1qbTdfUE9PYUs3YzZNcWJOdUVIN0xBaDFVOW9YZHFxVFU0bEljS0tnS2tuNXZFeGR1N1JtOVpaRExkVmdHOEhOZTAwUEo2UXk4Nmx6blZ1WlF3?oc=5\" target=\"_blank\">[STO 시대]⑥각자도생 대신 '협력모델'…NH투자증권 'STO비전그룹"
-    },
-    {
-      "title": "솔라나 생태계, 토큰화 증권 영역서 30억 달러 돌파",
-      "source": "tokenpost.kr",
-      "published_kst": "2026-06-28 22:07 KST",
-      "published_ts": 1782652041,
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wSFZ5MnVQaWdjTDRfYWMxODVIQ1gwNmxrTWd5LXM0ek1xTkdpZXZUMXR0VGZmZG9MLVAzVkxWVDgtaGVsWEtyV2IzUXdUdk1VX1BqWTJkaGpIanBxLXBfetIBZkFVX3lxTFBYSG52cEtqSl9pcHkzdDB2bVFtR05LUEV6dzN2dlVWS2JxRWxxWk15RVVKMVJvUVFLWVAySXl1VVd4WXBJRXJYaFJHeThEVTFONnYtVXZDSW9VcC1rd3NQZXNjb01tQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wSFZ5MnVQaWdjTDRfYWMxODVIQ1gwNmxrTWd5LXM0ek1xTkdpZXZUMXR0VGZmZG9MLVAzVkxWVDgtaGVsWEtyV2IzUXdUdk1VX1BqWTJkaGpIanBxLXBfetIBZkFVX3lxTFBYSG52cEtqSl9pcHkzdDB2bVFtR05LUEV6dzN2dlVWS2JxRW"
-    },
-    {
-      "title": "벡트, 디지털 사이니지 넘어 신사업 확대…성장동력 확보 속도",
-      "source": "핀포인트뉴스",
-      "published_kst": "2026-06-28 16:25 KST",
-      "published_ts": 1782631502,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0dTBfT0FJRnFOWEw2cHU5LVpRX094ZHJrS0JWbDhKSmJSZnZ5bFlvazFjX2RwbmJxQk1wYzZwamw4MFJlcUtJcndjMjZBaXpDdERlS2JMc1pkSEtmdXpJdXF1Si03MUZ6QktFZE9OaFRQQ2_SAXdBVV95cUxPR05vMjlyLVVTNTFTSGdFeDlLNnNFODRZRGtsMHpvMThrZm5DMnBVRC10NVFEVFE0RDNJTk82b3VwaXFaVTZhN1VLOGFiR3JYN0p6RXY1RHVVOVdCOE9DLUZJejBsUjFEcnhNMDVGbG9heWowRThkTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFB0dTBfT0FJRnFOWEw2cHU5LVpRX094ZHJrS0JWbDhKSmJSZnZ5bFlvazFjX2RwbmJxQk1wYzZwamw4MFJlcUtJcndjMjZBaXpDdERlS2JMc1pkSEtmdXpJdXF1Si03MUZ6QktFZE9OaFRQQ2_SAXdBVV95cUxPR05vMjlyLVVTNTFTSGdFeD"
-    },
-    {
-      "title": "[인터뷰] 삼성SDS “토큰증권은 시작…디지털자산 시대 본격 대비”",
-      "source": "바이라인네트워크",
-      "published_kst": "2026-06-28 14:09 KST",
-      "published_ts": 1782623343,
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51bXNncG9pTzNJNW9SYnZBTWkyejVhZW9GUy1xcDF2OUcxR3JEb3dWSll3NFRYUnNTelFpazJzVEZUYWU0MEpnUTdmR2xPTlJC?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE51bXNncG9pTzNJNW9SYnZBTWkyejVhZW9GUy1xcDF2OUcxR3JEb3dWSll3NFRYUnNTelFpazJzVEZUYWU0MEpnUTdmR2xPTlJC?oc=5\" target=\"_blank\">[인터뷰] 삼성SDS “토큰증권은 시작…디지털자산 시대 본격 대비”</a>&nbsp;&nbsp;<font "
-    },
-    {
-      "title": "차상진 변호사 \"토큰증권, 혁신기업 자금조달 인프라로 봐야”",
-      "source": "지디넷코리아",
-      "published_kst": "2026-06-28 11:22 KST",
-      "published_ts": 1782613338,
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZS0tueTUzV0hsV3J5S1BoamJ1OGJuZDN6V0FRcVA5cDVJemF0VEpDdTlGQ3h2a2ZXd1BBNDc3NlFEa01wN09MM203bUxXbU1GbXZfdFJ3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZS0tueTUzV0hsV3J5S1BoamJ1OGJuZDN6V0FRcVA5cDVJemF0VEpDdTlGQ3h2a2ZXd1BBNDc3NlFEa01wN09MM203bUxXbU1GbXZfdFJ3?oc=5\" target=\"_blank\">차상진 변호사 \"토큰증권, 혁신기업 자금조달 인프라로 봐야”</a>&nbsp;&nbsp;<f"
-    },
-    {
-      "title": "VIX증권, 토큰화 자산 시장 선점 나선다…VIXEX에 1조3,500억 동 투자 계획",
-      "source": "굿모닝베트남미디어",
-      "published_kst": "2026-06-28 11:06 KST",
-      "published_ts": 1782612393,
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmNjNPTHJPN0Z2OXFBTFl5dlI3R3pLblVmRk9OUGRNRWZkNDJQWHRtNEN5YzBMN0tBaWhYSUxMVjE4MmYwMS03RWZ2YVRJdk5nSHV3STlRRHhGUFVNSFg4UTdCS1VmZk9ITnoyTXVBV0U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBmNjNPTHJPN0Z2OXFBTFl5dlI3R3pLblVmRk9OUGRNRWZkNDJQWHRtNEN5YzBMN0tBaWhYSUxMVjE4MmYwMS03RWZ2YVRJdk5nSHV3STlRRHhGUFVNSFg4UTdCS1VmZk9ITnoyTXVBV0U?oc=5\" target=\"_blank\">VIX증권, 토큰화 자산 시장"
-    },
-    {
-      "title": "[온체인분석] 토큰화 증권 시대, 거래소의 경쟁자는 거래소가 아닐 수 있다",
-      "source": "tokenpost.kr",
-      "published_kst": "2026-06-28 09:16 KST",
-      "published_ts": 1782605813,
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xc01zUDB4dmdPU3NKc0VSa2xFUnFOYWdJTFY2ZElQVHYtZ1lKaWdDWXBHZk43azRsN2lEVXgwY0JXTzY0NHBEUnU0VW8tZlliVjZPbE1rLU7SAV5BVV95cUxNRWtoRTBDX0R3Q1RKQ0dmMnRNaThCRVlELW9FN3dSdkxqVGlXOExaNy1jM252aGVVa3JxajZTR3IxbmpiSmpnRDI0UkY5SmotVWgyMXdldllKSE9EV0Rn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xc01zUDB4dmdPU3NKc0VSa2xFUnFOYWdJTFY2ZElQVHYtZ1lKaWdDWXBHZk43azRsN2lEVXgwY0JXTzY0NHBEUnU0VW8tZlliVjZPbE1rLU7SAV5BVV95cUxNRWtoRTBDX0R3Q1RKQ0dmMnRNaThCRVlELW9FN3dSdkxqVGlXOExaNy1jM2"
-    },
-    {
-      "title": "[STO 시대]⑤'KB 브랜드의 힘'…회사채·PF·신탁 '우량자산' 토큰화 역량",
-      "source": "뉴스1",
-      "published_kst": "2026-06-28 06:00 KST",
-      "published_ts": 1782594000,
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpNlAtdUZGOVMzcTUzbTkzTExlVUN4ZUI1Y2JsVEFoVTRfbzBoZFAxd05VX0ZOWEFDQ0c4YkJjUGQ4Uk5HNlk3elp1NVQ0YkZtR2E2Z1B5eVZKR0ZNcXFR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpNlAtdUZGOVMzcTUzbTkzTExlVUN4ZUI1Y2JsVEFoVTRfbzBoZFAxd05VX0ZOWEFDQ0c4YkJjUGQ4Uk5HNlk3elp1NVQ0YkZtR2E2Z1B5eVZKR0ZNcXFR?oc=5\" target=\"_blank\">[STO 시대]⑤'KB 브랜드의 힘'…회사채·PF·신탁 '우량자산' 토"
-    },
-    {
-      "title": "한투와 손잡은 코인원…STO·스테이블코인 시너지 본격화",
-      "source": "네이트",
-      "published_kst": "2026-06-27 10:01 KST",
-      "published_ts": 1782522060,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VbTduTmhrY01hMnVlVElwR2NXd2UtYU5GMmNCS3VycGx1QTdjWU9UU2JLczdZZU1zX0ZGMTNfZjdBZlpBVXpHdFJlODhkcmVzWkFJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VbTduTmhrY01hMnVlVElwR2NXd2UtYU5GMmNCS3VycGx1QTdjWU9UU2JLczdZZU1zX0ZGMTNfZjdBZlpBVXpHdFJlODhkcmVzWkFJ?oc=5\" target=\"_blank\">한투와 손잡은 코인원…STO·스테이블코인 시너지 본격화</a>&nbsp;&nbsp;<font col"
-    },
-    {
-      "title": "Z세대 공략 나선다…한양증권, 디지털 소통 채널 확대",
-      "source": "데일리안",
-      "published_kst": "2026-06-27 08:00 KST",
-      "published_ts": 1782514800,
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzZXdrYzJvcWJobWVWdFFYRXZ6VUcya0JwRURiVF9BOTN4cDNHNTN1UVFQZTNmUmZ5S3RDT3JydkRPMkx2WnpELWVGZTU0am9Fd0pLeHhoa9IBmwJBVV95cUxNRUhyN1RJRTNzeVZZQmFWaFlGVG9tQ1owb1M1bzdMZnVNYnRrS0VwZEJTd0R4RGZrckJSUlRpeXhraUZkamthUXVwYlJYOGpiNlNxUU5IN2xqVWIyU0FBV1VnS1BVRDJFV3pIOVl5c1JKbjl1Q1p5QlpuY0Ewa2NnbXY4U1lWRXZPOGZ4QWVWSmgyOVQtc3l5MHVZVndzSWxyV2hCbGZFcTZrc0ZLRUM0aFctVENORGtzR05TNEpBVjZNRHM4amZOVUZjbXhjSldwbnhUS0EzYmFfV084VXAwTVNXU2sxQUFtbTctLU9ELWJnN29fUWlLYVdtRjVRalgxYThlRFRQbG5nVGxQUzduNUlqM01LU2lYa3Rz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzZXdrYzJvcWJobWVWdFFYRXZ6VUcya0JwRURiVF9BOTN4cDNHNTN1UVFQZTNmUmZ5S3RDT3JydkRPMkx2WnpELWVGZTU0am9Fd0pLeHhoa9IBmwJBVV95cUxNRUhyN1RJRTNzeVZZQmFWaFlGVG9tQ1owb1M1bzdMZnVNYnRrS0VwZEJTd0"
-    },
-    {
-      "title": "해외주식부터 AI·틱톡·토큰증권까지… 증권사 디지털 전쟁",
-      "source": "IT조선",
-      "published_kst": "2026-06-27 06:20 KST",
-      "published_ts": 1782508800,
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qdUtpOVpnVlg4TWtVY2NseVZENVA2a0ZOaGQwa3F1dW5QcHQwbExxQkhnaEhTcV9yNGhhbHVXc1JLVlRpU2xMQURxWXRZQmFjaUlZSlVseWpUTDhNUGVhQUlQUjlabVRFaWRYYV9uT3XSAXRBVV95cUxQQ3ZRV2lGdXNkT0M1MnN4VnRUbjNTVGNDV0RxM0VkaExvaXZMcVVkU2xXaXBmSGJCNmNZb3hTelAySGpONnZtbHJVZVB2OWR5X2J4Xzh1cGRsUDJsSGswanJEeDZGQXJLOGtHTlhYWXVROTl0Rw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9qdUtpOVpnVlg4TWtVY2NseVZENVA2a0ZOaGQwa3F1dW5QcHQwbExxQkhnaEhTcV9yNGhhbHVXc1JLVlRpU2xMQURxWXRZQmFjaUlZSlVseWpUTDhNUGVhQUlQUjlabVRFaWRYYV9uT3XSAXRBVV95cUxQQ3ZRV2lGdXNkT0M1MnN4VnRUbj"
-    },
-    {
-      "title": "솔라나 가격 급등, 토큰화 증권 거래량 최고치 기록",
-      "source": "tokenpost.kr",
-      "published_kst": "2026-06-27 06:08 KST",
-      "published_ts": 1782508119,
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52NloxUVQzakpjeFIxM2lBNDhGdDZNR2E2c19qbEItZ1liQzJQQm11RjhmVFZIT0pVWGoySGwwbVFfYThwYVNwbXZHaXJUc2RTcUdPRGxpTmRBYUEyc3Nqd9IBZkFVX3lxTE9IZl9lby1XYmN0WUMzS21UR0dWTl9vQWg2Nkg5aWxoSk9sanVZYlM1enR6NmlLblVKWHEwd0dET2l0MHNsd2oyWEFsdWgtZWZYTlJVV3QzcmY3N2ZiLVFnV1o3VVhtdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE52NloxUVQzakpjeFIxM2lBNDhGdDZNR2E2c19qbEItZ1liQzJQQm11RjhmVFZIT0pVWGoySGwwbVFfYThwYVNwbXZHaXJUc2RTcUdPRGxpTmRBYUEyc3Nqd9IBZkFVX3lxTE9IZl9lby1XYmN0WUMzS21UR0dWTl9vQWg2Nkg5aWxoSk9san"
-    },
-    {
-      "title": "KB증권, 1조원 유상증자 결정…IMA 도전 나선다",
-      "source": "디지털데일리",
-      "published_kst": "2026-06-26 17:16 KST",
-      "published_ts": 1782461799,
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUGZTNDRYUXYxMDJmVVNIRjRxNFFvZVFPb2lBaS10ejZlbm5WSk9pMTVIS0VBbkU4REdISlJVeEpTdzI5SG01Zjg1Y3NYaEhSd2dESHU0Tzg5QWRPMTdBaE1R?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUGZTNDRYUXYxMDJmVVNIRjRxNFFvZVFPb2lBaS10ejZlbm5WSk9pMTVIS0VBbkU4REdISlJVeEpTdzI5SG01Zjg1Y3NYaEhSd2dESHU0Tzg5QWRPMTdBaE1R?oc=5\" target=\"_blank\">KB증권, 1조원 유상증자 결정…IMA 도전 나선다</a>&nb"
-    },
-    {
-      "title": "[STO 시대]④한투證, STO 인프라 구축 본격화…디지털자산 보폭 확대",
-      "source": "뉴스1",
-      "published_kst": "2026-06-26 06:25 KST",
-      "published_ts": 1782422710,
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fa3BBeHIxcnc5cV82VmJBWnhydlhFS3dxOE1YaEE5REZhV3RneFQ4NXNrblBsVm1IbGZrNE1aY3RJcmRaMnhSX1NvT2EwT1N6bUdRWHUyZXRHMjlzVDZr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fa3BBeHIxcnc5cV82VmJBWnhydlhFS3dxOE1YaEE5REZhV3RneFQ4NXNrblBsVm1IbGZrNE1aY3RJcmRaMnhSX1NvT2EwT1N6bUdRWHUyZXRHMjlzVDZr?oc=5\" target=\"_blank\">[STO 시대]④한투證, STO 인프라 구축 본격화…디지털자산 보폭 확"
-    },
-    {
-      "title": "[핀셋+][가온전선]토큰증권 사업목적 추가…원자재로 자금조달 모색 : 네이버 블로그",
-      "source": "Naver Blog",
-      "published_kst": "2026-06-25 21:27 KST",
-      "published_ts": 1782390429,
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1VDSWRFR0Z0Rk0yUjd0SmU5U3FLUndxb3llcmtTaGZoOG9DcjA0THU0TTNOU3BYMW93b1oxTURYbVlscmhHTTVfdDM5aV9mY0RHbUVVUi1mY2ZQSXJFLU1nOV91UER3RzB3NktsUDVsOS05MzBlUHgzRDhXRzN0OGdtMXpOYzIyTW16Ql9kTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1VDSWRFR0Z0Rk0yUjd0SmU5U3FLUndxb3llcmtTaGZoOG9DcjA0THU0TTNOU3BYMW93b1oxTURYbVlscmhHTTVfdDM5aV9mY0RHbUVVUi1mY2ZQSXJFLU1nOV91UER3RzB3NktsUDVsOS05MzBlUHgzRDhXRzN0OGdtMXpOYzIyTW16Ql"
-    },
-    {
-      "title": "SK증권, 디지털자산 사업 속도…에데나코리아와 RWA 토큰화 맞손",
-      "source": "리드경제",
-      "published_kst": "2026-06-25 17:08 KST",
-      "published_ts": 1782374909,
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lNmVwVzhiM296bkl4M2RROEx5UkxrODZ4d1dEUkdlY0JIendsQjNFYkdNeEllalJiYmRQbURFRy1fSXVGcXY2MkM4NVFOdU00cnNiS3ZmdlI1Zk14NWI1NUlrU1JoV3JURWpqSmlfdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9lNmVwVzhiM296bkl4M2RROEx5UkxrODZ4d1dEUkdlY0JIendsQjNFYkdNeEllalJiYmRQbURFRy1fSXVGcXY2MkM4NVFOdU00cnNiS3ZmdlI1Zk14NWI1NUlrU1JoV3JURWpqSmlfdw?oc=5\" target=\"_blank\">SK증권, 디지털자산 사업 속도"
-    },
-    {
-      "title": "SK증권, 디지털자산 발전 위해 에데나코리아 맞손…토큰증권·실물자산 역량강화",
-      "source": "파이낸셜포스트",
-      "published_kst": "2026-06-25 16:58 KST",
-      "published_ts": 1782374308,
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JNTlvRExaZWR3dUtKYmYzNkpNLTdJWjI3eHJobGpPQnViUGdaWWFoTnZmUEpmTHU1dXRLVVhndTY4bHhSVkVNcFdpZjg0RUFWdjFFM1pjVEd2UHJhdHptSHNCX2NLcVdfUERSOGxsUFNYY2Fl?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5JNTlvRExaZWR3dUtKYmYzNkpNLTdJWjI3eHJobGpPQnViUGdaWWFoTnZmUEpmTHU1dXRLVVhndTY4bHhSVkVNcFdpZjg0RUFWdjFFM1pjVEd2UHJhdHptSHNCX2NLcVdfUERSOGxsUFNYY2Fl?oc=5\" target=\"_blank\">SK증권, 디지털자산"
-    },
-    {
-      "title": "SK증권-에데나코리아, 디지털자산 금융사업 업무협약 체결",
-      "source": "v.daum.net",
-      "published_kst": "2026-06-25 15:59 KST",
-      "published_ts": 1782370745,
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mdnByNHNhMmtuN1JySUN6bG9kVFpyT0tzb0h5c1RnNFF5RDdxeVlmZDNXODBMdW1EckxPSFhoWHN5QUtWSFJHQ0I3bE12SGs?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mdnByNHNhMmtuN1JySUN6bG9kVFpyT0tzb0h5c1RnNFF5RDdxeVlmZDNXODBMdW1EckxPSFhoWHN5QUtWSFJHQ0I3bE12SGs?oc=5\" target=\"_blank\">SK증권-에데나코리아, 디지털자산 금융사업 업무협약 체결</a>&nbsp;&nbsp;<font color=\""
-    },
-    {
-      "title": "SK증권, 에데나코리아와 디지털자산 금융사업 맞손",
-      "source": "이투데이",
-      "published_kst": "2026-06-25 15:55 KST",
-      "published_ts": 1782370500,
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83OWpBZ3Q1UjE0LUNJaFRNSU5MLXYzYjhLaHREdTZVbkJCenh1VFZGYlJoLVZWYk9MekFNa0hWMXkxRlRpOGtEU2RGWExnVFRacUJCYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE83OWpBZ3Q1UjE0LUNJaFRNSU5MLXYzYjhLaHREdTZVbkJCenh1VFZGYlJoLVZWYk9MekFNa0hWMXkxRlRpOGtEU2RGWExnVFRacUJCYw?oc=5\" target=\"_blank\">SK증권, 에데나코리아와 디지털자산 금융사업 맞손</a>&nbsp;&nbsp;<font colo"
-    },
-    {
-      "title": "SK증권, 에데나코리아와 디지털자산 금융사업 MOU 체결",
-      "source": "뉴스핌",
-      "published_kst": "2026-06-25 15:31 KST",
-      "published_ts": 1782369060,
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5raHVHNDFUREpFTmFvRTltMlJMcS1zLW5pekF2TzdkTVVLWTluMUplRmp0bHAxRk03YlA0cVdSMmVNNDhHQktiOVM5M09TMVM2alhFUlRISWlFdVVT?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5raHVHNDFUREpFTmFvRTltMlJMcS1zLW5pekF2TzdkTVVLWTluMUplRmp0bHAxRk03YlA0cVdSMmVNNDhHQktiOVM5M09TMVM2alhFUlRISWlFdVVT?oc=5\" target=\"_blank\">SK증권, 에데나코리아와 디지털자산 금융사업 MOU 체결</a>&nbsp;&n"
-    },
-    {
-      "title": "SK증권, 에데나코리아와 맞손…디지털자산 금융사업 업무협약 체결",
-      "source": "v.daum.net",
-      "published_kst": "2026-06-25 15:12 KST",
-      "published_ts": 1782367922,
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LNXRzS3k3NC1KclY2LU9JVGl3aDgwWXZiN1BvQmRxQ3ZKM3BTR2llMHBVU1FoRnFVcWlpN1B5S2FZMTlocFY1Uk50SVV0Mmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LNXRzS3k3NC1KclY2LU9JVGl3aDgwWXZiN1BvQmRxQ3ZKM3BTR2llMHBVU1FoRnFVcWlpN1B5S2FZMTlocFY1Uk50SVV0Mmc?oc=5\" target=\"_blank\">SK증권, 에데나코리아와 맞손…디지털자산 금융사업 업무협약 체결</a>&nbsp;&nbsp;<font col"
-    },
-    {
-      "title": "SK증권, 에데나코리아와 맞손…디지털자산 금융사업 업무협약 체결",
-      "source": "매일경제",
-      "published_kst": "2026-06-25 15:11 KST",
-      "published_ts": 1782367885,
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zTXZtMXduTEdfWjdsUTh0QWl0Um9YQ1E2RHctTHBacF9XU3ZERDgxOUdDemlUem9uTW8zbnhHdGFqc2NxeGRIcU5UblMtY2FWYkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zTXZtMXduTEdfWjdsUTh0QWl0Um9YQ1E2RHctTHBacF9XU3ZERDgxOUdDemlUem9uTW8zbnhHdGFqc2NxeGRIcU5UblMtY2FWYkE?oc=5\" target=\"_blank\">SK증권, 에데나코리아와 맞손…디지털자산 금융사업 업무협약 체결</a>&nbsp;&nbsp;<font"
-    },
-    {
-      "title": "SK증권, 에데나코리아와 디지털자산 금융사업 관련 업무협약",
-      "source": "연합뉴스",
-      "published_kst": "2026-06-25 14:37 KST",
-      "published_ts": 1782365832,
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HWHVqUXU2OVNqbFd5YVFRUFN2b1dLZTJMa2N2eHpsUGM4ZkhubkFYRzJJTDZuNDNpOGM3czl5X1kxU3A0dGc5ZHR2Yl9oSURYRE9uSWR1TUx2cU3SAWBBVV95cUxOWDgxaU02Q0M2dldzcGxseWh3bjdueDhSdFZDMTZHZUd4anBMLVZLYk5CMjdXSzhUSjB5UUxqN1hqR25wR2xpVzhONTRPMVBkazNFejdZY2RBdjVLel9fS2M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HWHVqUXU2OVNqbFd5YVFRUFN2b1dLZTJMa2N2eHpsUGM4ZkhubkFYRzJJTDZuNDNpOGM3czl5X1kxU3A0dGc5ZHR2Yl9oSURYRE9uSWR1TUx2cU3SAWBBVV95cUxOWDgxaU02Q0M2dldzcGxseWh3bjdueDhSdFZDMTZHZUd4anBMLVZLYk"
-    },
-    {
-      "title": "두나무, 주식·디지털자산 아우르는 유튜브 '데일리 랩업' 인기",
-      "source": "뉴시스",
-      "published_kst": "2026-06-25 10:00 KST",
-      "published_ts": 1782349200,
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ENEJrUi1jVHhuV09WYVNBdm9ReE9HMGV1cFdYamQtQUJsUGdfZGo4SFZ6VVRkTWxwS3V4UjJuUkRndk00U0RNZEJqUUZMakR0QXFYRmljN0VMa1prbUJWUNIBeEFVX3lxTFBTamQyakNkdTlSVXNIYWNDbGNOeGRqQU9GT0xua2pFZjUtN3BRY091d2pDMVZhaWk1bThBM1BPb0kzczluN2NIb0RfMHE5eEg2YW5JSlRtbWw3VUUzM1BqTXVpTVI2VDFLamtXcXRZdF9VU0NBVFY0dg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ENEJrUi1jVHhuV09WYVNBdm9ReE9HMGV1cFdYamQtQUJsUGdfZGo4SFZ6VVRkTWxwS3V4UjJuUkRndk00U0RNZEJqUUZMakR0QXFYRmljN0VMa1prbUJWUNIBeEFVX3lxTFBTamQyakNkdTlSVXNIYWNDbGNOeGRqQU9GT0xua2pFZjUtN3"
-    },
-    {
-      "title": "[토큰증권 제도권 진입 초읽기] ① 韓 토큰증권 시장, 법 넘었지만 시행령·해외 격차 관건",
-      "source": "뉴스후플러스",
-      "published_kst": "2026-06-25 08:00 KST",
-      "published_ts": 1782342039,
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VRXVwTW1qUUJLWkd6NHpfdG5WTWd0Ym5YMGVzQzFNTEhET0pDV2E4aGlxMjhXN3RsM3BCU203MW1SYlQ1dFFNX1p4UFhmeVdwUGtDT0Y0eHo5Q0QtVkx0Y3RyYU9QSWc2R0Z5RFNB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9VRXVwTW1qUUJLWkd6NHpfdG5WTWd0Ym5YMGVzQzFNTEhET0pDV2E4aGlxMjhXN3RsM3BCU203MW1SYlQ1dFFNX1p4UFhmeVdwUGtDT0Y0eHo5Q0QtVkx0Y3RyYU9QSWc2R0Z5RFNB?oc=5\" target=\"_blank\">[토큰증권 제도권 진입 초읽기] ①"
-    },
-    {
-      "title": "하나증권 \"당국 방침 맞춰 정형증권 STO 단계적 준비 중\" [일문일답]",
-      "source": "네이트",
-      "published_kst": "2026-06-25 06:26 KST",
-      "published_ts": 1782336360,
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZU5zWnlBUXNuVzNzeUJuQzVKVWhEZkJFOFBWd1FXX1BqRnczVFBPQkZlMHp0SmR4OG8xUHFGVmRIVGxIcnhESWUwd1c0R0lQTzZvZ0w3QWlZNnctMElMRHZ2RG94MTYtenBLQ3hTM280cVlVUTJvUA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5mZU5zWnlBUXNuVzNzeUJuQzVKVWhEZkJFOFBWd1FXX1BqRnczVFBPQkZlMHp0SmR4OG8xUHFGVmRIVGxIcnhESWUwd1c0R0lQTzZvZ0w3QWlZNnctMElMRHZ2RG94MTYtenBLQ3hTM280cVlVUTJvUA?oc=5\" target=\"_blank\">하나증권 "
-    },
-    {
-      "title": "하나증권 \"당국 방침 맞춰 정형증권 STO 단계적 준비 중\" [일문일답]",
-      "source": "이데일리",
-      "published_kst": "2026-06-25 06:24 KST",
-      "published_ts": 1782336242,
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZk5ySkhNa1c5cFRydjV2Zy1aUkdiWXdDdVNoUHVzcUhJRHBDbEVlV3hnZllFT1FxWU5tbUt1WUYtZGgzMVhBbllkZUEyR2JaQkVyT2VLdnQxcFJsM1dnOGdvanBaQWpxaGlJTi1rbEUzckJyNEQxczhGa2NYMzNyRg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZk5ySkhNa1c5cFRydjV2Zy1aUkdiWXdDdVNoUHVzcUhJRHBDbEVlV3hnZllFT1FxWU5tbUt1WUYtZGgzMVhBbllkZUEyR2JaQkVyT2VLdnQxcFJsM1dnOGdvanBaQWpxaGlJTi1rbEUzckJyNEQxczhGa2NYMzNyRg?oc=5\" target=\"_"
-    },
-    {
-      "title": "하나증권 \"내년 STO 본게임 대비 여러 상품 준비…발행플랫폼 개방\"",
-      "source": "네이트",
-      "published_kst": "2026-06-25 06:23 KST",
-      "published_ts": 1782336180,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WR2o1TmZMcVJZdXBDMUlpN0ZvWUVYTy1kZUdYcHBQODh6NUMwWW5kdmVjS2JTb3VpYUdHaXF6dGx3U04zd2dtVzZvQ09MSF9UTGlZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WR2o1TmZMcVJZdXBDMUlpN0ZvWUVYTy1kZUdYcHBQODh6NUMwWW5kdmVjS2JTb3VpYUdHaXF6dGx3U04zd2dtVzZvQ09MSF9UTGlZ?oc=5\" target=\"_blank\">하나증권 \"내년 STO 본게임 대비 여러 상품 준비…발행플랫폼 개방\"</a>&nbsp;&nbsp;<"
-    },
-    {
-      "title": "하나증권 \"내년 STO 본게임 대비 여러 상품 준비…발행플랫폼 개방\"",
-      "source": "마켓인",
-      "published_kst": "2026-06-25 06:21 KST",
-      "published_ts": 1782336061,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtLTJMbGZOTkItY3pDS21SakZLLTJOTUdnd0pNd1RBd3NLdlhUalhPd2lrVkxMMlhGV1lqdzdmTWNLdlk4Q0lRb2EwLWNMcmprQ2x6eWk4Y09pMy1MUzlJcnV0Q2hwa1ZiS0Q1Q1NwY2p4QkU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBtLTJMbGZOTkItY3pDS21SakZLLTJOTUdnd0pNd1RBd3NLdlhUalhPd2lrVkxMMlhGV1lqdzdmTWNLdlk4Q0lRb2EwLWNMcmprQ2x6eWk4Y09pMy1MUzlJcnV0Q2hwa1ZiS0Q1Q1NwY2p4QkU?oc=5\" target=\"_blank\">하나증권 \"내년 STO"
-    },
-    {
-      "title": "[STO 시대]③전통·디지털 자산 '통합 플랫폼'…'로빈후드' 길 걷는 미래에셋",
-      "source": "뉴스1",
-      "published_kst": "2026-06-25 06:00 KST",
-      "published_ts": 1782334800,
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3R0g1RVRsQUpaNzk3NnlCN2dvandJazdSandWRFY1Y0NBX3BZTlF3dTlLcFVHZXFPdFAtOXRkVkhlMExMLWpZTWV6WHBGRkczam9wRFpxbUZsazI1M2J3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3R0g1RVRsQUpaNzk3NnlCN2dvandJazdSandWRFY1Y0NBX3BZTlF3dTlLcFVHZXFPdFAtOXRkVkhlMExMLWpZTWV6WHBGRkczam9wRFpxbUZsazI1M2J3?oc=5\" target=\"_blank\">[STO 시대]③전통·디지털 자산 '통합 플랫폼'…'로빈후드' 길 걷는"
-    },
-    {
-      "title": "[넥스블록]최윤영 한화투자증권 팀장 “올 하반기, 비트코인 중심 성장세 이어질 것”",
-      "source": "이투데이",
-      "published_kst": "2026-06-25 06:00 KST",
-      "published_ts": 1782334800,
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BRHE0Z2lXNWlEUjFLYm03RzI0eXpxakc3X041TDAtSlRwSDdlMTF3RmdMdG1CZDBMLXZDejNWMTltZTFNc3RSVEhqNkI0UmJ4VDRJUA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BRHE0Z2lXNWlEUjFLYm03RzI0eXpxakc3X041TDAtSlRwSDdlMTF3RmdMdG1CZDBMLXZDejNWMTltZTFNc3RSVEhqNkI0UmJ4VDRJUA?oc=5\" target=\"_blank\">[넥스블록]최윤영 한화투자증권 팀장 “올 하반기, 비트코인 중심 성장세 이어질 것”</a>&nb"
-    },
-    {
-      "title": "한화투자증권, 디지털자산 승부수… 장병호 대표 \"글로벌 디지털 금융리더로 도약\"",
-      "source": "이코리아",
-      "published_kst": "2026-06-24 17:20 KST",
-      "published_ts": 1782289236,
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80aEtsQlVKSHdsbHZVTVZrWldTOGRGUFRhMWxieEd2UlBhWmc0cXRlVXFkT1p6UjBBVF94Y0o4RmVhNXZKVU9MdnhFei04aUJPbVQ4SjV2bjBWTEFuOER6OUVxSDgtQWlHQllsTG9zaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE80aEtsQlVKSHdsbHZVTVZrWldTOGRGUFRhMWxieEd2UlBhWmc0cXRlVXFkT1p6UjBBVF94Y0o4RmVhNXZKVU9MdnhFei04aUJPbVQ4SjV2bjBWTEFuOER6OUVxSDgtQWlHQllsTG9zaw?oc=5\" target=\"_blank\">한화투자증권, 디지털자산 승부수"
-    },
-    {
-      "title": "토큰증권 시대 대비…금투협, 디지털자산 과정 개설",
-      "source": "네이트",
-      "published_kst": "2026-06-24 17:10 KST",
-      "published_ts": 1782288600,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5dzFvX2wzMW5vUVVtU3hIdzBhempaM3hKSHZfR2VnbnhLcGJTRFBtWl94SWhKUC1tMEd4MS1zQVhidGpJSHMtNVlBSUU5cWREN2RZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5dzFvX2wzMW5vUVVtU3hIdzBhempaM3hKSHZfR2VnbnhLcGJTRFBtWl94SWhKUC1tMEd4MS1zQVhidGpJSHMtNVlBSUU5cWREN2RZ?oc=5\" target=\"_blank\">토큰증권 시대 대비…금투협, 디지털자산 과정 개설</a>&nbsp;&nbsp;<font color="
-    },
-    {
-      "title": "'증권사 이탈 막자'…코스콤, STO플랫폼 '멀티체인' 전환",
-      "source": "이데일리",
-      "published_kst": "2026-06-24 16:57 KST",
-      "published_ts": 1782287827,
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU21YMW1OaFYwVjNBN3VBb3dWWV9Sc1BScmFWOFdSRW0yWl9JTzFPdENHb09tNWpQaGdSb1Z2RldIcUxxQ3VzdGJRa3oyZHdRN1FWWkpiV3RNVFpxVnFJV0lSQUVzY2NzcGZpdkpmZ081SVRrcUtRYVMwa3Axd0xEOQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOU21YMW1OaFYwVjNBN3VBb3dWWV9Sc1BScmFWOFdSRW0yWl9JTzFPdENHb09tNWpQaGdSb1Z2RldIcUxxQ3VzdGJRa3oyZHdRN1FWWkpiV3RNVFpxVnFJV0lSQUVzY2NzcGZpdkpmZ081SVRrcUtRYVMwa3Axd0xEOQ?oc=5\" target=\"_"
-    },
-    {
-      "title": "최윤영 한화투자증권 팀장, '하반기 디지털자산 전망:제도권 편입 등' 발표",
-      "source": "뉴스웨이",
-      "published_kst": "2026-06-24 16:12 KST",
-      "published_ts": 1782285178,
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MVFRydXNZZnB6S2tYY0VYZ21PUG1XdDd6WGhKRjZrdzFWMl9tbFVFZC1MWlJ0RHgtSk42YjJKYndSTDV6Mnl1bkl5Qzc0UHBCTld1Vmh4U1lFNHV0Wl9hbk5GV05BTnozX2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9MVFRydXNZZnB6S2tYY0VYZ21PUG1XdDd6WGhKRjZrdzFWMl9tbFVFZC1MWlJ0RHgtSk42YjJKYndSTDV6Mnl1bkl5Qzc0UHBCTld1Vmh4U1lFNHV0Wl9hbk5GV05BTnozX2c?oc=5\" target=\"_blank\">최윤영 한화투자증권 팀장, '하반기 디지털자"
-    },
-    {
-      "title": "\"유동성 관문 지켜야 승자\"…STO·RWA 등 표준 플랫폼 경쟁 향한다 [증권사 '토큰화 생태계' 전략지도 (2)]",
-      "source": "한국금융신문",
-      "published_kst": "2026-06-24 16:09 KST",
-      "published_ts": 1782284953,
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RTTJ4ODk1UG0ySVZ6LUZHUFdwRTljcTl4aXZjeGN0WHBPQkp0aWRoUHJ1OXg5Q0syVWVQMVN4OFZGNDNZVThINWtad3NwYkFMSTBqeXdZX0tsMU1JbjJqREtoLUQxTjdmamRNTHZSRjlSNldmczFxeGM1UjU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1RTTJ4ODk1UG0ySVZ6LUZHUFdwRTljcTl4aXZjeGN0WHBPQkp0aWRoUHJ1OXg5Q0syVWVQMVN4OFZGNDNZVThINWtad3NwYkFMSTBqeXdZX0tsMU1JbjJqREtoLUQxTjdmamRNTHZSRjlSNldmczFxeGM1UjU?oc=5\" target=\"_blank\">"
-    },
-    {
-      "title": "토큰증권 하위법규 7월 윤곽…거래한도·풀링 범위 관건",
-      "source": "전자신문",
-      "published_kst": "2026-06-24 14:00 KST",
-      "published_ts": 1782277200,
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5weU5zdUVHbDIxaDQ4MjdEbXBjNkJxZ0RwOVh0X3ViTFF2al9fWC1HMFhvU3pRRHpBY1FHbHBmTUNfLURGOXhfTjMwLXZqdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5weU5zdUVHbDIxaDQ4MjdEbXBjNkJxZ0RwOVh0X3ViTFF2al9fWC1HMFhvU3pRRHpBY1FHbHBmTUNfLURGOXhfTjMwLXZqdw?oc=5\" target=\"_blank\">토큰증권 하위법규 7월 윤곽…거래한도·풀링 범위 관건</a>&nbsp;&nbsp;<font color=\"#6f"
-    },
-    {
-      "title": "\"한우·음원보다는 SK하이닉스…토큰화 본질은 상품 수요와 국경 허물기\"",
-      "source": "마켓인",
-      "published_kst": "2026-06-24 07:04 KST",
-      "published_ts": 1782252242,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wNUtwblJhTVZYMS05VzRzeHlEYnkxSmlnMkFwUGNEQmswVmFFbTRnaDlBX2stUWNzaTY3dGM3WWVKZFJOeWdVM2VaQkt1ZWxnSVV6WnB2ZWRBV1NmcHZ5d0NwWllVTnpBcGExVDVaLU8wWXM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5wNUtwblJhTVZYMS05VzRzeHlEYnkxSmlnMkFwUGNEQmswVmFFbTRnaDlBX2stUWNzaTY3dGM3WWVKZFJOeWdVM2VaQkt1ZWxnSVV6WnB2ZWRBV1NmcHZ5d0NwWllVTnpBcGExVDVaLU8wWXM?oc=5\" target=\"_blank\">\"한우·음원보다는 SK"
-    },
-    {
-      "title": "카카오페이, 카카오페이증권 100% 자회사 편입…“디지털자산 사업 시너지 강화”",
-      "source": "디지털데일리",
-      "published_kst": "2026-06-23 17:44 KST",
-      "published_ts": 1782204259,
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmdjNwRTZ0dndTVVZPQUVBNW04ejRDOVM3Znplc3BybkF2TGoyRm1Qa01SdmRMN0hScUFNQjdocWwxWVRIRGZIZVVuR2tJbTZoc0hmTjB2TWxaUTdJa042Z2dnYXg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmdjNwRTZ0dndTVVZPQUVBNW04ejRDOVM3Znplc3BybkF2TGoyRm1Qa01SdmRMN0hScUFNQjdocWwxWVRIRGZIZVVuR2tJbTZoc0hmTjB2TWxaUTdJa042Z2dnYXg?oc=5\" target=\"_blank\">카카오페이, 카카오페이증권 100% 자회사 편입…“디지털자"
-    },
-    {
-      "title": "증권사 업고 토큰증권 시대 반격 노리는 중소 코인 거래소 - 조선비즈",
-      "source": "Chosunbiz",
-      "published_kst": "2026-06-23 09:30 KST",
-      "published_ts": 1782174600,
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFd4U0NNY1RiUFdYWHNaREpPM1BNMTN6OFRURExSWnBDUjBYcHZjNHhOdC1tYzFKRk5QalR6N3dNYlU0UGwwVzM0VkdqTXREWUZHc09SZXBOZ1AwRUdoZ0FMakNWZ2FPTlN1bjdaM29aSmFiei1BeWVIcjllWTZLZtIBlAFBVV95cUxNSENHYnNNMkRQWVpIajQ5VnpUVk9ueWJxb2dIWEFEM0hNQjBnQ09kTWg3bTR3Tm9vclVHTzhDa3ZNd1JhWVdMNmZ6ZkxpQzZjc3JOZVRsUU9GTzdfU0pqU2Q1U0Y4UGdFNzVVQ2JkRjV6NnVFSWZ0SUNhcmIzR19CVWdtc2dldnVVRzBnalJCYlUxdHY3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFd4U0NNY1RiUFdYWHNaREpPM1BNMTN6OFRURExSWnBDUjBYcHZjNHhOdC1tYzFKRk5QalR6N3dNYlU0UGwwVzM0VkdqTXREWUZHc09SZXBOZ1AwRUdoZ0FMakNWZ2FPTlN1bjdaM29aSmFiei1BeWVIcjllWTZLZtIBlAFBVV95cUxNSE"
-    },
-    {
-      "title": "[STO 시대] 증권을 비트코인처럼…내년 360조 시장 열린다",
-      "source": "하이테크정보",
-      "published_kst": "2026-06-23 06:43 KST",
-      "published_ts": 1782164580,
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Bamc4VTlDTndvbGU2bENSYUFSdjlfMTE3alJSSG1uUXBVaGRUanRXMVdtRWJ6RksxcnFQZkJuRkpkQUNwQVlZc3hveFN0X1piRjU1TUFaQWVnMGFuQUkzdjZ4OXVUM0Fa0gFsQVVfeXFMT3JDVEJaeEFVeXpCSUl1MmgwYnI3UzMtMXRaZHRpTGo1VVNUcGU4TVhQQkFIeDI3U05RaVhmaUtTUTVUcVZ0WTRQTU5vWW1pTFRUVUNOOWV4bExXcjlvU0s0cVpyZjNtTTVZclNJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Bamc4VTlDTndvbGU2bENSYUFSdjlfMTE3alJSSG1uUXBVaGRUanRXMVdtRWJ6RksxcnFQZkJuRkpkQUNwQVlZc3hveFN0X1piRjU1TUFaQWVnMGFuQUkzdjZ4OXVUM0Fa0gFsQVVfeXFMT3JDVEJaeEFVeXpCSUl1MmgwYnI3UzMtMXRaZH"
-    },
-    {
-      "title": "\"7월 토큰증권 하위법 개정안서 정형증권·퍼블릭 체인 허용해야\"",
-      "source": "이데일리",
-      "published_kst": "2026-06-22 18:42 KST",
-      "published_ts": 1782121328,
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGZfR2FmQ2ZxV215WVMwZnBJalZjdGQ1VUxYNEQxcTlVSWdkd2NnRzRZWkFOTUVUa2V4b3VQcmc5NGxMNWZzRDQtRHJTeU1CWUJXbDZxeW5qRGx1MTZabVJYYndobndWWFpQMWUwbFJTSFZvUW8tU2QyVXNQSEJKVQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGZfR2FmQ2ZxV215WVMwZnBJalZjdGQ1VUxYNEQxcTlVSWdkd2NnRzRZWkFOTUVUa2V4b3VQcmc5NGxMNWZzRDQtRHJTeU1CWUJXbDZxeW5qRGx1MTZabVJYYndobndWWFpQMWUwbFJTSFZvUW8tU2QyVXNQSEJKVQ?oc=5\" target=\"_"
-    },
-    {
-      "title": "[마켓인]“토큰증권, 조각투자 넘어 채권·MMF·반도체 주식까지 넓혀야”",
-      "source": "이데일리",
-      "published_kst": "2026-06-22 16:55 KST",
-      "published_ts": 1782114903,
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS25Rc3hMSjFEXzZZdnRPYlRMSUZNQmlwSmU5VjRSZXRjUGNCRVp6NDFXU3pIdWJTS3VLSllnbnVWdzRZeE1kUGpqOFNSaGdaVjZwTG9yc1Jna25oamNoMUpUTWZfWEtQQllDbU9GOXBmd0VXaXR5Smx5U3JmaElIVg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOS25Rc3hMSjFEXzZZdnRPYlRMSUZNQmlwSmU5VjRSZXRjUGNCRVp6NDFXU3pIdWJTS3VLSllnbnVWdzRZeE1kUGpqOFNSaGdaVjZwTG9yc1Jna25oamNoMUpUTWZfWEtQQllDbU9GOXBmd0VXaXR5Smx5U3JmaElIVg?oc=5\" target=\"_"
-    },
-    {
-      "title": "“토큰증권, 조각투자 넘어 채권·MMF·반도체 주식까지 넓혀야”",
-      "source": "마켓인",
-      "published_kst": "2026-06-22 16:54 KST",
-      "published_ts": 1782114862,
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91aUlUc0FhV3VrRnpBSHU1dktMeHRTcXhKSUpwSmZLMjlTc3dteVhTemYzbk5GeFdvVGZnS1NUZjNQOXVLWEFhSk1Xckw2bHpEOUJlQUdvWnRYZU9lSjdMOUMwTVBXMGNLaVVPUDFfSThDUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE91aUlUc0FhV3VrRnpBSHU1dktMeHRTcXhKSUpwSmZLMjlTc3dteVhTemYzbk5GeFdvVGZnS1NUZjNQOXVLWEFhSk1Xckw2bHpEOUJlQUdvWnRYZU9lSjdMOUMwTVBXMGNLaVVPUDFfSThDUQ?oc=5\" target=\"_blank\">“토큰증권, 조각투자 넘"
-    },
-    {
-      "title": "미래에셋증권 \"금가분리 철폐돼야…토큰증권 규제도 완화 필요\"",
-      "source": "한국경제",
-      "published_kst": "2026-06-22 15:58 KST",
-      "published_ts": 1782111480,
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1laEpCbEdaY0dieEdxTEg3TXhxU2lfRTFZYXdsbVNlOFBzZnJNaV9yQjNaX1FEcHZkaHloU0VQY3FxNG9fenpkLTRMeHN4M2FaUFAzbi1WQ0c5UdIBVEFVX3lxTE91UGU5cGlnRDNRZmsySFJ3aTBNUFNTUmNULUpINmpFbWNlWFktQUpBbzNfYUdmdVBtMGc3LV80ZEVza3pGZl9VRVkyd2M2SUFzWGViTg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1laEpCbEdaY0dieEdxTEg3TXhxU2lfRTFZYXdsbVNlOFBzZnJNaV9yQjNaX1FEcHZkaHloU0VQY3FxNG9fenpkLTRMeHN4M2FaUFAzbi1WQ0c5UdIBVEFVX3lxTE91UGU5cGlnRDNRZmsySFJ3aTBNUFNTUmNULUpINmpFbWNlWFktQUpBbz"
-    },
-    {
-      "title": "[단독] 미술품 넘어 회사채·펀드까지…증권사 10곳 중 9곳 토큰증권 참전",
-      "source": "v.daum.net",
-      "published_kst": "2026-06-21 15:39 KST",
-      "published_ts": 1782023944,
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzSWE1U2Z0ZTkzbG9ZZUZPODFfamNHZkZYbGlwNWFiUU9BakNmRlFjVk5BcjhycVZNOWhBVHJCelYwcTJjSC1nam5xVUlwRGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzSWE1U2Z0ZTkzbG9ZZUZPODFfamNHZkZYbGlwNWFiUU9BakNmRlFjVk5BcjhycVZNOWhBVHJCelYwcTJjSC1nam5xVUlwRGc?oc=5\" target=\"_blank\">[단독] 미술품 넘어 회사채·펀드까지…증권사 10곳 중 9곳 토큰증권 참전</a>&nbsp;&nbsp;<fo"
-    },
-    {
-      "title": "[단독] 미술품 넘어 회사채·펀드까지…증권사 10곳 중 9곳 토큰증권 참전",
-      "source": "매일경제 마켓",
-      "published_kst": "2026-06-21 15:37 KST",
-      "published_ts": 1782023845,
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sUnlFX1FXbDlUWkZlMi16ZjJ0dDRnLUdtZTZQbHJvWWlqY3ExaFpXcU5mN1MydTZEajJXd2VwbjhtU2hwbHV1Z3o5MUNmUzUxc0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sUnlFX1FXbDlUWkZlMi16ZjJ0dDRnLUdtZTZQbHJvWWlqY3ExaFpXcU5mN1MydTZEajJXd2VwbjhtU2hwbHV1Z3o5MUNmUzUxc0E?oc=5\" target=\"_blank\">[단독] 미술품 넘어 회사채·펀드까지…증권사 10곳 중 9곳 토큰증권 참전</a>&nbsp;&nbsp"
     }
   ]
 }
