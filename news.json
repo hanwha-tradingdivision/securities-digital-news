@@ -1,7 +1,23 @@
 {
   "query": "증권 디지털 OR STO OR 토큰증권 OR 토큰화 OR 디지털자산 OR 디지털채권",
-  "generated_kst": "2026-07-04 09:14 KST",
+  "generated_kst": "2026-07-05 09:10 KST",
   "items": [
+    {
+      "title": "예탁결제원, 정형증권 토큰화 수용 방안 검토",
+      "source": "디지털애셋",
+      "published_kst": "2026-07-04 17:28 KST",
+      "published_ts": 1783153716,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vVFBzczNWVVJ1bHlTemQyQ2Vza083c3dCWndCcjdMeDY2OEI1UHQ1MG0wb2swaFB1MDZiV19Zd1c3SXVPNXRaNEJnaXVtMmpDZklvMlJpclEwbkV0Zi1yTGNGZ0lBM2pDUnZoQ0FCclFTdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9vVFBzczNWVVJ1bHlTemQyQ2Vza083c3dCWndCcjdMeDY2OEI1UHQ1MG0wb2swaFB1MDZiV19Zd1c3SXVPNXRaNEJnaXVtMmpDZklvMlJpclEwbkV0Zi1yTGNGZ0lBM2pDUnZoQ0FCclFTdw?oc=5\" target=\"_blank\">예탁결제원, 정형증권 토"
+    },
+    {
+      "title": "상장주식 토큰화의 단계적 진화를 제도화해야 할 때",
+      "source": "한국경제",
+      "published_kst": "2026-07-04 10:46 KST",
+      "published_ts": 1783129575,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16MHBOYnNSUTZFMW1qRHkybS1mM29lelVSUFQ4OGdwNUlRR3p0d0tCY1V4TGhtWHZ5YmNLdk85NkJnNjRPZWJuNDlHMVVuSnVYQ0xyNTNUa0FRQdIBVEFVX3lxTE10TTkzeXBnOTNBU3BlM3kyclN1WHR5MUlZb0VIcERVdzNCSllDbVd0ZlJaRmVNYmM3OUttY3JaZmtuVjZiOV9XRUQ1ODA4SmU2SVhMWA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE16MHBOYnNSUTZFMW1qRHkybS1mM29lelVSUFQ4OGdwNUlRR3p0d0tCY1V4TGhtWHZ5YmNLdk85NkJnNjRPZWJuNDlHMVVuSnVYQ0xyNTNUa0FRQdIBVEFVX3lxTE10TTkzeXBnOTNBU3BlM3kyclN1WHR5MUlZb0VIcERVdzNCSllDbVd0Zl"
+    },
     {
       "title": "시큐리타이즈, 뉴욕증시 데뷔...솔라나·아발란체서 토큰화 주식도 출시",
       "source": "디지털투데이",
@@ -43,6 +59,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE95RURwYlBQLURiVzdhOVRBMXNtNFlNUWs3VjBSNXpXS3REdUVMYVAxWVNNQUxvTU5uUXRNbE04cjJLUjlsZmVka3RoY1AtQzRiWC1ac3FjUVBoZFBscTBsaEN6a2hnWkF4bW5obG1pVkJMZzjSAXdBVV95cUxNWUJXU2g2MkxHQXFGclVvRU"
     },
     {
+      "title": "예탁원, 디지털 전환 조직개편…김민수 신임 전무 선임",
+      "source": "메트로신문",
+      "published_kst": "2026-07-03 17:46 KST",
+      "published_ts": 1783068370,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VTHctUk04MFVwb3IxS0ptNF9oNFQzWmJNM2F3WU5oZTBjb2U5eC1jRlBBNkhhVnNrWDJzX2ZBajFZV3FTRUQyM25XZ2hlYkZEWnF6UWs0STllM0R5ek4yYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VTHctUk04MFVwb3IxS0ptNF9oNFQzWmJNM2F3WU5oZTBjb2U5eC1jRlBBNkhhVnNrWDJzX2ZBajFZV3FTRUQyM25XZ2hlYkZEWnF6UWs0STllM0R5ek4yYw?oc=5\" target=\"_blank\">예탁원, 디지털 전환 조직개편…김민수 신임 전무 선임</a>&nbs"
+    },
+    {
       "title": "예탁결제원, 토큰증권 조직 정규화…차세대 IT 구축 조직도 신설",
       "source": "ER 이코노믹리뷰",
       "published_kst": "2026-07-03 17:21 KST",
@@ -75,12 +99,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CZWdNM194MXRUZUJfWG9TeTFWaEtOXzlXb3h0ZEhKYV92b2NMaTBXZlFmcktBTVpmOGlyWWthLTVQUHozam5Bb3NEV2wyQXM2OXdmS3pDU0Y5dkJh?oc=5\" target=\"_blank\">한국예탁결제원, 디지털 전환 대응 조직개편 단행</a>&nbsp;&nbsp;<"
     },
     {
-      "title": "예탁원, 토큰증권 ·전자주총 조직 강화…디지털 자산시대 대응",
-      "source": "네이트",
-      "published_kst": "2026-07-03 16:49 KST",
-      "published_ts": 1783064940,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NSlJXOFBNQnBORFNtM29QMnFvUkQwbm04QTJVWHlHQ3VuSnZSZ1FGcG4tSjBULVhaNzlWVEVycDZLUVJ3Z21aMjdhVjc0UkEtdGFF?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NSlJXOFBNQnBORFNtM29QMnFvUkQwbm04QTJVWHlHQ3VuSnZSZ1FGcG4tSjBULVhaNzlWVEVycDZLUVJ3Z21aMjdhVjc0UkEtdGFF?oc=5\" target=\"_blank\">예탁원, 토큰증권 ·전자주총 조직 강화…디지털 자산시대 대응</a>&nbsp;&nbsp;<font "
+      "title": "예탁결제원, 조직 개편·임원 인사 단행…데이터 허브·차세대 시스템 강화",
+      "source": "더게이트",
+      "published_kst": "2026-07-03 16:37 KST",
+      "published_ts": 1783064267,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1POXRqOXhIcnJ1NVNGb1Rrak52STY0SVd2d0JaMm1NNTRDVnNiSUVVWHRROE1STXV4RUVER09fUFYzM1VLdFNEdnNlakxxQjZMV2J0WXZoSWpWeEVHV0tfRjZ2c0VSOFpr0gFsQVVfeXFMUDRLZ3VNb2IzUzZjb0dwcC1ZLWRkR2phSmkwUDFQNk80eDhfb0RMdGdseXd3Z2JscGhoVDdRNlpSMGItbzhWRWlfbVd3UmRRREI5QmNqMER2R1hlOXMyaEtVMEZLcl90ejhCNnlF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1POXRqOXhIcnJ1NVNGb1Rrak52STY0SVd2d0JaMm1NNTRDVnNiSUVVWHRROE1STXV4RUVER09fUFYzM1VLdFNEdnNlakxxQjZMV2J0WXZoSWpWeEVHV0tfRjZ2c0VSOFpr0gFsQVVfeXFMUDRLZ3VNb2IzUzZjb0dwcC1ZLWRkR2phSmkwUD"
     },
     {
       "title": "토큰증권·전자주총 부서 신설… 한국예탁결제원, 디지털 전환 가속화 대대적 조직 개편",
@@ -115,12 +139,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yRkJkWGJEcEJrQnRBNE9PSnVGV0tPMWRrbVpnbWVpUklkTC04ZndIZzlkYXk5U2s4LU5ZbmV1clM5bE9kQzF0bHhzb0lRZ0U?oc=5\" target=\"_blank\">예탁결제원, 토큰증권·IT 조직 확대…디지털 전환 속도</a>&nbsp;&nbsp;<font color=\"#"
     },
     {
-      "title": "예탁결제원, 정형증권 토큰화 수용 방안 검토",
-      "source": "디지털애셋",
-      "published_kst": "2026-07-03 15:45 KST",
-      "published_ts": 1783061100,
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vVFBzczNWVVJ1bHlTemQyQ2Vza083c3dCWndCcjdMeDY2OEI1UHQ1MG0wb2swaFB1MDZiV19Zd1c3SXVPNXRaNEJnaXVtMmpDZklvMlJpclEwbkV0Zi1yTGNGZ0lBM2pDUnZoQ0FCclFTdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9vVFBzczNWVVJ1bHlTemQyQ2Vza083c3dCWndCcjdMeDY2OEI1UHQ1MG0wb2swaFB1MDZiV19Zd1c3SXVPNXRaNEJnaXVtMmpDZklvMlJpclEwbkV0Zi1yTGNGZ0lBM2pDUnZoQ0FCclFTdw?oc=5\" target=\"_blank\">예탁결제원, 정형증권 토"
+      "title": "'1경원 시대' 연 예탁결제원… STO·전자주총 조직 강화",
+      "source": "비즈트리뷴",
+      "published_kst": "2026-07-03 16:09 KST",
+      "published_ts": 1783062549,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzZEtuZ25HZ3JnWHoxelhlWFVEZHNmc3VVQUdpNHYtalNXamtRanlWUkgtc21STkY0ODVyX0YtbjRCSXpKcWxfOGJxMnNWdXNuY3JwT24wZWJqRkF4c0JGdC1lNnQyMDhYc3JYcUEzMzQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBzZEtuZ25HZ3JnWHoxelhlWFVEZHNmc3VVQUdpNHYtalNXamtRanlWUkgtc21STkY0ODVyX0YtbjRCSXpKcWxfOGJxMnNWdXNuY3JwT24wZWJqRkF4c0JGdC1lNnQyMDhYc3JYcUEzMzQ?oc=5\" target=\"_blank\">'1경원 시대' 연 예탁결제원"
+    },
+    {
+      "title": "[MD포커스] 미래에셋증권 보고서 들여다보니…박현주 철학의 진화, “금융 플랫폼으로”",
+      "source": "마이데일리",
+      "published_kst": "2026-07-03 15:54 KST",
+      "published_ts": 1783061664,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IZjBFUzNzUmtWZ093NTRDSV9kZjdMNkZGOTM2SDZWS0dUN1F5bEdoc3lhalgtdzdveU03TlBMQkpkZkh2SEg4UUZYOWhxa1pMRV9sVGROSWN1cEFjZi1zNw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IZjBFUzNzUmtWZ093NTRDSV9kZjdMNkZGOTM2SDZWS0dUN1F5bEdoc3lhalgtdzdveU03TlBMQkpkZkh2SEg4UUZYOWhxa1pMRV9sVGROSWN1cEFjZi1zNw?oc=5\" target=\"_blank\">[MD포커스] 미래에셋증권 보고서 들여다보니…박현주 철학의 진화, "
     },
     {
       "title": "한국예탁결제원, 토큰증권·전자주총 조직 상설화…차세대시스템도 정규 본부로",
@@ -163,20 +195,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE44TUN5ZUh2NC0wdDJ2MTRlQjB3NDNmLXhka25QUzFwQVlSd2VEMlVYN29GSGlTZHdKZHVmbTlJYXA4ZFlfb1dabGdzcEd4V2Z0YkZkU0dqZFdUOGFIRVNjaVJBUXJTcUg1Zl9MR3VwRWNMYms?oc=5\" target=\"_blank\">한국예탁결제원, 조직개"
     },
     {
-      "title": "코스콤, IT 특성화고 실무교육 확대...미래 디지털 인재 육성 지원",
-      "source": "핀포인트뉴스",
-      "published_kst": "2026-07-03 15:16 KST",
-      "published_ts": 1783059413,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpYVduWUR4ZktadGtNYkhoRGxXM0U2bXJVZG5ZaUxLOTl0endwUldOakdBUjZ2UzBSVlBiU09MMnBpaGxQbk0xSHlkdjBQb0RtcGJVX1o4WHRlZVBTUm9FRVM3dWdRMXhYSXF2RUEyOFpnLVnSAXdBVV95cUxPOFpkQ0hjQ01BUVZVNWxjcjdyVnBDWmN1RkwyVjM5TTFJbGpXVzdhdmotVEJISTR6cnhvTzl5UXpiV3RuODZpb0h6X0tMTEgyRW5LWWFSYTh4X2JDclZER3JEWVU1RU5ETW9OOE16T1FEVEl0Rk90WQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBpYVduWUR4ZktadGtNYkhoRGxXM0U2bXJVZG5ZaUxLOTl0endwUldOakdBUjZ2UzBSVlBiU09MMnBpaGxQbk0xSHlkdjBQb0RtcGJVX1o4WHRlZVBTUm9FRVM3dWdRMXhYSXF2RUEyOFpnLVnSAXdBVV95cUxPOFpkQ0hjQ01BUVZVNWxjcj"
+      "title": "한국예탁결제원, 조직개편·인사 단행…“자본시장 데이터 허브로 도약”",
+      "source": "이데일리",
+      "published_kst": "2026-07-03 15:18 KST",
+      "published_ts": 1783059485,
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT3FJejVZTkJDWHJlLVhoRzVhN0xwZUV5WEdiT19fQU1VSFV2cjRKTGdjem82X3ZGYzJKeVNDRlBMNjJEZ3QxbUJnYjQ3SVg5aXJlVXVoMGVkakxDNm82VXp3ZEk5SXhmOUk2UkYwbFRCWXRmbGpURXRpaGxpV0ZVWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPT3FJejVZTkJDWHJlLVhoRzVhN0xwZUV5WEdiT19fQU1VSFV2cjRKTGdjem82X3ZGYzJKeVNDRlBMNjJEZ3QxbUJnYjQ3SVg5aXJlVXVoMGVkakxDNm82VXp3ZEk5SXhmOUk2UkYwbFRCWXRmbGpURXRpaGxpV0ZVWQ?oc=5\" target=\"_"
     },
     {
-      "title": "예탁원 이윤수 사장 취임 후 첫 조직개편…전무이사에 김민수 본부장",
-      "source": "네이트",
-      "published_kst": "2026-07-03 15:14 KST",
-      "published_ts": 1783059240,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nN2ZkVU5ycTRwbjZkX2p5NG1MS3RZOHo2VUhXNmthMi1MQXp6dkhoTGMybU5qZTFxdW9TRmVMeV9JUWtaZVlISTZnNFAtMHR1bnhB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nN2ZkVU5ycTRwbjZkX2p5NG1MS3RZOHo2VUhXNmthMi1MQXp6dkhoTGMybU5qZTFxdW9TRmVMeV9JUWtaZVlISTZnNFAtMHR1bnhB?oc=5\" target=\"_blank\">예탁원 이윤수 사장 취임 후 첫 조직개편…전무이사에 김민수 본부장</a>&nbsp;&nbsp;<fo"
+      "title": "예탁원, 디지털혁신 대비 ‘토큰증권·IT구축’ 조직 상설화",
+      "source": "서울경제신문",
+      "published_kst": "2026-07-03 15:13 KST",
+      "published_ts": 1783059183,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lNmd0Q0RpSGdoNWRjT29vbzc0SkxYRTh6ekFiZkVVQ1lfZ0FTUVdTOUFMdEpvMy1JQWxfTUt0c2N4d1o5eTlKeFhSQzFNTmhIRnJLUGp2Yl84dTB3czhTUk5lQ2VtUdIBU0FVX3lxTE0wU1I4NTR4MXp4X1JjM2NzMlFVczNiWXZQQUZXVUhUZUI1SnJKMXdlbzlncDdMZjhrdDNwZUZSR2d3S2xfWVhvTE5YTWhvOGFFN3dz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lNmd0Q0RpSGdoNWRjT29vbzc0SkxYRTh6ekFiZkVVQ1lfZ0FTUVdTOUFMdEpvMy1JQWxfTUt0c2N4d1o5eTlKeFhSQzFNTmhIRnJLUGp2Yl84dTB3czhTUk5lQ2VtUdIBU0FVX3lxTE0wU1I4NTR4MXp4X1JjM2NzMlFVczNiWXZQQUZXVU"
     },
     {
       "title": "예탁결제원 ‘토큰증권·전자주주총회 조직’ 정규 직제화",
@@ -185,14 +217,6 @@
       "published_ts": 1783058633,
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RWjhoMHV6bWxYcVlhaUZRemNVLVh1c29GTldKTlFUOVJVUUFncS1rQzk1UXRNWklEekRLaFExVTlQSGxJMzk2S2Q3NUlPSl9tNUJFc3RmdUxVc0Y1enVXbjlSMWZBeFhZZ1hGcy1PM0PSAXRBVV95cUxQNWVaQl9MWHNsRlcwSUZhZC1RYVNtaEVvRE0xc0liVXNaZkNTQUJsQklRUzJpMkpBbkFzcHNiRHJGa21kcDAxU285TnJoYnFYcjFyU2tBeGRDV1pJbWY2VzE4N0lUM1dRdHVVcHJCcEtVMDg0SQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5RWjhoMHV6bWxYcVlhaUZRemNVLVh1c29GTldKTlFUOVJVUUFncS1rQzk1UXRNWklEekRLaFExVTlQSGxJMzk2S2Q3NUlPSl9tNUJFc3RmdUxVc0Y1enVXbjlSMWZBeFhZZ1hGcy1PM0PSAXRBVV95cUxQNWVaQl9MWHNsRlcwSUZhZC1RYV"
-    },
-    {
-      "title": "예탁원, 성장혁신실 신설…토큰증권 조직 정규화",
-      "source": "네이트",
-      "published_kst": "2026-07-03 14:57 KST",
-      "published_ts": 1783058220,
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96Z0JVRF9wLTNIaUJncTlDT1Q3LWQtbE5DUkd2M3hiNXBraTU0aG5hRi1uRzEzUloxUVJXcGRuY2ZSNDRBYXFYMlBCOWNLY3hQc2Jr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE96Z0JVRF9wLTNIaUJncTlDT1Q3LWQtbE5DUkd2M3hiNXBraTU0aG5hRi1uRzEzUloxUVJXcGRuY2ZSNDRBYXFYMlBCOWNLY3hQc2Jr?oc=5\" target=\"_blank\">예탁원, 성장혁신실 신설…토큰증권 조직 정규화</a>&nbsp;&nbsp;<font color=\"#"
     },
     {
       "title": "예탁원, 성장혁신실 신설…토큰증권 조직 정규화",
@@ -227,28 +251,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQVjBXWWM1Q3dpbWJkb1hGUjdneHdKZE9OSWloUlYtTlJ5aGptMWp3Y0dTb3dsbE9Tek92Y1RDZmdyXzVNMGo5amhnRW5QRFJuaUkwSFVwTkwxS3g4bC00bzViTlIyNHRnSVhoXzg2VFRiWkNwVXdiZlN6dGlnckdPdg?oc=5\" target=\"_"
     },
     {
-      "title": "이더리움 재단, 스테이블코인 제도화 관련 공공 디지털 인프라 보고서 발간",
-      "source": "이데일리",
-      "published_kst": "2026-07-03 10:26 KST",
-      "published_ts": 1783041962,
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQlZSM3NaM3hpVnF2MWJRekE5VEl6ZFdGYTR0b0lPcDBiTGJ6NlVKbUtjSUpyMkVYdXNfeUVzeEVZUlRLX3UyT0MzNElGTGlTZVFRUkp4d2J0WVNRR2l6LVpWYnE0WnJZSXJUSjl3RmVybFlVQlNoRkY0WG5CcElpbg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQlZSM3NaM3hpVnF2MWJRekE5VEl6ZFdGYTR0b0lPcDBiTGJ6NlVKbUtjSUpyMkVYdXNfeUVzeEVZUlRLX3UyT0MzNElGTGlTZVFRUkp4d2J0WVNRR2l6LVpWYnE0WnJZSXJUSjl3RmVybFlVQlNoRkY0WG5CcElpbg?oc=5\" target=\"_"
-    },
-    {
-      "title": "신한지주, 주주환원 확대·STO 인프라 선점 기대감에 강세",
-      "source": "핀포인트뉴스",
-      "published_kst": "2026-07-03 10:05 KST",
-      "published_ts": 1783040741,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hSHVkZ255a2dGWEtKTE9RaHFvRlhXRGt2alhqUkk0N3RvVExPV29FYy1RUm40VzNpeW1YczlHckhTSnNKc2ptVV9RalJnTUt0N2dIOWoxT1UtdFM4ck52cUg1ZDE2UV8xdUd5bDd2TGNaTlXSAXdBVV95cUxQNW5SUEc2MHE5Mk9hRWZ0bjZPeUdOVnVIQ2pteFNaa0l1OGpwWFBHZndqdkNERjNzNTZuaVhBc0I4Rm1qUnVHdUlhR2lXMHdzMkd6SkpvSUZmTG5KMWVuM1BRRGNWZHJyY09xTGhjS3RvNGE1NUt3MA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1hSHVkZ255a2dGWEtKTE9RaHFvRlhXRGt2alhqUkk0N3RvVExPV29FYy1RUm40VzNpeW1YczlHckhTSnNKc2ptVV9RalJnTUt0N2dIOWoxT1UtdFM4ck52cUg1ZDE2UV8xdUd5bDd2TGNaTlXSAXdBVV95cUxQNW5SUEc2MHE5Mk9hRWZ0bj"
-    },
-    {
       "title": "온도파이낸스, 블랙록 ETF·마이크론 주식 토큰화…SEC 규제모델 첫 적용",
       "source": "블록미디어",
       "published_kst": "2026-07-03 06:03 KST",
       "published_ts": 1783026180,
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BWWpYWVRPcDZEdzlYWS1UN1pTcmlTNU1WZXFOdDFvOVFVT1hTZW85Z2dRQUx2Ump0V0xpRFNJWEhOOXY4TnROTHdiN0MtTmxRcW0xbFI0NjU?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BWWpYWVRPcDZEdzlYWS1UN1pTcmlTNU1WZXFOdDFvOVFVT1hTZW85Z2dRQUx2Ump0V0xpRFNJWEhOOXY4TnROTHdiN0MtTmxRcW0xbFI0NjU?oc=5\" target=\"_blank\">온도파이낸스, 블랙록 ETF·마이크론 주식 토큰화…SEC 규제모델 첫 적용</a>&nb"
+    },
+    {
+      "title": "시큐리타이즈, 뉴욕증시 상장 첫날 자사주 토큰화…솔라나·아발란체서 거래",
+      "source": "블록미디어",
+      "published_kst": "2026-07-03 05:33 KST",
+      "published_ts": 1783024380,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04bDA1Z0RQRDFMSmRKc1A1U3dyMjV5b1VUYTFXMGFERnBuWGJPdHE3Z2NtNGszbkpEOTNXMEJ0WXNHa0phLWhvQ2VqZGZsZkpLUzBzZ1JDUW4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE04bDA1Z0RQRDFMSmRKc1A1U3dyMjV5b1VUYTFXMGFERnBuWGJPdHE3Z2NtNGszbkpEOTNXMEJ0WXNHa0phLWhvQ2VqZGZsZkpLUzBzZ1JDUW4?oc=5\" target=\"_blank\">시큐리타이즈, 뉴욕증시 상장 첫날 자사주 토큰화…솔라나·아발란체서 거래</a>&nbsp"
     },
     {
       "title": "온도파이낸스, 마이크론 주식 토큰화…브로드리지와 협력",
@@ -259,60 +275,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tOWtxWDVGU1BrazZqV1ZZMUNRbVRCWGtvcFhENXdITjJybGRHM0d2RU02djVQaW5SUUNKXzgzRmNBVlZEa2pJVU1JMnpqWjFE?oc=5\" target=\"_blank\">온도파이낸스, 마이크론 주식 토큰화…브로드리지와 협력</a>&nbsp;&nbsp;<font color=\"#"
     },
     {
-      "title": "한화투자증권 '유튜브 채널' 개편 통해 디지털 콘텐츠 강화",
-      "source": "세이프머니",
-      "published_kst": "2026-07-02 17:57 KST",
-      "published_ts": 1782982660,
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4U2FySFoxaFh4SW1vdGJlRC1fS0lWLWdhNkUzOGI2cDlZdDNvQlBBTUFvQTBqQWQxXzhxZFhLSW5LaXF1Vm5KMnNsbFBhVjRaUU44TGxqU0loYlJBYUllYXVHcnpiU0lyUEEyT3l3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB4U2FySFoxaFh4SW1vdGJlRC1fS0lWLWdhNkUzOGI2cDlZdDNvQlBBTUFvQTBqQWQxXzhxZFhLSW5LaXF1Vm5KMnNsbFBhVjRaUU44TGxqU0loYlJBYUllYXVHcnpiU0lyUEEyT3l3?oc=5\" target=\"_blank\">한화투자증권 '유튜브 채널' 개편 "
+      "title": "亞 투자자 68% 이미 RWA 보유...10중 7은 “토큰 주식 투자할 것”",
+      "source": "매일경제",
+      "published_kst": "2026-07-02 16:20 KST",
+      "published_ts": 1782976810,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wcm56UG5GOEZzbDNSeGhoblpZV19wcGpJNWliVEtxRVJGSUJvWXRrU3BkV0xHUzJwUzFCdGFrVXU4WVlsaUVkTWstXzdsVllrUGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wcm56UG5GOEZzbDNSeGhoblpZV19wcGpJNWliVEtxRVJGSUJvWXRrU3BkV0xHUzJwUzFCdGFrVXU4WVlsaUVkTWstXzdsVllrUGc?oc=5\" target=\"_blank\">亞 투자자 68% 이미 RWA 보유...10중 7은 “토큰 주식 투자할 것”</a>&nbsp;&nbs"
     },
     {
-      "title": "한화투자증권, 유튜브 채널 개편…디지털 자산 콘텐츠 확대",
-      "source": "파이낸셜투데이",
-      "published_kst": "2026-07-02 16:16 KST",
-      "published_ts": 1782976617,
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Lb0ttQmlyd3RPRGpaaXJNcms0aUtZWHBhZk1wTkNlaWNsT0dXSFFvZUpud2VUcFFoQXdzRWxPQm9UdGNpcVFneWZhVTZhc1VKZnlsckpkQ21wU1ZPWW91Mnh3Mkdva1M5TkHSAW5BVV95cUxPZ0ljOHB5cm1XRW00d3VfWVphelktcHd2a2QzVElyb08wYlVhUDZMLVdMYmdNVkQtZktyV25hYVBMOGlrcFNiWHBwbDF5WHZvaHM2eldOaUZ0bjB6ektJNjJuaFZIWjZoSTFZbGpqQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9Lb0ttQmlyd3RPRGpaaXJNcms0aUtZWHBhZk1wTkNlaWNsT0dXSFFvZUpud2VUcFFoQXdzRWxPQm9UdGNpcVFneWZhVTZhc1VKZnlsckpkQ21wU1ZPWW91Mnh3Mkdva1M5TkHSAW5BVV95cUxPZ0ljOHB5cm1XRW00d3VfWVphelktcHd2a2"
-    },
-    {
-      "title": "한화투자증권, 유튜브 채널 개편···디지털 자산 콘텐츠 확대",
-      "source": "서울파이낸스",
-      "published_kst": "2026-07-02 15:34 KST",
-      "published_ts": 1782974088,
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kRFZTMVlERFctemFrVEZ3cG44bGxJM083SXlGTWNkRGF2aXQySzdmdEcwMjFBT3dxQ0FyUjA2Mmxfa2Nud0pRZjZOelV5SHJGNlZ3Q0w0WmVYelFva1NadTF5cHExbUJ0WUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1kRFZTMVlERFctemFrVEZ3cG44bGxJM083SXlGTWNkRGF2aXQySzdmdEcwMjFBT3dxQ0FyUjA2Mmxfa2Nud0pRZjZOelV5SHJGNlZ3Q0w0WmVYelFva1NadTF5cHExbUJ0WUE?oc=5\" target=\"_blank\">한화투자증권, 유튜브 채널 개편···디지털 "
-    },
-    {
-      "title": "한화투자증권, 유튜브 개편…라이브·디지털 자산 콘텐츠 확대",
-      "source": "서울타임즈뉴스",
-      "published_kst": "2026-07-02 15:30 KST",
-      "published_ts": 1782973838,
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wd18wM0Q0ZFZyY3A2Nk95MUkycDE4My1ZalhxME91MU9MVE9iMHhzZVpVZ0luS0dBX2RJTERHd3Jzc3pRWEJBNGlTemsxZHhGWjBubkJ2UDVKUjYtQmtXbjZLZWlVUWt4aWxZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE4wd18wM0Q0ZFZyY3A2Nk95MUkycDE4My1ZalhxME91MU9MVE9iMHhzZVpVZ0luS0dBX2RJTERHd3Jzc3pRWEJBNGlTemsxZHhGWjBubkJ2UDVKUjYtQmtXbjZLZWlVUWt4aWxZ?oc=5\" target=\"_blank\">한화투자증권, 유튜브 개편…라이브·디지털 "
-    },
-    {
-      "title": "한화투자증권, 유튜브 채널 개편...디지털자산까지 담았다",
-      "source": "메트로신문",
-      "published_kst": "2026-07-02 14:58 KST",
-      "published_ts": 1782971884,
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xQm5PaGQ2QnVTV000SHZKNUpFQ09POTc5ZURrTzlGam1BRDJjazI1STNHU1NXeDJUM0pJZGY4eXc0LTlMMkZrQjQxbC1aemhzTkhYeGVsX1htR1dLamx2aA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xQm5PaGQ2QnVTV000SHZKNUpFQ09POTc5ZURrTzlGam1BRDJjazI1STNHU1NXeDJUM0pJZGY4eXc0LTlMMkZrQjQxbC1aemhzTkhYeGVsX1htR1dLamx2aA?oc=5\" target=\"_blank\">한화투자증권, 유튜브 채널 개편...디지털자산까지 담았다</a>&n"
-    },
-    {
-      "title": "법은 열리는데 거래는 막힌다…정형증권 STO 인프라 ‘엇박자’",
+      "title": "법은 열리는데 거래는 막힌다… 정형증권 STO 인프라 ‘엇박자’",
       "source": "v.daum.net",
       "published_kst": "2026-07-02 14:46 KST",
       "published_ts": 1782971177,
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wVE5jUmpQME5aenp6S0FKdVB6UmY3QUtnWWIwVzR1c3FKelpaSkZqZFVrSHNLV0pXVC1SOEpvVlUxa0VmdVdfWGlLaGRsOWs?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wVE5jUmpQME5aenp6S0FKdVB6UmY3QUtnWWIwVzR1c3FKelpaSkZqZFVrSHNLV0pXVC1SOEpvVlUxa0VmdVdfWGlLaGRsOWs?oc=5\" target=\"_blank\">법은 열리는데 거래는 막힌다…정형증권 STO 인프라 ‘엇박자’</a>&nbsp;&nbsp;<font colo"
-    },
-    {
-      "title": "한화투자증권, 유튜브 채널 전면 개편…디지털 자산·라이브 콘텐츠 강화",
-      "source": "비욘드포스트",
-      "published_kst": "2026-07-02 14:33 KST",
-      "published_ts": 1782970380,
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GeldKQ3hGNWd4TFhNTzB1UmVVaUNfQUF4aHY2VVZEbzlZZ29tdXpYYktUeG12YlpYcF93S3ZGRVRWQV9zSGJ0bkFvV0VxNG1jcmxaVXFBdTFhUjRQaVE3clByOW1UY1Q2eDFOT1R2dEYtekRlRHV5V1NaWnk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5GeldKQ3hGNWd4TFhNTzB1UmVVaUNfQUF4aHY2VVZEbzlZZ29tdXpYYktUeG12YlpYcF93S3ZGRVRWQV9zSGJ0bkFvV0VxNG1jcmxaVXFBdTFhUjRQaVE3clByOW1UY1Q2eDFOT1R2dEYtekRlRHV5V1NaWnk?oc=5\" target=\"_blank\">"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wRG5XTTgycU81MDZWY0Q3S0FoUW1NaE8wLTNCaUNKdGZIX21xLWpxczkyRDNPUVF0WnFxOFliWEl5Mjl1Q2ZZS1Z3Tk5hX2J4Um1uTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wRG5XTTgycU81MDZWY0Q3S0FoUW1NaE8wLTNCaUNKdGZIX21xLWpxczkyRDNPUVF0WnFxOFliWEl5Mjl1Q2ZZS1Z3Tk5hX2J4Um1uTA?oc=5\" target=\"_blank\">법은 열리는데 거래는 막힌다… 정형증권 STO 인프라 ‘엇박자’</a>&nbsp;&nbsp;<f"
     },
     {
       "title": "김민승 \"자산 토큰화는 역행 불가…원화 스테이블코인 서둘러야\" [DAIF 2026]",
@@ -321,22 +297,6 @@
       "published_ts": 1782968665,
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oTmhUel9lZTJBMWo1TTF4MEl2QUdDVFBHcE92UWEwaXlrUEFLNDh4MWluRkdwejRsLUFGZkN1NmF3U0hoN0tpcjVDNVd5TzJidVJOV3pmY0tQUQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oTmhUel9lZTJBMWo1TTF4MEl2QUdDVFBHcE92UWEwaXlrUEFLNDh4MWluRkdwejRsLUFGZkN1NmF3U0hoN0tpcjVDNVd5TzJidVJOV3pmY0tQUQ?oc=5\" target=\"_blank\">김민승 \"자산 토큰화는 역행 불가…원화 스테이블코인 서둘러야\" [DAIF 2026"
-    },
-    {
-      "title": "한화투자증권, 유튜브 새 콘텐츠 '디지털 쩐쟁 3.0' 선봬",
-      "source": "더게이트",
-      "published_kst": "2026-07-02 14:01 KST",
-      "published_ts": 1782968492,
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5X01xdWxoYjBWM28yS0d2Z1hzeDVrOUFBYkNtV19QaFRwd3N3aEpLRXVhMzhFZTVnNDQyYWhVMzczRGktNHo4Q0RSb2tFUUktcHZCdkNlNTJfUURobkQyaTBvSElMYk150gFsQVVfeXFMUDFseXpXbnV3SEdTd2JQRXJPbURELXZWdVd4emlfVnpVaDRpcWxMTFp3LWhEZGFON0pBX252WTVPa0RMbnZZblBSMFZfQkhSZE5mYUxOb1hYeEkxakJtSEczUE1uaGQwX1BOU0ky?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5X01xdWxoYjBWM28yS0d2Z1hzeDVrOUFBYkNtV19QaFRwd3N3aEpLRXVhMzhFZTVnNDQyYWhVMzczRGktNHo4Q0RSb2tFUUktcHZCdkNlNTJfUURobkQyaTBvSElMYk150gFsQVVfeXFMUDFseXpXbnV3SEdTd2JQRXJPbURELXZWdVd4em"
-    },
-    {
-      "title": "디지털자산 힘주는 한화투자증권…유튜브도 ‘가상자산’ 전면 배치",
-      "source": "뉴스투데이",
-      "published_kst": "2026-07-02 13:43 KST",
-      "published_ts": 1782967380,
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sai1RZTItTnNQVmFyV0xVeGRBN2FHUTF0dEw2TXd2My1PZTEyMTRYdjFFVEFlV0xTUjB6YmFhR2NWN1FOTUFxQ2VwcURSUlk4RVd0c29LZ0p3bm5tbkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sai1RZTItTnNQVmFyV0xVeGRBN2FHUTF0dEw2TXd2My1PZTEyMTRYdjFFVEFlV0xTUjB6YmFhR2NWN1FOTUFxQ2VwcURSUlk4RVd0c29LZ0p3bm5tbkE?oc=5\" target=\"_blank\">디지털자산 힘주는 한화투자증권…유튜브도 ‘가상자산’ 전면 배치</a>&n"
     },
     {
       "title": "Securitize, NYSE 상장과 함께 Solana 및 Avalanche에서 2억 9,500만 달러 상당의 자체 주식을 토큰화하다",
@@ -355,28 +315,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6UllBNVZxeXNYNVNOZi1nX0FZODRVWDh5NklrWEJEc1BxcXdhVzhnR052SWJhZ3p2c0dmRHJJcW5Telp5eElEN3R3ZUhoa0ZfZjBGeEZCZkQ2V1VkQVBhTtIBeEFVX3lxTE9aZlU1OVhqNWg4N3ZZWDAwZ2hDY2RnUG9qTXEtb0trejl2WE"
     },
     {
-      "title": "한화투자증권, '디지털 쩐쟁 3.0' 론칭...가상자산 콘텐츠 확대",
-      "source": "디지털애셋",
-      "published_kst": "2026-07-02 11:20 KST",
-      "published_ts": 1782958800,
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vQ0NCXzhQVndoNmQyTFlSeEFRYkktczFEUVJRV2pYUV9BdDVPTTB3UHVPQTlNTHJpX2hQdGFtM0NtUlBOazE0dl9rYWhQMHdWTFVLQnZaZ3pfczZreHBQS2lKajl0UjBGVkFNTG9oeTgzUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9vQ0NCXzhQVndoNmQyTFlSeEFRYkktczFEUVJRV2pYUV9BdDVPTTB3UHVPQTlNTHJpX2hQdGFtM0NtUlBOazE0dl9rYWhQMHdWTFVLQnZaZ3pfczZreHBQS2lKajl0UjBGVkFNTG9oeTgzUQ?oc=5\" target=\"_blank\">한화투자증권, '디지털 "
-    },
-    {
       "title": "미래에셋증권, 국내 주식 증거금률 상향…미수거래 관리 강화",
       "source": "디지털데일리",
       "published_kst": "2026-07-02 10:49 KST",
       "published_ts": 1782956946,
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TcXRKOFlTV0s0VXl3amd3VFQ4MmlrTl9yblpvU1gtSTJ5U1NVRkptUDBMYTZjM0RzajkyckM3VU9PVEJCYUJxdnR6R1RQNERvLXZQQTNaU243alJyZDhPeHFOa2Y?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TcXRKOFlTV0s0VXl3amd3VFQ4MmlrTl9yblpvU1gtSTJ5U1NVRkptUDBMYTZjM0RzajkyckM3VU9PVEJCYUJxdnR6R1RQNERvLXZQQTNaU243alJyZDhPeHFOa2Y?oc=5\" target=\"_blank\">미래에셋증권, 국내 주식 증거금률 상향…미수거래 관리 강화"
-    },
-    {
-      "title": "한화투자증권, 공식 유튜브 채널 개편",
-      "source": "뉴스핌",
-      "published_kst": "2026-07-02 10:45 KST",
-      "published_ts": 1782956700,
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WLU9ReUEweHVlNUxzSnVnQ3E4dHFRWFVEaDJEeEVmVy15OGtWdmtxdUNLM1pmVWx1TkZIbzBUazFHbDNucmFkZ2RCQ0hpSEhKWXRfSUxTRThVbzIz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WLU9ReUEweHVlNUxzSnVnQ3E4dHFRWFVEaDJEeEVmVy15OGtWdmtxdUNLM1pmVWx1TkZIbzBUazFHbDNucmFkZ2RCQ0hpSEhKWXRfSUxTRThVbzIz?oc=5\" target=\"_blank\">한화투자증권, 공식 유튜브 채널 개편</a>&nbsp;&nbsp;<font c"
     },
     {
       "title": "키움증권, 빗썸 지분 인수설…가상자산 투자 경쟁 뛰어드나",
@@ -387,20 +331,76 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFAySFphbUpOSWRRTUp2YUJFRGdEdEl4T0kxMWczOGpTWmREMjZ2NXFNdC1zNjFaZGtzUGcwVXFnR1Z4c1VLb1N1WWg3UTJzcXZCak5QbnRB?oc=5\" target=\"_blank\">키움증권, 빗썸 지분 인수설…가상자산 투자 경쟁 뛰어드나</a>&nbsp;&nbsp;<fon"
     },
     {
-      "title": "디지털 자산에 라이브 방송까지…한화투자증권, 유튜브 채널 개편",
-      "source": "헤럴드경제",
-      "published_kst": "2026-07-02 10:17 KST",
-      "published_ts": 1782955066,
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qTF9rSWJya3dCVGFlbVVHNkxKalFOSWo2UHdVWDNicHhUUGowN3lmRFdFdE1hcm9CWVEtRnVmM1VkSWEyUzR3dDBLSE1Cck9OQjNCOU9R?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qTF9rSWJya3dCVGFlbVVHNkxKalFOSWo2UHdVWDNicHhUUGowN3lmRFdFdE1hcm9CWVEtRnVmM1VkSWEyUzR3dDBLSE1Cck9OQjNCOU9R?oc=5\" target=\"_blank\">디지털 자산에 라이브 방송까지…한화투자증권, 유튜브 채널 개편</a>&nbsp;&nbsp;<"
+      "title": "한화투자증권 \"유튜브 채널 전면 개편\"",
+      "source": "v.daum.net",
+      "published_kst": "2026-07-02 10:33 KST",
+      "published_ts": 1782956022,
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OdDM0a05kcldzaVZYT0Zpck1HT0Y2TEVvcl9zWUtQUmVQaWZOdnBtN0VMamFfRHdWUVh3eGJsalJtZWp3YmFBYWhOZTVyTjA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OdDM0a05kcldzaVZYT0Zpck1HT0Y2TEVvcl9zWUtQUmVQaWZOdnBtN0VMamFfRHdWUVh3eGJsalJtZWp3YmFBYWhOZTVyTjA?oc=5\" target=\"_blank\">한화투자증권 \"유튜브 채널 전면 개편\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v"
     },
     {
-      "title": "투자정보도 '콘텐츠' 경쟁…한화투자증권, 디지털 자산 유튜브 강화",
-      "source": "이코노미사이언스",
-      "published_kst": "2026-07-02 10:01 KST",
-      "published_ts": 1782954081,
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UNUdJWXVCVFpSSUhmaTIxcjhvcUZlWlljUXlMd3dkeDlwMmpyckFhTFFKREJDX3NxNHpWdjV1M2ZXSmx2WlNDUk1QdmMzNERPanJ3UVk5RV9TNzVNSHZwRVlxRTlGTjU3UkZtbjQ4Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5UNUdJWXVCVFpSSUhmaTIxcjhvcUZlWlljUXlMd3dkeDlwMmpyckFhTFFKREJDX3NxNHpWdjV1M2ZXSmx2WlNDUk1QdmMzNERPanJ3UVk5RV9TNzVNSHZwRVlxRTlGTjU3UkZtbjQ4Zw?oc=5\" target=\"_blank\">투자정보도 '콘텐츠' 경쟁…한화"
+      "title": "한화투자증권, 유튜브 채널 개편...디지털자산 콘텐츠 확대",
+      "source": "디지털투데이",
+      "published_kst": "2026-07-02 09:25 KST",
+      "published_ts": 1782951925,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80MnRiajItdHlaemxSOXBjemdTOG1Ma1hZZ2x3d252ZVVLbjZOTDlsaGZXNDRnelpUZU1fRjNaM3BZWXRlcDN6b2J5cm9pMVNKM2pBYTcxV3h2Q1gzcmpaQ0VZeXRuODdKMk9WTkJiZkdvRWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE80MnRiajItdHlaemxSOXBjemdTOG1Ma1hZZ2x3d252ZVVLbjZOTDlsaGZXNDRnelpUZU1fRjNaM3BZWXRlcDN6b2J5cm9pMVNKM2pBYTcxV3h2Q1gzcmpaQ0VZeXRuODdKMk9WTkJiZkdvRWc?oc=5\" target=\"_blank\">한화투자증권, 유튜브 "
+    },
+    {
+      "title": "Ondo, BlackRock ETF 및 Micron 주식을 활용한 SEC 규정 준수 토큰화 주식 모델 출시",
+      "source": "CoinDesk",
+      "published_kst": "2026-07-02 07:16 KST",
+      "published_ts": 1782944160,
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORjZzdTczampoTURMUVFvWmNCWjAzYUh0dmpGeXVfaF9KSlEwWEVzaDNsNmNQOUlqNHJNWkNmX3hVNnplRlRxTGhFVUZ6emdKRGpZQ0h4dnlWalVCd3J0ejZZUGM0bnFmVFA4MnEzSGJkRnJYckI4UjhtN0M0QzZ4ak14Z1MzNTc4Q1c1aEpWdzFXd2FMd0lnNkIwMldKcmZqVDZ1TlFSOGpDY3djMmRXR1NSNWxZSWxHRzhyVjRCbmk1SGtYLTJSUmhEZm9XREU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxORjZzdTczampoTURMUVFvWmNCWjAzYUh0dmpGeXVfaF9KSlEwWEVzaDNsNmNQOUlqNHJNWkNmX3hVNnplRlRxTGhFVUZ6emdKRGpZQ0h4dnlWalVCd3J0ejZZUGM0bnFmVFA4MnEzSGJkRnJYckI4UjhtN0M0QzZ4ak14Z1MzNTc4Q1c1aE"
+    },
+    {
+      "title": "코스콤 \"공동 STO 플랫폼 상품 차별화 가능…정형증권·멀티체인 지원\"",
+      "source": "이데일리",
+      "published_kst": "2026-07-02 06:12 KST",
+      "published_ts": 1782940339,
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXhtMTMwcTJMdDB3MXNVTmFHamVfdjNFVGpmZDJCajFFTkdGektPUThIUWdvM1ltLWRLMENDeUlhLTA0SC1tTTh5RzYwLW1fRk56bmZybXh0a3d5a0V3UHE2OWdPOWdGVTVKLThGTWx1ODBreEo0Z1B5ZE01SzBkSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXhtMTMwcTJMdDB3MXNVTmFHamVfdjNFVGpmZDJCajFFTkdGektPUThIUWdvM1ltLWRLMENDeUlhLTA0SC1tTTh5RzYwLW1fRk56bmZybXh0a3d5a0V3UHE2OWdPOWdGVTVKLThGTWx1ODBreEo0Z1B5ZE01SzBkSQ?oc=5\" target=\"_"
+    },
+    {
+      "title": "STO 다음 격전지는 채권·MMF…증권사 선점전 본격화",
+      "source": "마켓인",
+      "published_kst": "2026-07-01 21:30 KST",
+      "published_ts": 1782909006,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40V3E3bzJPaVJPN3lUdGpaOUlWVlJxRXhablB3R28yZXZMcGN1OXBDaTV0aHBUbzR3dllkbXZ5aXdkZFZYNjZNa2swYzRtQ01KbGpMcUR3akxMMFJMcEZob0h2bmV6aWU5T1k3ekZTOElZdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE40V3E3bzJPaVJPN3lUdGpaOUlWVlJxRXhablB3R28yZXZMcGN1OXBDaTV0aHBUbzR3dllkbXZ5aXdkZFZYNjZNa2swYzRtQ01KbGpMcUR3akxMMFJMcEZob0h2bmV6aWU5T1k3ekZTOElZdw?oc=5\" target=\"_blank\">STO 다음 격전지는 채"
+    },
+    {
+      "title": "거래소 선점 끝…금융권 디지털자산 경쟁 ‘서비스’로",
+      "source": "파이낸셜투데이",
+      "published_kst": "2026-07-01 17:03 KST",
+      "published_ts": 1782893021,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pN3c3Z0lBY3MtRjVkT3F6RDJJU1JNRGlIclQ2Zmg0MkFUdWdHcGZmblIybVcwdEp3dGxkWUNMTWFVY0w3a3dyaTJFNHRnLVl5NnF1Mk5pTF9WZTd6M2F4SFpYTDJ3TmJHQXfSAW5BVV95cUxNbzNjYmJOMm5UNmpDWGNfUzd4b3g1R0xvQkdtU2ZQN2sydlNCYy1TZlBvSU5SSzlWOG1qUmQxREtoU2RtSmtjajZ6VDZZeGk3cU5oMFBrWXBpbTA5T3lEVlE1a09pV3VST0t5amgzdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1pN3c3Z0lBY3MtRjVkT3F6RDJJU1JNRGlIclQ2Zmg0MkFUdWdHcGZmblIybVcwdEp3dGxkWUNMTWFVY0w3a3dyaTJFNHRnLVl5NnF1Mk5pTF9WZTd6M2F4SFpYTDJ3TmJHQXfSAW5BVV95cUxNbzNjYmJOMm5UNmpDWGNfUzd4b3g1R0xvQk"
+    },
+    {
+      "title": "후반기 정무위 출범…디지털자산법·STO·인터넷은행 현안 산적",
+      "source": "전자신문",
+      "published_kst": "2026-07-01 13:45 KST",
+      "published_ts": 1782881130,
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fYWFUQmpBMDZjeVNobXZKTEVhNzRNcW9RN3ZnWkIzSS1nU0tGZERJdWVfWm8zVVdkTnRscGdadllqdlM4bWk1NGtZcVFGZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fYWFUQmpBMDZjeVNobXZKTEVhNzRNcW9RN3ZnWkIzSS1nU0tGZERJdWVfWm8zVVdkTnRscGdadllqdlM4bWk1NGtZcVFGZw?oc=5\" target=\"_blank\">후반기 정무위 출범…디지털자산법·STO·인터넷은행 현안 산적</a>&nbsp;&nbsp;<font color="
+    },
+    {
+      "title": "한투證 \"계좌 하나로 주식·코인·토큰증권 24시간 거래하는 플랫폼 만든다\"",
+      "source": "마켓인",
+      "published_kst": "2026-07-01 06:56 KST",
+      "published_ts": 1782856562,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZUnhsR0F0Tk02eWlGeWVuLVJWelBLaG1DRmVrMkVjLW1TbWJpN1RhcVYyWGNsc0F4OS1JVVhRWkN2QWVabzczNEE2enEzSlVqYy1DUWVCeFM1UWtQajRCVnU0aDFSdnFPSzFzMVV1Z0NCcnM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBZUnhsR0F0Tk02eWlGeWVuLVJWelBLaG1DRmVrMkVjLW1TbWJpN1RhcVYyWGNsc0F4OS1JVVhRWkN2QWVabzczNEE2enEzSlVqYy1DUWVCeFM1UWtQajRCVnU0aDFSdnFPSzFzMVV1Z0NCcnM?oc=5\" target=\"_blank\">한투證 \"계좌 하나로 "
+    },
+    {
+      "title": "거래소 품는 증권사들… ‘온체인 금융’ 뭐길래",
+      "source": "IT조선",
+      "published_kst": "2026-07-01 06:30 KST",
+      "published_ts": 1782855000,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nZV8tTjduRGRXZUxPY1hwMm1kd1VkT1l5VF85N2ZlajB3dnFOeF8tNUREalZjNkpuemlrbDB6ZXB2VDBwOEZLUnpQbHpYQUFKVkczMHRvdGZlaERvMUhaa05VU2x1c3JIdUpuTEFLNmXSAXRBVV95cUxPc3g0d0hEVmVnUDBnWWdrZmxXcmdhOXRCVS1TMUk0dFNKdHZNTjVZMUcwcGE0dXlHbTFvN3NfUjJxbWJMWWxEX0JCQkVQQVg5LXdZTU5HUFRaVFkzVHBfcWRWWmMtWTZQVUMtNDlZeHF1RGYzVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5nZV8tTjduRGRXZUxPY1hwMm1kd1VkT1l5VF85N2ZlajB3dnFOeF8tNUREalZjNkpuemlrbDB6ZXB2VDBwOEZLUnpQbHpYQUFKVkczMHRvdGZlaERvMUhaa05VU2x1c3JIdUpuTEFLNmXSAXRBVV95cUxPc3g0d0hEVmVnUDBnWWdrZmxXcm"
     }
   ]
 }
