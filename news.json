@@ -1,7 +1,31 @@
 {
   "query": "증권 디지털 OR STO OR 토큰증권 OR 토큰화 OR 디지털자산 OR 디지털채권",
-  "generated_kst": "2026-10-15 10:23 KST",
+  "generated_kst": "2026-10-16 10:12 KST",
   "items": [
+    {
+      "title": "日 9개사, 토큰증권·스테이블코인 동시결제",
+      "source": "한스경제",
+      "published_kst": "2026-10-16 08:55 KST",
+      "published_ts": 1792108501,
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtNHZ0c3FJVEJlYlBpR1VDUmhhUDZ5QUZtUjB0X1JzZV9uVDhFRW5XZlFsUDVGRG50UUpwVnNmS2dheDZPSDI5Sm5ZbnJENElhdTgwNG42TlJmbTRwSDJ6RmRkUC1CM1lHLUZjUNIBb0FVX3lxTFBPQXFFWmdpb1hpdnc1VXZBNXVsZlhYc0NXRXVjWDVPazZRb0J2U0p4cU1KdTZLNzY2NXl6ZmFOYUpCNkhSUlN5dnFaNzIwaWJqMnhWR1B4Rm45RWJWNF8xSGhlRTl6eGFUNkIwTmNsSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFAtNHZ0c3FJVEJlYlBpR1VDUmhhUDZ5QUZtUjB0X1JzZV9uVDhFRW5XZlFsUDVGRG50UUpwVnNmS2dheDZPSDI5Sm5ZbnJENElhdTgwNG42TlJmbTRwSDJ6RmRkUC1CM1lHLUZjUNIBb0FVX3lxTFBPQXFFWmdpb1hpdnc1VXZBNXVsZlhYc0"
+    },
+    {
+      "title": "'사모 회사채'도 토큰화···증권사 발행·중개사업 새 기회 될까",
+      "source": "서울파이낸스",
+      "published_kst": "2026-10-15 16:53 KST",
+      "published_ts": 1792050805,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rVWhYaFV1MGU1dDhFTjV0YmoweHMxTzlSeEsxeC1udFllNVl1cnRGTDVfeDBYc2dMaTR4cFdiaENYMHI3N3BMa2hJSGx0Y2FfZVBvZDZrdEtzcTV6VE5IQWFiUEM1QW56cUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9rVWhYaFV1MGU1dDhFTjV0YmoweHMxTzlSeEsxeC1udFllNVl1cnRGTDVfeDBYc2dMaTR4cFdiaENYMHI3N3BMa2hJSGx0Y2FfZVBvZDZrdEtzcTV6VE5IQWFiUEM1QW56cUE?oc=5\" target=\"_blank\">'사모 회사채'도 토큰화···증권사 발행·중"
+    },
+    {
+      "title": "토큰증권 관련 전자증권법·자본시장법 하위법규 개정안 입법예고와 실무상 유의사항",
+      "source": "법률신문",
+      "published_kst": "2026-10-15 10:39 KST",
+      "published_ts": 1792028346,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0LTVZT1B4Vk9KbHdUNU1kNEY5LWktV0NGWDNXeHB5YlduZVA2Z3BkZjZneEdaNXlPd04wRVZHZmR4amVwU3Q0UHUyZjlFQmRnN1VCZ29aSkZhc0R0YnVSamFmb2NZb3VXdnJvcXkxei1od9IBckFVX3lxTFB0LTVZT1B4Vk9KbHdUNU1kNEY5LWktV0NGWDNXeHB5YlduZVA2Z3BkZjZneEdaNXlPd04wRVZHZmR4amVwU3Q0UHUyZjlFQmRnN1VCZ29aSkZhc0R0YnVSamFmb2NZb3VXdnJvcXkxei1odw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB0LTVZT1B4Vk9KbHdUNU1kNEY5LWktV0NGWDNXeHB5YlduZVA2Z3BkZjZneEdaNXlPd04wRVZHZmR4amVwU3Q0UHUyZjlFQmRnN1VCZ29aSkZhc0R0YnVSamFmb2NZb3VXdnJvcXkxei1od9IBckFVX3lxTFB0LTVZT1B4Vk9KbHdUNU1kNE"
+    },
     {
       "title": "리플, 메리츠증권과 기관 수탁·토큰화 맞손… 결제 인프라 동시 확장",
       "source": "블록체인투데이",
@@ -9,14 +33,6 @@
       "published_ts": 1792021114,
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JeXd2eGJSbmdjN0Zid1lnMXNZZHBDeTRwTzJPZ2hkaTlvV2pHWHhadHJPUzdiZVVjY05lR0dsOW5RSWFTcHVNZzR2aHVGNTdGNTg0UzBzRDJsYlFKMmYybU5zclgtN0NJTmdheGxSWGc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1JeXd2eGJSbmdjN0Zid1lnMXNZZHBDeTRwTzJPZ2hkaTlvV2pHWHhadHJPUzdiZVVjY05lR0dsOW5RSWFTcHVNZzR2aHVGNTdGNTg0UzBzRDJsYlFKMmYybU5zclgtN0NJTmdheGxSWGc?oc=5\" target=\"_blank\">리플, 메리츠증권과 기관 수탁"
-    },
-    {
-      "title": "리플, 메리츠증권과 한국 증권사 첫 협력…수탁·토큰화 탐색에도 XRP 매수 약속은 없다",
-      "source": "위키트리",
-      "published_kst": "2026-10-15 02:01 KST",
-      "published_ts": 1791997260,
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxc0oyeDk3cnBYWTB3TC0xbUpGSUFaQ2FxRm9lZzBmVndCODBQRVNVVUlZS0J2RDBldndKZFowLXNIRHFiazFvc095N3hhaTlxOHVqWmtR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxc0oyeDk3cnBYWTB3TC0xbUpGSUFaQ2FxRm9lZzBmVndCODBQRVNVVUlZS0J2RDBldndKZFowLXNIRHFiazFvc095N3hhaTlxOHVqWmtR?oc=5\" target=\"_blank\">리플, 메리츠증권과 한국 증권사 첫 협력…수탁·토큰화 탐색에도 XRP 매수 약속은 없다</a"
     },
     {
       "title": "NH투자증권, 초고액자산가 문턱 낮춘다…‘디지털 큰손’ 공략 강화",
@@ -43,14 +59,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1FMF9WenV3WE9jQ2xFdlVEU0F5QVpNcjI4aGZ3RHJGTmE5ZS1Obk9Zc25XaUIxWWVIMUphbTl3ZzdIdkZlZEE3bEVkRm1KN0xGU0Zub2dKV2ZhWmdvdWxMd1RrQ1p4ZXdQNGxsQ3pDWmo?oc=5\" target=\"_blank\">NH투자증권, 디지털 초고액자"
     },
     {
-      "title": "리플·메리츠증권 손잡고 한국 토큰화 시장 공략…XRP 1.40달러 돌파는 '험로'",
-      "source": "코인리더스",
-      "published_kst": "2026-10-14 21:12 KST",
-      "published_ts": 1791979920,
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XcWZsdUlaT25NME1qc1dGTWVTdkFBRjdWZ19LOEczQmhQdmZKd0JvVlk4bnhtNGFuTW4wX3Rfa21PNXYwZjlITHlR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XcWZsdUlaT25NME1qc1dGTWVTdkFBRjdWZ19LOEczQmhQdmZKd0JvVlk4bnhtNGFuTW4wX3Rfa21PNXYwZjlITHlR?oc=5\" target=\"_blank\">리플·메리츠증권 손잡고 한국 토큰화 시장 공략…XRP 1.40달러 돌파는 '험로'</a>&nbsp;&nbsp;<font "
-    },
-    {
       "title": "BNY·시타델증권, 토큰화 미국 국채로 거래 완료…담보 이동 시간 줄인다",
       "source": "디지털투데이",
       "published_kst": "2026-10-14 21:05 KST",
@@ -63,8 +71,8 @@
       "source": "뉴시안",
       "published_kst": "2026-10-14 19:05 KST",
       "published_ts": 1791972317,
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VQThSRmlXSlhWTGZESURFWk1KMDg5SlRYVjJYYWNTWFVrZUZEYjZic2JZTDF1MmtuWlZreGxWOEQwVnhYYkU2dWZDNm4tcXUxZG0tM0lZNlBRNnFyOW51Ri1GOElHbEV5Uzgw0gFuQVVfeXFMT2VwOUo5U1FKdkxQelhTaWtqb0VKNVNtOWR1emVmLU5IS2hjSF96V0lqVE90emJsTWFqamdyTi1maVotamt1Z1ROckxBTlNHRURUWmx0SFY4LUpEQVlIVDBZOXFOTG5CVkM5NENqX1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9VQThSRmlXSlhWTGZESURFWk1KMDg5SlRYVjJYYWNTWFVrZUZEYjZic2JZTDF1MmtuWlZreGxWOEQwVnhYYkU2dWZDNm4tcXUxZG0tM0lZNlBRNnFyOW51Ri1GOElHbEV5Uzgw0gFuQVVfeXFMT2VwOUo5U1FKdkxQelhTaWtqb0VKNVNtOW"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55QkhtdGZvNHRGQXhZRGdxdnowSjdOdEhyUzhzSjliaUxDR2prT3RDUUxyaUlNUzhZS1ctRmc2dDFnUEJMeVNLek5Va1Mtd2trSkwxem82TDlBLURGSnJhdDAxV0VhVERBLWfSAW5BVV95cUxPZXA5SjlTUUp2TFB6WFNpa2pvRUo1U205ZHV6ZWYtTkhLaGNIX3pXSWpUT3R6YmxNYWpqZ3JOLWZpWi1qa3VnVE5yTEFOU0dFRFRabHRIVjgtSkRBWUhUMFk5cU5MbkJWQzk0Q2pfUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE55QkhtdGZvNHRGQXhZRGdxdnowSjdOdEhyUzhzSjliaUxDR2prT3RDUUxyaUlNUzhZS1ctRmc2dDFnUEJMeVNLek5Va1Mtd2trSkwxem82TDlBLURGSnJhdDAxV0VhVERBLWfSAW5BVV95cUxPZXA5SjlTUUp2TFB6WFNpa2pvRUo1U205ZH"
     },
     {
       "title": "메리츠증권, 캔톤 재단과 금융자산 토큰화 협약체결",
@@ -73,14 +81,6 @@
       "published_ts": 1791970854,
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZZldOZU1ZZXVaTDk5djNzMk5ZMkRNS05PZVV3TGVlOVctX1pLaUZJRENJZk1pd2tPSWgzUmE2amczOXdrWk1KU3pza1hpRERfN3BMb0VZaTFlMkJ6NDVETENBRGY?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZZldOZU1ZZXVaTDk5djNzMk5ZMkRNS05PZVV3TGVlOVctX1pLaUZJRENJZk1pd2tPSWgzUmE2amczOXdrWk1KU3pza1hpRERfN3BMb0VZaTFlMkJ6NDVETENBRGY?oc=5\" target=\"_blank\">메리츠증권, 캔톤 재단과 금융자산 토큰화 협약체결</a>&"
-    },
-    {
-      "title": "NH투자증권, ‘디지털 초고액자산가’ 대상 자산관리서비스 강화",
-      "source": "인더뉴스",
-      "published_kst": "2026-10-14 18:30 KST",
-      "published_ts": 1791970227,
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uMVc3OE9fQXVfQVlXdjBMaEpGeFNLVVRkZFNIQjNoYkxtMERXWEJEVHFCLTNlQmQzdmlkdXBEaTlBdFJzeGNTNU9sd1dVRjI1c2VEUjdFVllQWFd1blZKVVUzZUU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uMVc3OE9fQXVfQVlXdjBMaEpGeFNLVVRkZFNIQjNoYkxtMERXWEJEVHFCLTNlQmQzdmlkdXBEaTlBdFJzeGNTNU9sd1dVRjI1c2VEUjdFVllQWFd1blZKVVUzZUU?oc=5\" target=\"_blank\">NH투자증권, ‘디지털 초고액자산가’ 대상 자산관리서비스 "
     },
     {
       "title": "NH투자증권, '디지털 초고액자산가' 자산관리 심화",
@@ -105,14 +105,6 @@
       "published_ts": 1791968042,
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yM0dEWThuMGYycm11YkY1aEpwNEtSdTExNnpibXFOUzlFS0xTX3R3SkNnWmpxVC1WaEROSVZSeG5JY2VXTjAzZ045QUhJN0pHZkNtVmN4NGlORjFQMkR5Nk1wSTNSNVE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yM0dEWThuMGYycm11YkY1aEpwNEtSdTExNnpibXFOUzlFS0xTX3R3SkNnWmpxVC1WaEROSVZSeG5JY2VXTjAzZ045QUhJN0pHZkNtVmN4NGlORjFQMkR5Nk1wSTNSNVE?oc=5\" target=\"_blank\">NH투자증권, '디지털 초고액자산가' 전담 자산관리"
-    },
-    {
-      "title": "NH투자증권, 디지털 초고액자산가 관리 강화…내년 자산 20억원 이상으로 확대",
-      "source": "폴리뉴스 Polinews",
-      "published_kst": "2026-10-14 17:40 KST",
-      "published_ts": 1791967255,
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZeEhwU011bTJaZTUzSERMRGZQNjcySmFpOTM4djM3clE1TG5jbkd1Qmp1QnFlZ1VlaHpqYkxiRUlaZG5JX0NFM24tbmx3TnRfamxLd2d5eUhXYkJocGxFNTNxR3NKQTdCU2J5clNB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZeEhwU011bTJaZTUzSERMRGZQNjcySmFpOTM4djM3clE1TG5jbkd1Qmp1QnFlZ1VlaHpqYkxiRUlaZG5JX0NFM24tbmx3TnRfamxLd2d5eUhXYkJocGxFNTNxR3NKQTdCU2J5clNB?oc=5\" target=\"_blank\">NH투자증권, 디지털 초고액자산가 "
     },
     {
       "title": "미래에셋 품에 안긴 디지털엑스, 센터원 빌딩으로 본사 이전 추진",
@@ -155,20 +147,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Q2NGZnlyb1FyMzcyZTdUXy1zdjkyV3lIRUl2TEltQmtNNF9kRzVlcWVfdzgtUUVvREZtREV4cERlLUxMTTRFTVhkQ1FkU3YyMW8zckVjbXozNFZMZDhOcnR5dWRVX0VpQWZn?oc=5\" target=\"_blank\">NH투자증권, 디지털 초고액자산가 전담 서"
     },
     {
-      "title": "NH투자증권 '초고액자산가' 세금·상속·부동산까지 챙긴다",
-      "source": "뉴스1",
-      "published_kst": "2026-10-14 16:28 KST",
-      "published_ts": 1791962889,
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OTG0zQThRai1TdTJ3VEZBclRBRExCZ0FrZU9MYkM5QzNpMFJUcUxBYmVUbmVGLVpRaGdiRkRUbHRUeVE5RENSNm5xWFRUUHlPa0YzdVBJZVZMWk9TNTJv?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OTG0zQThRai1TdTJ3VEZBclRBRExCZ0FrZU9MYkM5QzNpMFJUcUxBYmVUbmVGLVpRaGdiRkRUbHRUeVE5RENSNm5xWFRUUHlPa0YzdVBJZVZMWk9TNTJv?oc=5\" target=\"_blank\">NH투자증권 '초고액자산가' 세금·상속·부동산까지 챙긴다</a>&nbs"
+      "title": "[오늘의 증권] 한국투자증권·메리츠증권·하나증권·삼성증권·NH투자증권",
+      "source": "파이낸셜리뷰",
+      "published_kst": "2026-10-14 16:20 KST",
+      "published_ts": 1791962432,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VUkhEUE1kc0YxbUpQUUdQUXAxS0RLa1RkcmliSHdRN0ZEQVBkOFFzMmJNejQtLTRCZllacHl2SVFXZ2ZjMlotZU04bzRybWV6U2VHMG1UY2dfMzJheHVPTjE5MFpPT2RKaWVubE9vamlJWFpZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1VUkhEUE1kc0YxbUpQUUdQUXAxS0RLa1RkcmliSHdRN0ZEQVBkOFFzMmJNejQtLTRCZllacHl2SVFXZ2ZjMlotZU04bzRybWV6U2VHMG1UY2dfMzJheHVPTjE5MFpPT2RKaWVubE9vamlJWFpZ?oc=5\" target=\"_blank\">[오늘의 증권] 한국"
     },
     {
       "title": "NH투자증권, '디지털 초고액자산가' 대상 자산관리 서비스 확대",
       "source": "아시아경제",
       "published_kst": "2026-10-14 16:17 KST",
-      "published_ts": 1791962220,
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XN05IMzB6QzZ4WVNLdkdHSzdZbzhYaHhiNkJRZnN4S290dGU4UTRxTGJ6dHI3TWJvMGxEenJLbkp1ZndmRUpEQS1rejhmMFNqaTE0NnIyc2xWcnI3d2lyRzVn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XN05IMzB6QzZ4WVNLdkdHSzdZbzhYaHhiNkJRZnN4S290dGU4UTRxTGJ6dHI3TWJvMGxEenJLbkp1ZndmRUpEQS1rejhmMFNqaTE0NnIyc2xWcnI3d2lyRzVn?oc=5\" target=\"_blank\">NH투자증권, '디지털 초고액자산가' 대상 자산관리 서비스 확대"
+      "published_ts": 1791962267,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HVVVyZzUzN2VYMjVJZFh3QXZzanJOYV9ncW05TUtJZ3dKWGxyWU1BN0tiWmpSMV9weXlkZzcxdmJ6cDI4WkFIQWRVR3U4N2NfVkQ2UTBTU0RZSFN2bDJkcQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HVVVyZzUzN2VYMjVJZFh3QXZzanJOYV9ncW05TUtJZ3dKWGxyWU1BN0tiWmpSMV9weXlkZzcxdmJ6cDI4WkFIQWRVR3U4N2NfVkQ2UTBTU0RZSFN2bDJkcQ?oc=5\" target=\"_blank\">NH투자증권, '디지털 초고액자산가' 대상 자산관리 서비스 확대</"
+    },
+    {
+      "title": "디지털엑스, 내달 미래에셋증권 본사로 사옥 이전",
+      "source": "블루밍비트",
+      "published_kst": "2026-10-14 16:13 KST",
+      "published_ts": 1791962021,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCdEc1Vkp2d3VZS0JZbGlEYUpFM09MVDZ6c3R1NFlDNWJfOHZwMWR3RGQ3T0djNHpCMFBwRmtXd25XYS1kNVdoamsyVTRLSkpw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCdEc1Vkp2d3VZS0JZbGlEYUpFM09MVDZ6c3R1NFlDNWJfOHZwMWR3RGQ3T0djNHpCMFBwRmtXd25XYS1kNVdoamsyVTRLSkpw?oc=5\" target=\"_blank\">디지털엑스, 내달 미래에셋증권 본사로 사옥 이전</a>&nbsp;&nbsp;<font color=\"#6f6"
     },
     {
       "title": "메리츠증권, 캔톤 재단과 디지털 자산 MOU… 금융자산 토큰화 협력 나선다",
@@ -275,14 +275,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tbnRYWTRVVkhjV0R3Q0hCOXVsQnRUa0hrbEFkTzluT3RRU3BqRS1iaUZtel9uVThybnhUaFRtaWwzSjRSZjVTanBfWC1tQjBrRmRpd014cnNScU5NcWtFRldDMA?oc=5\" target=\"_blank\">▒종합 경제정보 미디어 - 이데일리IR▒</a>&nbsp;&"
     },
     {
-      "title": "NH투자증권, ‘디지털 초고액자산가’ 대상 자산관리 서비스 확대",
-      "source": "이데일리",
-      "published_kst": "2026-10-14 14:14 KST",
-      "published_ts": 1791954854,
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObEtnTmRmQ0U4MHhXNE1vTnFsNHlFV1FZVHQwazNCMXg2SjVTNUx4bnBwRFRxQWN1NFpKbmk5ZHUtRDA4WmVvQVBtNjhxVWs3aDVaS0NudXdVZDNUR2ttamxyUkp2NzdqXzNwU0w2Qjkxb0VwckEzVFdDYWtaalFubA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxObEtnTmRmQ0U4MHhXNE1vTnFsNHlFV1FZVHQwazNCMXg2SjVTNUx4bnBwRFRxQWN1NFpKbmk5ZHUtRDA4WmVvQVBtNjhxVWs3aDVaS0NudXdVZDNUR2ttamxyUkp2NzdqXzNwU0w2Qjkxb0VwckEzVFdDYWtaalFubA?oc=5\" target=\"_"
-    },
-    {
       "title": "메리츠증권, 美 캔톤 재단과 금융자산 토큰화 협약",
       "source": "주간한국",
       "published_kst": "2026-10-14 14:03 KST",
@@ -323,14 +315,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QMWNVWUdwTEEwNmphdE5SZmJaWmJGTU80UFBiVzBUdEk4SHhWa2l6VkdEdFJwaDVyTFM1VFFSY1JYRHp4SG04NFljSlo4VHE1MWFxeWczdGxUbG5CSUpmNDdGczM1Ym14?oc=5\" target=\"_blank\">[증권 & Now] 메리츠증권, 캔톤 재단과 금융"
     },
     {
-      "title": "NH투자증권, 디지털 초고액자산가 맞춤 자산관리 확대",
-      "source": "스페셜경제",
-      "published_kst": "2026-10-14 13:05 KST",
-      "published_ts": 1791950722,
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10X2lmOFZ1ekVpNTh0MHQ5RUFnMTVjM0gyNS14N0NSTHRuTnNJcnRjNjZVZ3M0VFhiR1pVb0NjWWFmSnBJb0hHSXlZSWlkODlXVlNjck10ODdOeWVtQVp1OWVaRWs1RVVqRE9UdQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE10X2lmOFZ1ekVpNTh0MHQ5RUFnMTVjM0gyNS14N0NSTHRuTnNJcnRjNjZVZ3M0VFhiR1pVb0NjWWFmSnBJb0hHSXlZSWlkODlXVlNjck10ODdOeWVtQVp1OWVaRWs1RVVqRE9UdQ?oc=5\" target=\"_blank\">NH투자증권, 디지털 초고액자산가 맞춤"
-    },
-    {
       "title": "메리츠증권, 캔톤 재단과 금융자산 토큰화 업무협약",
       "source": "비즈월드",
       "published_kst": "2026-10-14 12:53 KST",
@@ -353,14 +337,6 @@
       "published_ts": 1791945818,
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtR1JhT0tqeDJYdnIyNG5MRUlIMlFZdDJQOGRtUG5TQkl5bDZjMDJIU2hhd0NSd2FjOFVqQl82VDQ1WE1LZjhPbS14YXJKcGdQWjBnSFVXTW41OGNzWUVjSXhPSXU?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtR1JhT0tqeDJYdnIyNG5MRUlIMlFZdDJQOGRtUG5TQkl5bDZjMDJIU2hhd0NSd2FjOFVqQl82VDQ1WE1LZjhPbS14YXJKcGdQWjBnSFVXTW41OGNzWUVjSXhPSXU?oc=5\" target=\"_blank\">“20억 자산가도 전담 관리”…NH투자증권, 디지털 자산관"
-    },
-    {
-      "title": "메리츠증권, 캔톤과 손잡고 금융자산 토큰화 모색",
-      "source": "DealSite경제TV",
-      "published_kst": "2026-10-14 11:35 KST",
-      "published_ts": 1791945314,
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pREdYZm1uRF9tdTZGMElEOGR6RmtEbjBJVmVKeGtma1pLd2V0NnBHdFdidGR3cmt2eGZCSE5PZGxkeGdQcXI2SDU3X2F4YXdlVFQ5YWx3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pREdYZm1uRF9tdTZGMElEOGR6RmtEbjBJVmVKeGtma1pLd2V0NnBHdFdidGR3cmt2eGZCSE5PZGxkeGdQcXI2SDU3X2F4YXdlVFQ5YWx3?oc=5\" target=\"_blank\">메리츠증권, 캔톤과 손잡고 금융자산 토큰화 모색</a>&nbsp;&nbsp;<font col"
     },
     {
       "title": "메리츠증권, 리플 이어 캔톤과 맞손… 디지털자산 협력 확대",
@@ -401,6 +377,30 @@
       "published_ts": 1791943296,
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UUHVMbzM5b2luR1BVUWp3X3J4YzZfMGh5SlAzRlNIVDJhR3FVQmpJOXNMSWttQ2FONXFEd2xhMkFnUmg2MFBkRzhzZVJVZ2p2dzJtU0VZbHo1RkpwYlR6QnJ3MklXUQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UUHVMbzM5b2luR1BVUWp3X3J4YzZfMGh5SlAzRlNIVDJhR3FVQmpJOXNMSWttQ2FONXFEd2xhMkFnUmg2MFBkRzhzZVJVZ2p2dzJtU0VZbHo1RkpwYlR6QnJ3MklXUQ?oc=5\" target=\"_blank\">[단독] 디지털엑스, 미래에셋증권과 한 건물 쓴다…1"
+    },
+    {
+      "title": "금감원 출신 이주형 변호사 \"토큰증권, 법은 통과됐다… 이제 승부는 실무\"",
+      "source": "블록체인투데이",
+      "published_kst": "2026-10-14 10:59 KST",
+      "published_ts": 1791943161,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iOXFpNU1CQ0RCeG1hYVd1RWRNSklVODdFVm84TTUzRW5lU2RTcG4tdkRKYWxhaEpkYkRGMW16RlpWalVoYV9FbXc5VzhzOVV0Szg1OUhaaFhVNDdYcEc3a3VJMURhNmZFMG1LTk1JUjQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5iOXFpNU1CQ0RCeG1hYVd1RWRNSklVODdFVm84TTUzRW5lU2RTcG4tdkRKYWxhaEpkYkRGMW16RlpWalVoYV9FbXc5VzhzOVV0Szg1OUhaaFhVNDdYcEc3a3VJMURhNmZFMG1LTk1JUjQ?oc=5\" target=\"_blank\">금감원 출신 이주형 변호사 \""
+    },
+    {
+      "title": "NH투자증권, 디지털 자산 30억원 이상 고객 전담관리 확대",
+      "source": "파이낸셜투데이",
+      "published_kst": "2026-10-14 10:48 KST",
+      "published_ts": 1791942495,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tRXhUR3E0YnZGYkVOa2NpVW9TMkdXZDNUa3JZWWR1dEhRQkU2R1c2X0R1TkEyLUNnUXJhRW0wc0NHM0s1X05qbmM5YmROS2ZzRkxCZVhQSGlWT3JCeWRqNGdLdEVGbUhJUkVR0gFuQVVfeXFMT3dCX2ViQzIwMTJpakxyREtaTFZjem9uWi13c3FmaE4zbDBraUFGUUIwM1ZneVhidV8tWmh2WVNiQkhfSnRzYWhCdnZNTTJhd2pwd0FkLXBtcU9ILWdhWUkzNWh3Slg1VnF5X09VdUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5tRXhUR3E0YnZGYkVOa2NpVW9TMkdXZDNUa3JZWWR1dEhRQkU2R1c2X0R1TkEyLUNnUXJhRW0wc0NHM0s1X05qbmM5YmROS2ZzRkxCZVhQSGlWT3JCeWRqNGdLdEVGbUhJUkVR0gFuQVVfeXFMT3dCX2ViQzIwMTJpakxyREtaTFZjem9uWi"
+    },
+    {
+      "title": "메리츠증권, 글로벌 블록체인 '캔톤'과 손잡았다…금융자산 토큰화 시동",
+      "source": "뉴시스",
+      "published_kst": "2026-10-14 10:40 KST",
+      "published_ts": 1791942017,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HOFVQQUxxRGxTdlZSLWI0LVN1S1MxWl9OdzdMVERsUWt5WXJrTUp6UjJNaEJRLVR2VGxUM0N0RGR6cjNJdTdKUUxJcHdpcGRWb3pSa3doMjNHU2JiWElCc9IBeEFVX3lxTFBGY1JqNlhGbllRVDVoVkMwU09yUGhrTWMtY0Z4ekxVajh2NTNLckJFd3NOWThhV2FhYWZxS19tZEpidVBlZmxwZ1dsSmJWb0Z2OTIyQnJlYkE2dWNoYXR6S0VQM01UN2dWYlNnZHBqRUZXcEFRNTlsOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HOFVQQUxxRGxTdlZSLWI0LVN1S1MxWl9OdzdMVERsUWt5WXJrTUp6UjJNaEJRLVR2VGxUM0N0RGR6cjNJdTdKUUxJcHdpcGRWb3pSa3doMjNHU2JiWElCc9IBeEFVX3lxTFBGY1JqNlhGbllRVDVoVkMwU09yUGhrTWMtY0Z4ekxVajh2NT"
     }
   ]
 }
