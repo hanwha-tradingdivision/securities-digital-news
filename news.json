@@ -1,7 +1,15 @@
 {
   "query": "증권 디지털 OR STO OR 토큰증권 OR 토큰화 OR 디지털자산 OR 디지털채권",
-  "generated_kst": "2026-10-31 11:15 KST",
+  "generated_kst": "2026-11-01 11:06 KST",
   "items": [
+    {
+      "title": "DB증권, 11월 2일 '부산 탄소감축 사업 STO 비즈니스 2차 설명회' 개최",
+      "source": "비즈월드",
+      "published_kst": "2026-10-31 13:24 KST",
+      "published_ts": 1793420640,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZVk9sWVppdGJaMG4tMC1NSTBEaktrT3NEcFJWNFJhV3F0Qmgwa2h0N21YM2lhNmpCcWJ6bC1WNl9WZDZaT3haUVFUazdoMVhkblRYVzBmWjZyV2xWYUVoNzIzOXBTcGxiV0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZVk9sWVppdGJaMG4tMC1NSTBEaktrT3NEcFJWNFJhV3F0Qmgwa2h0N21YM2lhNmpCcWJ6bC1WNl9WZDZaT3haUVFUazdoMVhkblRYVzBmWjZyV2xWYUVoNzIzOXBTcGxiV0E?oc=5\" target=\"_blank\">DB증권, 11월 2일 '부산 탄소감축 사업"
+    },
     {
       "title": "토큰증권, 분산원장 요건 잃으면 일반 전자증권으로 직권 전환",
       "source": "블로터",
@@ -11,28 +19,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBibFVKMHI5WG4yQmsyc2VpdE9BdGt4STN5S2tKZDdWUDhmQVdzR1FmclgwMDFWQXlCMTlEMW1WSTZQVkMwOS1MSm5YZXFOdzZOLThwTEpmdmNEcm1sV1BhRjkyRkt2T0pp0gFsQVVfeXFMTV83bl9XTFdhc2dxenkwTWkzSjNzcHNKME1qQk"
     },
     {
-      "title": "한화투자증권, 체인링크와 디지털자산 플랫폼 구축 전략적 파트너십",
-      "source": "비즈월드",
-      "published_kst": "2026-10-30 22:26 KST",
-      "published_ts": 1793366760,
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2cEdxS0FaclRRUG9uVDYwN0NTWG8yTGdHWVRCdkRLTVgzVWRpT2xFN011RFdfOFdkanU5dVNYdVFLajMzM2dTdmI0WU9vN2g1TGNzTlNNQjJOTVlWNzlJMnlOUzdpMFBXalE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB2cEdxS0FaclRRUG9uVDYwN0NTWG8yTGdHWVRCdkRLTVgzVWRpT2xFN011RFdfOFdkanU5dVNYdVFLajMzM2dTdmI0WU9vN2g1TGNzTlNNQjJOTVlWNzlJMnlOUzdpMFBXalE?oc=5\" target=\"_blank\">한화투자증권, 체인링크와 디지털자산 플랫폼 "
-    },
-    {
       "title": "한화투자증권, 체인링크와 글로벌 디지털자산 플랫폼 구축 파트너십 체결",
       "source": "퍼블릭뉴스통신",
       "published_kst": "2026-10-30 20:33 KST",
       "published_ts": 1793360011,
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CM3B4dk53ZnJjdmdOZHdzejFUS0hVeV9CdnhZMnRSa0N4bERRUVh5UTBUQUl6RHFSS3JiTHRKRXhVU29PYUU0dnRwWTlVZVNNU09raVJZVVBORTYxNWliNUh3b2haR0Z5REFv?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1CM3B4dk53ZnJjdmdOZHdzejFUS0hVeV9CdnhZMnRSa0N4bERRUVh5UTBUQUl6RHFSS3JiTHRKRXhVU29PYUU0dnRwWTlVZVNNU09raVJZVVBORTYxNWliNUh3b2haR0Z5REFv?oc=5\" target=\"_blank\">한화투자증권, 체인링크와 글로벌 디지털자산"
-    },
-    {
-      "title": "미래에셋증권 뉴욕법인, DTCC 토큰화 서비스 초기 참여",
-      "source": "열린뉴스통신",
-      "published_kst": "2026-10-30 18:32 KST",
-      "published_ts": 1793352761,
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xVEFHQ1ZRcS1CSm1zU1pMYXhsY3hvZzcta1R4Mk5SaXZmQjN6dmo4QzZkMDBMQ1VoV1lnaE1PbDhwYW9OZ1ZaZDFEV2FVZERUVHJJeXc1bmxuWUtHUDBXZ3dZYjdSUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xVEFHQ1ZRcS1CSm1zU1pMYXhsY3hvZzcta1R4Mk5SaXZmQjN6dmo4QzZkMDBMQ1VoV1lnaE1PbDhwYW9OZ1ZaZDFEV2FVZERUVHJJeXc1bmxuWUtHUDBXZ3dZYjdSUQ?oc=5\" target=\"_blank\">미래에셋증권 뉴욕법인, DTCC 토큰화 서비스 초기 "
     },
     {
       "title": "미래에셋증권 뉴욕법인, 미국 DTCC 토큰화 서비스 이용 계약",
@@ -47,8 +39,8 @@
       "source": "디지털데일리",
       "published_kst": "2026-10-30 17:51 KST",
       "published_ts": 1793350260,
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00OS1La2hrQWJrd0M4LWF1QjVnNlhQdVRLbXJrSkFVQWZvdXZXZU91TERMMV93MTR4ckI5ZVhzcGx6aWdhT0tzcWpmVXNpQkZRd2FRM3VDOHB2WWZtU2lYOTJHRl8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE00OS1La2hrQWJrd0M4LWF1QjVnNlhQdVRLbXJrSkFVQWZvdXZXZU91TERMMV93MTR4ckI5ZVhzcGx6aWdhT0tzcWpmVXNpQkZRd2FRM3VDOHB2WWZtU2lYOTJHRl8?oc=5\" target=\"_blank\">미래에셋증권, JP모건·모건스탠리와 美 증권 토큰화 시장 "
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lOEgtUmxhQ2pqV1VLTEZ1Y3JoaUc2OGwtU3ZCekpqZ0lDT19pUmZWZzRLMXFQYUxkTUpqUGJ1RnpJVXU2THZJOXNkM2xGRGhxdFFOX0dyRnNrQ1JYSXY1V2NB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lOEgtUmxhQ2pqV1VLTEZ1Y3JoaUc2OGwtU3ZCekpqZ0lDT19pUmZWZzRLMXFQYUxkTUpqUGJ1RnpJVXU2THZJOXNkM2xGRGhxdFFOX0dyRnNrQ1JYSXY1V2NB?oc=5\" target=\"_blank\">미래에셋증권, JP모건·모건스탠리와 美 증권 토큰화 시장 진출<"
     },
     {
       "title": "한화투자증권, 체인링크와 전략적 파트너십 체결",
@@ -65,14 +57,6 @@
       "published_ts": 1793349218,
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EVzN1VGc5Qk1pMkMzYnRXMVJxeWE1dm9vdXhLS2ZuLWRGeVdKZmFQZGV6UmVSYnl4UWNyeWgwSkFFZHFJeml5V2M2MkQwN1d2QTZQb0lmOEJNUQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EVzN1VGc5Qk1pMkMzYnRXMVJxeWE1dm9vdXhLS2ZuLWRGeVdKZmFQZGV6UmVSYnl4UWNyeWgwSkFFZHFJeml5V2M2MkQwN1d2QTZQb0lmOEJNUQ?oc=5\" target=\"_blank\">토스, 첫 해외 M&amp;A…日 치어증권 품는다</a>&nbsp;&nbsp;<f"
-    },
-    {
-      "title": "미래에셋증권 뉴욕법인, 미 DTCC 토큰화서비스 이용계약 체결",
-      "source": "인더뉴스",
-      "published_kst": "2026-10-30 17:27 KST",
-      "published_ts": 1793348828,
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zTUdLVFF1dlBBbmR6QlQ2THM1emdfUWVPZW9nWTA2dzEyOU5faktUZDB0eVNycVZMRHdXUGY1T2IteWZ5ckFyckVYVHE2dzByYnNadVYzYjBTNVc5XzRkcVBsMDY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zTUdLVFF1dlBBbmR6QlQ2THM1emdfUWVPZW9nWTA2dzEyOU5faktUZDB0eVNycVZMRHdXUGY1T2IteWZ5ckFyckVYVHE2dzByYnNadVYzYjBTNVc5XzRkcVBsMDY?oc=5\" target=\"_blank\">미래에셋증권 뉴욕법인, 미 DTCC 토큰화서비스 이용계약 "
     },
     {
       "title": "미래에셋증권 뉴욕법인, 미국 금융 인프라 기관 'DTCC'와 토큰화 서비스 협력",
@@ -115,22 +99,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ha2RhM2U2RnNGTTVneXZUcVh0eXFzcGhYNDZ2S0ZWN2tKOTBBem83dDRvRmxRV1FNWlU2ZmlkbFJSNzN5SEpuWWpkSjVGbVF0dHNhb1QzdGRldEVGNGFhUHctS0g2dTQ?oc=5\" target=\"_blank\">한화투자증권, 체인링크와 맞손…RWA 토큰화 인프라"
     },
     {
-      "title": "한화투자증권, 체인링크와 글로벌 디지털자산 플랫폼 구축 '맞손'",
-      "source": "컨슈머타임스",
-      "published_kst": "2026-10-30 16:43 KST",
-      "published_ts": 1793346205,
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5ZkRfZldMVVEtbnM3ZTBPOU0tUDRGS2RRZXdQWm5CNzYtSk9OUTNlWUtrTHdWclVQNHBlU0tlVHBOSUd5OVNGWkdVNXlnYlRZNm1wTlB1NlhXVG9Ec0xtUkE0eEJPaGNSV0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB5ZkRfZldMVVEtbnM3ZTBPOU0tUDRGS2RRZXdQWm5CNzYtSk9OUTNlWUtrTHdWclVQNHBlU0tlVHBOSUd5OVNGWkdVNXlnYlRZNm1wTlB1NlhXVG9Ec0xtUkE0eEJPaGNSV0E?oc=5\" target=\"_blank\">한화투자증권, 체인링크와 글로벌 디지털자산 "
-    },
-    {
-      "title": "미래에셋증권, 美 DTCC 토큰화 인프라 합류… 日 산코증권도 품었다",
-      "source": "비즈트리뷴",
-      "published_kst": "2026-10-30 16:43 KST",
-      "published_ts": 1793346180,
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oS1JGMHA5NlBzZGdtZEtUYXRqaTN5R0NzOFNSLUlZdWFHMkVXbTRwVWpxdl9GVHpzd01QOVpsblNHNnhFc283Qkd6Q3M2WFlEQ1lVZmZQN2RodnZoajNPVmdsTWxqZ0tTcVVYTUxmeUk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9oS1JGMHA5NlBzZGdtZEtUYXRqaTN5R0NzOFNSLUlZdWFHMkVXbTRwVWpxdl9GVHpzd01QOVpsblNHNnhFc283Qkd6Q3M2WFlEQ1lVZmZQN2RodnZoajNPVmdsTWxqZ0tTcVVYTUxmeUk?oc=5\" target=\"_blank\">미래에셋증권, 美 DTCC 토"
-    },
-    {
       "title": "미래에셋증권 뉴욕법인, DTCC 토큰화 서비스 초기 참여사 합류",
       "source": "라이센스뉴스",
       "published_kst": "2026-10-30 16:41 KST",
@@ -139,28 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSndveVpWUGo1cTFJdGJzcU1rUjI5azZhT25jX3ZjMTBZVFpFWDY4eW1YSXdJT2RYM0lMYjBDU3pORVZERXA4Rk1lV0FUMXRRZWY4OV81YjdaZ1RFWVNOblh2Z2d6d0t2a0hj?oc=5\" target=\"_blank\">미래에셋증권 뉴욕법인, DTCC 토큰화 서"
     },
     {
-      "title": "미래에셋증권 뉴욕법인, 美 DTCC 토큰화 서비스 이용 계약 체결",
-      "source": "뉴시스",
-      "published_kst": "2026-10-30 16:30 KST",
-      "published_ts": 1793345432,
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80dlh1WFQ0T09WaVk0ZDI4RG5IbVFxRnZjS2N0TjdpcXNuWHNiai02dFhWVzl3d3JCZXJkWGJzcGRkOVRGNmtUNEo2QUl0UlgxTS1saUNrVDUzWi1VTEt4aNIBeEFVX3lxTFBLNFFDSG16cDJWUks1Y3dGOFJlT2s2VlNWNG9xTUN2QUppclhYU0JLRjNPM3ZmMGZFWWMxWHA3R2d0SUQ1WjFjOEZlaGVUMmF4WFF3ZTZleUNvTnJLR1BEbkNMbzVDb29pY2Rydjgwd0IweDhEVmlDcg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE80dlh1WFQ0T09WaVk0ZDI4RG5IbVFxRnZjS2N0TjdpcXNuWHNiai02dFhWVzl3d3JCZXJkWGJzcGRkOVRGNmtUNEo2QUl0UlgxTS1saUNrVDUzWi1VTEt4aNIBeEFVX3lxTFBLNFFDSG16cDJWUks1Y3dGOFJlT2s2VlNWNG9xTUN2QUppcl"
-    },
-    {
       "title": "미래에셋증권, 글로벌 금융사와 美 증권 토큰화 시장 선점 박차 By EBN",
       "source": "Investing.com 한국어",
       "published_kst": "2026-10-30 16:29 KST",
       "published_ts": 1793345340,
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TN3BsZEFteTFIQzdicXd3WjZwRS1xcnlXZ2lPMldaY3BOSWNjZ0x1UzFmZVBiMjVHOUxLNVRYa3VTZ0ktbWZnaWVjVTJjeFMtVkYzd0x1dzhkSGR3NDhNb0JpQnowdVRrME1IdVhBSHk?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1TN3BsZEFteTFIQzdicXd3WjZwRS1xcnlXZ2lPMldaY3BOSWNjZ0x1UzFmZVBiMjVHOUxLNVRYa3VTZ0ktbWZnaWVjVTJjeFMtVkYzd0x1dzhkSGR3NDhNb0JpQnowdVRrME1IdVhBSHk?oc=5\" target=\"_blank\">미래에셋증권, 글로벌 금융사와"
-    },
-    {
-      "title": "미래에셋증권 뉴욕법인, 美 DTCC 토큰화 서비스 계약…글로벌 금융사 20곳에 포함",
-      "source": "비욘드포스트",
-      "published_kst": "2026-10-30 16:21 KST",
-      "published_ts": 1793344880,
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoSUJiRC1rRDZYM1UyVUx4bWV3X3hGd1JmNzFHOVRFQVpfX094OUpmMm1yQjhPVXRTMGdaRkg2SWozWnZQM2lZWW1yV042N2M1OFI2TGF4MGdxdUFJSTd4TEY3Q01TQzl2Nkp0TExQdm44VnM4ekVENmUzSHk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBoSUJiRC1rRDZYM1UyVUx4bWV3X3hGd1JmNzFHOVRFQVpfX094OUpmMm1yQjhPVXRTMGdaRkg2SWozWnZQM2lZWW1yV042N2M1OFI2TGF4MGdxdUFJSTd4TEY3Q01TQzl2Nkp0TExQdm44VnM4ekVENmUzSHk?oc=5\" target=\"_blank\">"
     },
     {
       "title": "미래에셋증권, 美 증권 토큰화 시장 진출…DTCC와 이용 계약",
@@ -177,14 +129,6 @@
       "published_ts": 1793344661,
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MM1ozakJsSm5Nd0Mwbmx4MjJSSUJVdmNFaVEzeVFaanZrQS1Qa20tTjZ1OWMwYy1RVFhyMkxzYXJwQjcxZEI2NEFycW9CQUFmc2k4SWV0a0U4ZGV6QUpPS0J5UWJaNTlU0gFuQVVfeXFMT0NfVGplaDd3TDlTUzdJdkg0OEpHQVFhTXFfWmZ5NmR5dVpQMG1CNnJhd3psdldtbnZBczJWSTMza0YtSFI5VjhzMHI0SjVvVDZkb1BGaGljaFZCb2dtWWZqVUY3S3FRU1A2UENZTFE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MM1ozakJsSm5Nd0Mwbmx4MjJSSUJVdmNFaVEzeVFaanZrQS1Qa20tTjZ1OWMwYy1RVFhyMkxzYXJwQjcxZEI2NEFycW9CQUFmc2k4SWV0a0U4ZGV6QUpPS0J5UWJaNTlU0gFuQVVfeXFMT0NfVGplaDd3TDlTUzdJdkg0OEpHQVFhTXFfWm"
-    },
-    {
-      "title": "미래에셋증권, 美 DTCC 토큰화 인프라 합류…JP모건·모건스탠리와 나란히",
-      "source": "인사이트코리아",
-      "published_kst": "2026-10-30 16:16 KST",
-      "published_ts": 1793344596,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yczFuMFlRNE5GaUFUb1JYRXNVbUVMb2pBTm5fTWlRWEU0NXRyMko0X0RJdk4yU2VKcmlPdFFNT2dNTDdLVDhqN2F1OTFKbWtHcmY3eHZQUld1MXRYNUNCNFFzTWU1ZkxlY3hoV25MU1RJYzDSAXdBVV95cUxNVlhjX0VIdG1PWFRCdDhleVlJWWtCSEp4U05zOGlFM1hrek0zYlR4S094ZmFzYzJCbW5Fd3JJY2tvZ2YzdWNJZmVDeHVHZDhiTDVKODhVWkxxNk9IOEQ1dXZtMDNUUEd6dVpkMTBkemNyOS1tWXhzYw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE0yczFuMFlRNE5GaUFUb1JYRXNVbUVMb2pBTm5fTWlRWEU0NXRyMko0X0RJdk4yU2VKcmlPdFFNT2dNTDdLVDhqN2F1OTFKbWtHcmY3eHZQUld1MXRYNUNCNFFzTWU1ZkxlY3hoV25MU1RJYzDSAXdBVV95cUxNVlhjX0VIdG1PWFRCdDhleV"
     },
     {
       "title": "한화투자증권, 美 체인링크와 실물자산 토큰화 플랫폼 조성",
@@ -235,12 +179,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LQmU1LUdZa3pLMkZoMG1mYk5DRXR2dEpMXzRLUWk2NVlIeEl2MklvVGpTWU5yOHBidHdrZm1vLTVzNGxXa1dZclgzUzR5VW9LbEdUQXJENFhIbmdHUkczeTBpWWI?oc=5\" target=\"_blank\">미래에셋證 뉴욕법인, 美 DTCC 증권 토큰화 서비스 이용"
     },
     {
-      "title": "미래에셋·美 DTCC, ‘證 토큰화 서비스’ 계약",
-      "source": "서울경제",
-      "published_kst": "2026-10-30 15:47 KST",
-      "published_ts": 1793342845,
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IcHQyZVJ2MU9YRHJ0VzlPTk56LTZoRlBTdjhhVG1uSkdDUEtNdTZFZmE5Q0FKVWFjSmhTODQ2MU85VVB4cEwxOHNwTVN3NkphNnfSAVNBVV95cUxPcHVwdkRyclZsTk9rVDljbXNlVmRlUlNPOEhLdWhXNFVPcnIzekRhcFVmQUloRUVtUUVhMm9JY3NQM1lZZ1dDVGJNcEIyQmZqX0ZIQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IcHQyZVJ2MU9YRHJ0VzlPTk56LTZoRlBTdjhhVG1uSkdDUEtNdTZFZmE5Q0FKVWFjSmhTODQ2MU85VVB4cEwxOHNwTVN3NkphNnfSAVNBVV95cUxPcHVwdkRyclZsTk9rVDljbXNlVmRlUlNPOEhLdWhXNFVPcnIzekRhcFVmQUloRUVtUU"
+      "title": "미래에셋증권, 디지털 자산 영토 확장...美 DTCC 토큰화 서비스 도입",
+      "source": "아시아에이",
+      "published_kst": "2026-10-30 15:59 KST",
+      "published_ts": 1793343543,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JVHlnYjR0bFdQbnpsZG5NRlRYWG9xLXVCNUtDby0xVFYwYzJZblJRUGEtT2ZfeHZLMWpkLUw1RlBZcUdHRHZ3NjZ0NW05dHVwd0VOR2dacW9GaWFXNWhIcmpDVVZBenpnUGfSAW5BVV95cUxOSDJFLVBLd0F3YkxKQmhwdkVsQXNCMFljQVlWd3Nqa0pOZmx0cG9yLVlGTllDUnNKMlNPbXpEY1Y2enBWVzEwYThqWXFGb2EwX1RTaG5NRGJlQkw2MXUwSWdEbWRYRUtSVFl2NndoUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9JVHlnYjR0bFdQbnpsZG5NRlRYWG9xLXVCNUtDby0xVFYwYzJZblJRUGEtT2ZfeHZLMWpkLUw1RlBZcUdHRHZ3NjZ0NW05dHVwd0VOR2dacW9GaWFXNWhIcmpDVVZBenpnUGfSAW5BVV95cUxOSDJFLVBLd0F3YkxKQmhwdkVsQXNCMFljQV"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 증권사 소식...대신증권·DB증권",
+      "source": "더밸류뉴스",
+      "published_kst": "2026-10-30 15:45 KST",
+      "published_ts": 1793342700,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRQlFqZzY4NXFQeF9rcUV6QXlJcjU0VUJPSFdBVzdBSHpQcjZyX1QyRDVMM3k4cG0yNXJjaG1hVG9FMnFxenllV2Q5eDJlNnlZcE1leg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRQlFqZzY4NXFQeF9rcUV6QXlJcjU0VUJPSFdBVzdBSHpQcjZyX1QyRDVMM3k4cG0yNXJjaG1hVG9FMnFxenllV2Q5eDJlNnlZcE1leg?oc=5\" target=\"_blank\">[더밸류 브리핑] 오늘의 증권사 소식...대신증권·DB증권</a>&nbsp;&nbsp;<font"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 한화금융 소식...한화투자증권· 한화자산운용",
+      "source": "더밸류뉴스",
+      "published_kst": "2026-10-30 15:37 KST",
+      "published_ts": 1793342272,
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nYnRCNmVnTzRTZVRrbXdjZkZUVlZNMnkwTDlhU0lzeVBwVWY4NTdvSXc1d1hCaGZ2S2ZVTU5rR29XUkMyOFNvWklueUxtM0kwRlZNNQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nYnRCNmVnTzRTZVRrbXdjZkZUVlZNMnkwTDlhU0lzeVBwVWY4NTdvSXc1d1hCaGZ2S2ZVTU5rR29XUkMyOFNvWklueUxtM0kwRlZNNQ?oc=5\" target=\"_blank\">[더밸류 브리핑] 오늘의 한화금융 소식...한화투자증권· 한화자산운용</a>&nbsp;&nbsp"
     },
     {
       "title": "미래에셋증권 뉴욕법인, 美 DTCC 토큰화 서비스 계약…글로벌 금융사 20곳에 포함",
@@ -259,14 +219,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE94TnhQTHAwX0ltREI5T1RkQnloeHdRVlRDVWN0UHpQX0V4czFES0hxcW44Q1ktNnpGb0UxZHVndkozSDZFSWZ1czlfM3I0bG5CRTAyMWZScEtZWnhBY3p4Z2xMWVRyb0RQZ0VBa0xTeTY?oc=5\" target=\"_blank\">미래에셋증권, JP모건·모건스"
     },
     {
-      "title": "미래에셋증권, 美 DTCC 토큰화 서비스 합류…“증권 디지털 전환”",
-      "source": "마이데일리",
-      "published_kst": "2026-10-30 15:30 KST",
-      "published_ts": 1793341834,
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95dmo1d3JwaFFOTlM2eDBNTlZobmFlZ2R1SXJOZEJXXy1YVFRNOEJpZUlXTFY5REtlRGlfbW9fN0JQTVlGNGVDR25OVFhQVDVsRWZHb0JLU05ydnVvbnNtdg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE95dmo1d3JwaFFOTlM2eDBNTlZobmFlZ2R1SXJOZEJXXy1YVFRNOEJpZUlXTFY5REtlRGlfbW9fN0JQTVlGNGVDR25OVFhQVDVsRWZHb0JLU05ydnVvbnNtdg?oc=5\" target=\"_blank\">미래에셋증권, 美 DTCC 토큰화 서비스 합류…“증권 디지털 전환”"
-    },
-    {
       "title": "증권사, 디지털자산 사업 확대… 글로벌 협력 구축 속도전",
       "source": "IT조선",
       "published_kst": "2026-10-30 15:27 KST",
@@ -281,14 +233,6 @@
       "published_ts": 1793340789,
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RNzd3cno3ZTNaNnJrQUJyVnhNNkJFMndfaTRPSmEyVzB0VW1lekFXN21qbDlLQkVKd01TREx0cDZGU1ptTmluUS1SOWdHSWZFMkNlUTFidTFxdWZxRlRHZGtiQkZJaGx6eV9kWEt0YWvSAXRBVV95cUxPMzRZS19Vbl9VMkY1bHpPY21hZHZGMm9zY0d0ZElMZzZmcVVEcVNHRkR1WFI0MEZJNWo2MnRGN0pjc0REbUtYcGpZWmlMTU1NWnM4eGhBMm40V19MT3BnNWh0dk5xR1JEUENZcUk1TUQwTHlyRA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5RNzd3cno3ZTNaNnJrQUJyVnhNNkJFMndfaTRPSmEyVzB0VW1lekFXN21qbDlLQkVKd01TREx0cDZGU1ptTmluUS1SOWdHSWZFMkNlUTFidTFxdWZxRlRHZGtiQkZJaGx6eV9kWEt0YWvSAXRBVV95cUxPMzRZS19Vbl9VMkY1bHpPY21hZH"
-    },
-    {
-      "title": "미래에셋증권, 美 DTCC 토큰화 서비스 합류…JP모건과 초기 참여",
-      "source": "이지경제",
-      "published_kst": "2026-10-30 15:10 KST",
-      "published_ts": 1793340615,
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zOWl1RDJTaWtGOGRQQ09kM1g0TWEyZF9nRGdyZ21KVVlkYWdGd0JYTkNMeWVBbEJyZUxfdGl3QjRoZ2N2eW9FRldCWjBvOWoxQ3A4UTNwLTVCQ0FQSk9iUUpMV1k5MDVreFRuWlJR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE0zOWl1RDJTaWtGOGRQQ09kM1g0TWEyZF9nRGdyZ21KVVlkYWdGd0JYTkNMeWVBbEJyZUxfdGl3QjRoZ2N2eW9FRldCWjBvOWoxQ3A4UTNwLTVCQ0FQSk9iUUpMV1k5MDVreFRuWlJR?oc=5\" target=\"_blank\">미래에셋증권, 美 DTCC 토큰화 "
     },
     {
       "title": "미래에셋증권 뉴욕법인, 美 토큰화 서비스 이용계약 체결",
@@ -395,12 +339,68 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ueFdob1RsNEg2OG5YZk1xV2x4RVhFdzNlem5sUjRhUFdZZmVXaU5Fc0VSajFkTktDQTAtd1hyRE5pZkh3NVVPMjBRWW8wV0xZaUJMVC1RWVYtSmN3SkRIMlBlaFpaUVNj?oc=5\" target=\"_blank\">[증권 & Now] DB증권, '로컬창업페스타 i"
     },
     {
+      "title": "미래에셋증권, DTCC 토큰화 서비스 합류…美 디지털자산 확대",
+      "source": "뉴스포스트",
+      "published_kst": "2026-10-30 14:32 KST",
+      "published_ts": 1793338324,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iSWNWQmJ1M0ZwWHliYjBWY3hPR2VPR1l1eEpfZHJpWlZlbnFpeVlYbl9rUXJvWWdPM19pRThWMlRiWl8xLXpoVlFDR3huNUh6RDF1ZXBMd1dpVHVMejE1V3JDeE5pWjk2X0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9iSWNWQmJ1M0ZwWHliYjBWY3hPR2VPR1l1eEpfZHJpWlZlbnFpeVlYbl9rUXJvWWdPM19pRThWMlRiWl8xLXpoVlFDR3huNUh6RDF1ZXBMd1dpVHVMejE1V3JDeE5pWjk2X0E?oc=5\" target=\"_blank\">미래에셋증권, DTCC 토큰화 서비스 합류…"
+    },
+    {
       "title": "미래에셋증권 뉴욕법인, DTCC 토큰화 서비스 이용 계약 체결",
       "source": "한국NGO신문",
       "published_kst": "2026-10-30 14:25 KST",
       "published_ts": 1793337913,
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRHpxM2RKbG8xSzlreGEzaG0xbXFIXzdfNUJ0U1pfdVNTLVBUZ0ZaLVk3ejd2c3NwcUVENmY2eWs4b21GYmVjNzllcl9mZDB0ek92SjlESWxabnpoYS1nSzlfd1I0M2tF?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRHpxM2RKbG8xSzlreGEzaG0xbXFIXzdfNUJ0U1pfdVNTLVBUZ0ZaLVk3ejd2c3NwcUVENmY2eWs4b21GYmVjNzllcl9mZDB0ek92SjlESWxabnpoYS1nSzlfd1I0M2tF?oc=5\" target=\"_blank\">미래에셋증권 뉴욕법인, DTCC 토큰화 서비스 이"
+    },
+    {
+      "title": "DB증권, 제주 지역 실물자산 STO 활용 방안 논의",
+      "source": "메트로신문",
+      "published_kst": "2026-10-30 14:23 KST",
+      "published_ts": 1793337829,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlOUxldVNJVTlSRGNscmt4Mm1QTENmbWpXeVhBUk1yeUJ4RjhzSG52VG5UY1J5WU9Qd2R6eU93dnc1UHFyRkNSb2dFMVJtU0taWl9wREF2aGdNRHV5ekVZRw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlOUxldVNJVTlSRGNscmt4Mm1QTENmbWpXeVhBUk1yeUJ4RjhzSG52VG5UY1J5WU9Qd2R6eU93dnc1UHFyRkNSb2dFMVJtU0taWl9wREF2aGdNRHV5ekVZRw?oc=5\" target=\"_blank\">DB증권, 제주 지역 실물자산 STO 활용 방안 논의</a>&nbs"
+    },
+    {
+      "title": "한화투자증권, 실물자산 토큰화·해외 유통 추진…체인링크와 협력",
+      "source": "디지털데일리",
+      "published_kst": "2026-10-30 14:11 KST",
+      "published_ts": 1793337073,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBob1dXc0tPM0VCdFRPSnRZWHdCTzdldWE1Yks1dldKMl9YTHZVQjNsQmlGX3FqQml3NE1ocEFxTkVnT002QVB1RDVEQXc2MGZiYUNsbWJZZTd2UnVvT2JQaXF5X1c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBob1dXc0tPM0VCdFRPSnRZWHdCTzdldWE1Yks1dldKMl9YTHZVQjNsQmlGX3FqQml3NE1ocEFxTkVnT002QVB1RDVEQXc2MGZiYUNsbWJZZTd2UnVvT2JQaXF5X1c?oc=5\" target=\"_blank\">한화투자증권, 실물자산 토큰화·해외 유통 추진…체인링크와 "
+    },
+    {
+      "title": "DB증권, '로컬창업페스타 in JEJU'에서 STO 활용 방안 논의 - 머니투데이",
+      "source": "머니투데이",
+      "published_kst": "2026-10-30 14:11 KST",
+      "published_ts": 1793337068,
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNUjBLWTc4ZkRvckFxUnBUclY2RnVxeGFYZ21HNnV1UDU3Q2tEMEE3eTY3SHpHa21CQU83MkM1RlZwNWlpbjBhUzcxZlRJLThVV29SMGJsMGRBWVVTeHVnMjI2MXpiWWpK0gFuQVVfeXFMTkxUV2pvWjFnU3pIZXhUYnlyUlhLX3dfOTFFb3AwOFVvTjI3eHNxR2VWbHUtdnVkUWZMSHNvMHpwNVc0Vzk5elFEZHo5Vmg0YUpyMlR2amE5cWk2c29RT0VhM0NxaFkxRmdMQUhtOGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNUjBLWTc4ZkRvckFxUnBUclY2RnVxeGFYZ21HNnV1UDU3Q2tEMEE3eTY3SHpHa21CQU83MkM1RlZwNWlpbjBhUzcxZlRJLThVV29SMGJsMGRBWVVTeHVnMjI2MXpiWWpK0gFuQVVfeXFMTkxUV2pvWjFnU3pIZXhUYnlyUlhLX3dfOTFFb3"
+    },
+    {
+      "title": "한화투자증권, 글로벌 RWA 플랫폼 구축 속도…체인링크 ‘맞손’",
+      "source": "뉴스투데이",
+      "published_kst": "2026-10-30 14:09 KST",
+      "published_ts": 1793336940,
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CS2xlZm9wbWp5YVpLcmNEQ3RHcUZ4WW9qcGUtcmhUcnZRNDFaQ3Bvdlp2UmRqdjlCRHZNRUN4eDVWS0lOUVZ3eVJhMExpbHFSaEh2THhWc0ZBNWRQSHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CS2xlZm9wbWp5YVpLcmNEQ3RHcUZ4WW9qcGUtcmhUcnZRNDFaQ3Bvdlp2UmRqdjlCRHZNRUN4eDVWS0lOUVZ3eVJhMExpbHFSaEh2THhWc0ZBNWRQSHc?oc=5\" target=\"_blank\">한화투자증권, 글로벌 RWA 플랫폼 구축 속도…체인링크 ‘맞손’</a>&"
+    },
+    {
+      "title": "대신증권, IRP 10년 수익률 6.12%…증권업계 1위",
+      "source": "디지털데일리",
+      "published_kst": "2026-10-30 14:03 KST",
+      "published_ts": 1793336606,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01endkU3VvYlI5dUVHWXBEdC1jTHhoOC1sY2I5Xy1VbGpEdkhwS0E4WE9iYWkwNXFmdTFjXzU1MVNpQ3dfdl9jY3BmR2JUOXNTRlNlMG1QcXpJZGNtbnY3VUNDM0o?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE01endkU3VvYlI5dUVHWXBEdC1jTHhoOC1sY2I5Xy1VbGpEdkhwS0E4WE9iYWkwNXFmdTFjXzU1MVNpQ3dfdl9jY3BmR2JUOXNTRlNlMG1QcXpJZGNtbnY3VUNDM0o?oc=5\" target=\"_blank\">대신증권, IRP 10년 수익률 6.12%…증권업계 1위<"
+    },
+    {
+      "title": "한화투자증권, 체인링크와 디지털자산 플랫폼 구축 협력",
+      "source": "메트로신문",
+      "published_kst": "2026-10-30 14:00 KST",
+      "published_ts": 1793336441,
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JYUdUWjJqM2hoaFpLaFRibFZzS3U3ZTlXcmFMOEpfSDdWNVZwQXV6TVVFcDFrYUlpblVRUlViN0I0dkhGa2hyOGJwTEdHR2RKOVRtWk1TSV9SN29jZ1BVYQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JYUdUWjJqM2hoaFpLaFRibFZzS3U3ZTlXcmFMOEpfSDdWNVZwQXV6TVVFcDFrYUlpblVRUlViN0I0dkhGa2hyOGJwTEdHR2RKOVRtWk1TSV9SN29jZ1BVYQ?oc=5\" target=\"_blank\">한화투자증권, 체인링크와 디지털자산 플랫폼 구축 협력</a>&nbs"
     }
   ]
 }
